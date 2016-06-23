@@ -1,0 +1,19 @@
+{
+    "texture": "Cooking:items",
+    "textureSize": [512, 512],
+    "grid": {
+        "tileSize": [64, 64],
+        "gridDimensions": [8, 8],
+        "tileNames": [
+            "Branch", "Fiber", "Twig", "Stone", "Flint", "SharpStone", "ToolStone", "Resin",
+            "StoneKnifeBlade", "AxeHammerHead", "StoneArrowHead", "StoneHammerHead", "Mortar", "", "", "",
+            "StoneKnife", "CrudeAxeHammer", "StoneAxe", "StoneHammer", "StoneHoe", "", "", "",
+            "", "", "", "", "", "", "", "",
+            "WoodPlank", "WoodenBucketEmpty", "WoodenBucket", "WoodenHammer", "UnlitTorch", "Basket", "Stick",
+            "DiggingStick",
+            "Firewood", "", "", "", "", "", "", "",
+            "Clay", "Brick", "SmallPottery", "Pottery1", "Pottery2", "", "", "",
+            "RockSalt", "GroundSalt", "Bread", "CornFlour", "CookedCorn", "Rice", "CookedRice", ""
+        ]
+    }
+}

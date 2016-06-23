@@ -1,0 +1,13 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:items#CornFlour",
+        "stackId": "Cooking:cornFlour"
+    },
+    "DisplayName": {
+        "name": "Corn Flour"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:flour"
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "BlockDropGrammar": {
+        "itemDrops": ["2-3*Cooking:RockSalt"]
+    }
+}

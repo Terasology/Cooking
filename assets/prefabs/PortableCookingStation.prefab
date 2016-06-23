@@ -1,0 +1,101 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:PortableCookingStation",
+        "stackId": "Cooking:portableCookingStation",
+        "maxStackSize": 1
+    },
+    "DisplayName": {
+        "name": "Portable Cooking Station"
+    },
+    "BlockDropGrammar": {
+        "itemDrops": ["4*WorkstationCrafting:Brick"]
+    },
+    "InteractionTarget": {},
+    "InteractionScreen": {
+        "screen": "Cooking:CookingStation"
+    },
+    "Workstation": {
+        "supportedProcessTypes": {
+            "Machines:Furnace": true,
+            "Workstation:FillFluid": true,
+            "Cooking:Cooking": false
+        }
+    },
+    "WorkstationInventory": {
+        "slotAssignments": {
+            "FLUID_CONTAINER_INPUT": {
+                "slotStart": 0,
+                "slotCount": 1
+            },
+            "FLUID_CONTAINER_OUTPUT": {
+                "slotStart": 1,
+                "slotCount": 1
+            },
+            "INPUT": {
+                "slotStart": 2,
+                "slotCount": 6
+            },
+            "TOOL": {
+                "slotStart": 8,
+                "slotCount": 1
+            },
+            "FUEL": {
+                "slotStart": 9,
+                "slotCount": 1
+            },
+            "OUTPUT": {
+                "slotStart": 10,
+                "slotCount": 1
+            },
+
+            "FLUID_INPUT": {
+                "slotStart": 0,
+                "slotCount": 1
+            }
+        }
+    },
+    "CraftingStation": {
+        "type": "Cooking:CookingStation",
+        "workstationUITexture": ""
+    },
+    "Inventory": {
+        "privateToOwner": false,
+        "itemSlots": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "HeatProducer": {
+        "temperatureAbsorptionRate": 1,
+        "temperatureLossRate": 0.8,
+        "maximumTemperature": 300
+    },
+    "PortableWorkstation": {
+
+    },
+    "FluidInventory": {
+        "fluidSlots": [ 0 ],
+        "maximumVolumes": [ 10 ]
+    },
+    "Health": {
+        "currentHealth": 5,
+        "maxHealth": 5,
+        "regenRate": 1,
+        "waitBeforeRegen": 2,
+        "destroyEntityOnNoHealth": true
+    },
+    "ActAsBlock": {
+        "block": "WorkstationCrafting:StandardWoodStation"
+    },
+    "DropBlockInventory": {}
+}

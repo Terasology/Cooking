@@ -1,0 +1,6 @@
+{
+    "basedOn": "core:mineral",
+    "entity": {
+        "prefab": "Cooking:Halite"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:items#CookedRice",
+        "stackId": "Cooking:cookedRice",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Cooked Rice"
+    },
+    "Food": {
+        "filling": 2
+    },
+    "Drink": {
+        "filling": 1
+    }
+}

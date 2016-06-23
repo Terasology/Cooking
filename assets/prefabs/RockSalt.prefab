@@ -1,0 +1,14 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:items#RockSalt",
+        "stackId": "Cooking:rockSalt"
+    },
+    "DisplayName": {
+        "name": "Rock Salt"
+    },
+    "MillProcessed": {
+        "millLength": 6000,
+        "itemResult": "1*Cooking:GroundSalt"
+    }
+}

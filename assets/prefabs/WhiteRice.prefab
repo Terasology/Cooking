@@ -1,0 +1,13 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:items#Rice",
+        "stackId": "Cooking:whiteRice"
+    },
+    "DisplayName": {
+        "name": "Grains of White Rice"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:whiteRice"
+    }
+}

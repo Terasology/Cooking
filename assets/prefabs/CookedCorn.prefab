@@ -1,0 +1,17 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:items#CookedCorn",
+        "stackId": "Cooking:cookedCorn",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Cooked Corn"
+    },
+    "Food": {
+        "filling": 1
+    },
+    "Drink": {
+        "filling": 1
+    }
+}

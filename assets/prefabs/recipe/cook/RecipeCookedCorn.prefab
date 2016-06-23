@@ -1,0 +1,16 @@
+{
+    "ProcessDefinition": {
+        "processType": "Cooking:Cooking"
+    },
+    "CraftingStationRecipe": {
+        "recipeId": "Hot food|Cooking:CookedCorn",
+
+        "recipeComponents": ["1*PlantPack:corn"],
+        "recipeTools": ["1*knife"],
+        "recipeFluids": ["0.25*Fluid:Water"],
+        "requiredTemperature": 90,
+        "processingDuration": 5000,
+
+        "itemResult": "1*Cooking:CookedCorn"
+    }
+}

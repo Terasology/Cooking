@@ -1,0 +1,13 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:BrownRice",
+        "stackId": "Cooking:brownRice"
+    },
+    "DisplayName": {
+        "name": "Grains of Brown Rice"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:brownRice"
+    }
+}
