@@ -1,0 +1,17 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:items#CookedRice",
+        "stackId": "Cooking:cookedKale",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Cooked Kale"
+    },
+    "Food": {
+        "filling": 2
+    },
+    "Drink": {
+        "filling": 2
+    }
+}

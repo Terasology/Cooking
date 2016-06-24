@@ -1,0 +1,15 @@
+{
+    "ProcessDefinition": {
+        "processType": "Cooking:Cooking"
+    },
+    "CraftingStationRecipe": {
+        "recipeId": "Hot food|Cooking:CookedTurnip",
+
+        "recipeComponents": ["1*PlantPack:turnip"],
+        "recipeFluids": ["0.25*Fluid:Water"],
+        "requiredTemperature": 100,
+        "processingDuration": 4500,
+
+        "itemResult": "1*Cooking:CookedTurnip"
+    }
+}
