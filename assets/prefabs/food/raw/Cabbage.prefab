@@ -1,15 +1,15 @@
 {
     "parent": "engine:iconItem",
     "Item": {
-        "icon": "Cooking:Kale",
-        "stackId": "Cooking:kale",
+        "icon": "Cooking:Cabbage",
+        "stackId": "Cooking:cabbage",
         "consumedOnUse": true
     },
     "DisplayName": {
-        "name": "Kale"
+        "name": "Cabbage"
     },
     "CraftingStationIngredient": {
-        "type": "Cooking:kale"
+        "type": "Cooking:cabbage"
     },
     "Food": {
         "filling": 0.7

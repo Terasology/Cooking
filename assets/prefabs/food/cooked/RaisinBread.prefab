@@ -1,0 +1,17 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:items#Bread",
+        "stackId": "Cooking:raisinBread",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Raisin Bread"
+    },
+    "Food": {
+        "filling": 5
+    },
+    "Drink": {
+        "filling": 1
+    }
+}

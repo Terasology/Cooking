@@ -1,17 +1,17 @@
 {
     "parent": "engine:iconItem",
     "Item": {
-        "icon": "Cooking:Kale",
-        "stackId": "Cooking:kale",
+        "icon": "Cooking:Raisin",
+        "stackId": "Cooking:raisin",
         "consumedOnUse": true
     },
     "DisplayName": {
-        "name": "Kale"
+        "name": "Raisin"
     },
     "CraftingStationIngredient": {
-        "type": "Cooking:kale"
+        "type": "Cooking:raisin"
     },
     "Food": {
-        "filling": 0.7
+        "filling": 0.5
     }
 }
