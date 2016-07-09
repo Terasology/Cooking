@@ -2,24 +2,22 @@
     "parent": "engine:iconItem",
     "Item": {
         "icon": "Cooking:PortableCookingStation",
-        "stackId": "Cooking:portableCookingStation",
+        "stackId": "Cooking:mixingBowl",
         "maxStackSize": 1
     },
     "DisplayName": {
-        "name": "Portable Cooking Station"
+        "name": "Mixing Bowl"
     },
     "BlockDropGrammar": {
-        "itemDrops": ["4*WorkstationCrafting:Brick"]
+        "itemDrops": ["4*WorkstationCrafting:Clay"]
     },
     "InteractionTarget": {},
     "InteractionScreen": {
-        "screen": "Cooking:CookingStation"
+        "screen": "Cooking:MixingBowl"
     },
     "Workstation": {
         "supportedProcessTypes": {
-            "Machines:Furnace": true,
             "Workstation:FillFluid": true,
-            "Cooking:Cooking": false,
             "Cooking:FoodMixing": false
         }
     },
@@ -41,15 +39,10 @@
                 "slotStart": 8,
                 "slotCount": 1
             },
-            "FUEL": {
+            "OUTPUT": {
                 "slotStart": 9,
                 "slotCount": 1
             },
-            "OUTPUT": {
-                "slotStart": 10,
-                "slotCount": 1
-            },
-
             "FLUID_INPUT": {
                 "slotStart": 0,
                 "slotCount": 1
@@ -72,14 +65,8 @@
             0,
             0,
             0,
-            0,
             0
         ]
-    },
-    "HeatProducer": {
-        "temperatureAbsorptionRate": 1,
-        "temperatureLossRate": 0.8,
-        "maximumTemperature": 300
     },
     "PortableWorkstation": {
 

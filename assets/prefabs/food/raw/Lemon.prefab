@@ -1,0 +1,20 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Lemon",
+        "stackId": "Cooking:lemon",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Lemon"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:lemon"
+    },
+    "Food": {
+        "filling": 0.7
+    },
+    "Drink": {
+        "filling": 0.5
+    }
+}

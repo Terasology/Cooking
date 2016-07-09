@@ -1,0 +1,17 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Guacamole",
+        "stackId": "Cooking:guacamole",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Guacamole"
+    },
+    "Food": {
+        "filling": 6
+    },
+    "Drink": {
+        "filling": 2
+    }
+}

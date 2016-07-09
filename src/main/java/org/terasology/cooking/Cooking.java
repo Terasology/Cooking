@@ -17,6 +17,7 @@ package org.terasology.cooking;
 
 public class Cooking {
     public static final String COOKING_PROCESS_TYPE = "Cooking:Cooking";
+    public static final String FOOD_MIXING_PROCESS_TYPE = "Cooking:FoodMixing";
 
     private Cooking() {
     }

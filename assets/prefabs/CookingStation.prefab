@@ -10,7 +10,8 @@
         "supportedProcessTypes": {
             "Machines:Furnace": true,
             "Workstation:FillFluid": true,
-            "Cooking:Cooking": false
+            "Cooking:Cooking": false,
+            "Cooking:FoodMixing": false
         }
     },
     "WorkstationInventory": {
