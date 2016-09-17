@@ -85,5 +85,11 @@
     "ActAsBlock": {
         "block": "WorkstationCrafting:StandardWoodStation"
     },
-    "DropBlockInventory": {}
+    "DropBlockInventory": {},
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+            "A bowl that can be used to mix foods."
+        ]
+    }
 }

@@ -98,5 +98,11 @@
     "ActAsBlock": {
         "block": "WorkstationCrafting:StandardWoodStation"
     },
-    "DropBlockInventory": {}
+    "DropBlockInventory": {},
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+            "Yhe portable version of the Cooking Station."
+        ]
+    }
 }

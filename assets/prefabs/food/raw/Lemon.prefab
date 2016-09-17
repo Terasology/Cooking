@@ -16,5 +16,12 @@
     },
     "Drink": {
         "filling": 0.5
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A small yellow, oval citrus fruit with thick skin and fragrant, acidic juice.",
+             "Restores 0.7 food and 0.5 water."
+        ]
     }
 }

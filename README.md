@@ -3,6 +3,9 @@ Cooking
 
 This module adds several raw food items and the ability to cook food for better restoration of hunger and thrist.
 
+Credits for descriptions:
+
+http://homecooking.about.com/od/spices/a/saltvarieties.htm
 
 Credits for images:
 

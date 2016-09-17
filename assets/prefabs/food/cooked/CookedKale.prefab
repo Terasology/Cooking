@@ -13,5 +13,12 @@
     },
     "Drink": {
         "filling": 1.2
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A nicely cooked head of kale.",
+             "Restores 2 food and 1.2 water."
+        ]
     }
 }

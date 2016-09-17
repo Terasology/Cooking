@@ -13,5 +13,12 @@
     },
     "Drink": {
         "filling": 0
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A nicely cooked onion. It's still rather stinging to consume.",
+             "Restores 1 food and 0 water."
+        ]
     }
 }

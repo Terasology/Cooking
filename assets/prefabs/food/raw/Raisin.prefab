@@ -13,5 +13,12 @@
     },
     "Food": {
         "filling": 0.5
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A grape that has been dried.",
+             "Restores 0.5 food."
+        ]
     }
 }

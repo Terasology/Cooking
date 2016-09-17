@@ -86,5 +86,11 @@
     "ActAsBlock": {
         "block": "WorkstationCrafting:StandardWoodStation"
     },
-    "DropBlockInventory": {}
+    "DropBlockInventory": {},
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+            "A two-block station that allows the user to cook or bake food. Place two brick blocks next to each other, place two cobblestone eighth stone blocks on the top of each, and hit them a hammer to build this station."
+        ]
+    }
 }

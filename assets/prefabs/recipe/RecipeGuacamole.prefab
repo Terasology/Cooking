@@ -11,5 +11,20 @@
         "processingDuration": 5000,
 
         "itemResult": "1*Cooking:Guacamole"
+    },
+    "ProcessingTime": {
+        "duration": 20000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:avocado": 1,
+            "Cooking:salt": 2,
+            "Cooking:lemon": 2
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:Guacamole": 1
+        }
     }
 }
