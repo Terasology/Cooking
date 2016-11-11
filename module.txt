@@ -1,6 +1,6 @@
 {
     "id" : "Cooking",
-    "version" : "0.2.0-SNAPSHOT",
+    "version" : "0.2.1-SNAPSHOT",
     "author" : "XTariq",
     "displayName" : "Cooking",
     "description" : "A module that allows for the cooking of simple foods at certain Workstations.",
@@ -20,14 +20,6 @@
             {
                 "id" : "WorkstationCrafting",
                 "minVersion" : "0.1.0"
-            },
-            {
-                "id": "InGameHelp",
-                "minVersion": "0.1.0"
-            },
-            {
-                "id": "WorkstationInGameHelp",
-                "minVersion": "1.0.0"
             },
             {
                 "id": "InGameHelp",

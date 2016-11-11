@@ -35,6 +35,9 @@ import org.terasology.workstationCrafting.system.CraftingWorkstationProcessFacto
 import org.terasology.world.block.BlockManager;
 import org.terasology.world.block.BlockUri;
 
+/**
+ * This system registers all of the Cooking recipes in this module.
+ */
 @RegisterSystem
 public class RegisterCookingRecipes extends BaseComponentSystem {
     @In
@@ -48,12 +51,21 @@ public class RegisterCookingRecipes extends BaseComponentSystem {
     @In
     private PrefabManager prefabManager;
 
+    /**
+     * Initialization phase where all of the recipes are added.
+     */
     @Override
     public void initialise() {
+        // Register the process factory for generic Cooking process recipes. Because there are no custom operations or
+        // special traits on the Cooking recipes that require manual registration, all recipes are automatically
+        // registered using this base factory.
         workstationRegistry.registerProcessFactory(Cooking.COOKING_PROCESS_TYPE, new CraftingWorkstationProcessFactory());
         addWorkstationFormingRecipes();
     }
 
+    /**
+     * Add the recipe for building the Cooking Station.
+     */
     private void addWorkstationFormingRecipes() {
         LayeredMultiBlockFormItemRecipe cookingStationRecipe = new LayeredMultiBlockFormItemRecipe(
                 new ToolTypeEntityFilter("hammer"), new Basic2DSizeFilter(2, 1), new AnyActivityFilter(),

@@ -41,8 +41,12 @@ import org.terasology.workstationCrafting.ui.workstation.StationAvailableRecipes
 
 import java.util.List;
 
+/**
+ * This interaction screen defines how the CookingStation will look and be interacted with.
+ */
 public class CookingStationWindow extends BaseInteractionScreen {
 
+    // The following will store references to the various UI window widgets.
     private InventoryGrid fluidContainerInput;
     private InventoryGrid fluidContainerOutput;
     private FluidHolderWidget fluidContainer;
@@ -55,6 +59,9 @@ public class CookingStationWindow extends BaseInteractionScreen {
     private InventoryGrid resultInventory;
     private UILoadBar craftingProgress;
 
+    /**
+     * Initialize all of the UI widgets of this window.
+     */
     @Override
     public void initialise() {
         ingredientsInventory = find("ingredientsInventory", InventoryGrid.class);
@@ -80,17 +87,27 @@ public class CookingStationWindow extends BaseInteractionScreen {
 
         InventoryGrid playerInventory = find("playerInventory", InventoryGrid.class);
 
+        // Use the LocalPlayer as the targetted entity, and set the player inventory display to have 30 cells max
+        // on the display.
         playerInventory.setTargetEntity(CoreRegistry.get(LocalPlayer.class).getCharacterEntity());
         playerInventory.setCellOffset(10);
         playerInventory.setMaxCellCount(30);
     }
 
+    /**
+     * Upon opening the HerbalismStation window, setup the UI widgets.
+     *
+     * @param station   EntityRef of the workstation in question.
+     */
     @Override
     protected void initializeWithInteractionTarget(final EntityRef station) {
+        // Get the inventory of the target workstation.
         WorkstationInventoryComponent workstationInventory = station.getComponent(WorkstationInventoryComponent.class);
 
+        // Get the slot assignments of this inventory.
         WorkstationInventoryComponent.SlotAssignment fluidInputAssignments = workstationInventory.slotAssignments.get("FLUID_INPUT");
 
+        // Setup the inventory grids for the following widgets.
         WorkstationScreenUtils.setupInventoryGrid(station, ingredientsInventory, "INPUT");
         WorkstationScreenUtils.setupInventoryGrid(station, toolsInventory, "TOOL");
         WorkstationScreenUtils.setupInventoryGrid(station, fluidContainerInput, "FLUID_CONTAINER_INPUT");
@@ -98,17 +115,19 @@ public class CookingStationWindow extends BaseInteractionScreen {
         WorkstationScreenUtils.setupInventoryGrid(station, fuelInput, "FUEL");
         WorkstationScreenUtils.setupInventoryGrid(station, resultInventory, "OUTPUT");
 
+        // Set the min and max size values of the fluid container.
         fluidContainer.setMinX(4);
         fluidContainer.setMaxX(45);
-
         fluidContainer.setMinY(145);
         fluidContainer.setMaxY(4);
 
         fluidContainer.setEntity(station);
 
+        // Define the slot used for fluids.
         final int waterSlot = fluidInputAssignments.slotStart;
         fluidContainer.setSlotNo(waterSlot);
 
+        // Bind the tooltip strings for all the widgets.
         ingredientsInventory.bindTooltipString(
                 new ReadOnlyBinding<String>() {
                     @Override
@@ -165,6 +184,7 @@ public class CookingStationWindow extends BaseInteractionScreen {
 
         fluidContainer.bindTooltipString(
                 new ReadOnlyBinding<String>() {
+                    // Here, details about the fluid inventory's fluid is returned.
                     @Override
                     public String get() {
                         FluidInventoryComponent fluidInventory = station.getComponent(FluidInventoryComponent.class);
@@ -182,6 +202,7 @@ public class CookingStationWindow extends BaseInteractionScreen {
 
         burn.bindValue(
                 new Binding<Float>() {
+                    // Return a bar graph indicator of the current fuel status of the workstation.
                     @Override
                     public Float get() {
                         HeatProducerComponent heatProducer = station.getComponent(HeatProducerComponent.class);
@@ -207,6 +228,7 @@ public class CookingStationWindow extends BaseInteractionScreen {
 
         craftingProgress.bindVisible(
                 new Binding<Boolean>() {
+                    // Return a progress bar indicating the current progress of crafting (if currently running).
                     @Override
                     public Boolean get() {
                         WorkstationProcessingComponent processing = station.getComponent(WorkstationProcessingComponent.class);
@@ -224,6 +246,7 @@ public class CookingStationWindow extends BaseInteractionScreen {
         );
         craftingProgress.bindValue(
                 new Binding<Float>() {
+                    // Return the current progress percentage.
                     @Override
                     public Float get() {
                         WorkstationProcessingComponent processing = station.getComponent(WorkstationProcessingComponent.class);
@@ -250,5 +273,12 @@ public class CookingStationWindow extends BaseInteractionScreen {
     @Override
     public boolean isModal() {
         return false;
+    }
+
+    /**
+     * Update the available recipes widget on the next tick.
+     */
+    public void updateAvailableRecipes() {
+        availableRecipes.updateNextTick();
     }
 }
