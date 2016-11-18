@@ -2,10 +2,10 @@
     "parent": "engine:iconItem",
     "Item": {
         "icon": "Cooking:items#GroundSalt",
-        "stackId": "Cooking:groundSalt"
+        "stackId": "Cooking:coloredSalt"
     },
     "DisplayName": {
-        "name": "Ground Salt"
+        "name": "Colored Salt"
     },
     "CraftingStationIngredient": {
         "type": "Cooking:salt"
@@ -13,7 +13,7 @@
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "Rock Salt that has been grounded down and refined. Also known as Table Salt."
+             "A recent novelty product where food coloring is added to the salt. No real difference between this and regular old Ground Salt."
         ]
     }
 }

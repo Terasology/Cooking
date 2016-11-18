@@ -13,5 +13,12 @@
     },
     "Drink": {
         "filling": 1
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A nicely cooked bowl of white rice.",
+             "Restores 2 food and 1 water."
+        ]
     }
 }

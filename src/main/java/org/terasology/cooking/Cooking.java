@@ -15,6 +15,9 @@
  */
 package org.terasology.cooking;
 
+/**
+ * This class contains the cooking process type constants or IDs.
+ */
 public class Cooking {
     public static final String COOKING_PROCESS_TYPE = "Cooking:Cooking";
     public static final String FOOD_MIXING_PROCESS_TYPE = "Cooking:FoodMixing";

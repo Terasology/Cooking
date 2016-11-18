@@ -13,5 +13,12 @@
     },
     "Drink": {
         "filling": 1
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A nicely cooked radish.",
+             "Restores 1 food and 1 water."
+        ]
     }
 }

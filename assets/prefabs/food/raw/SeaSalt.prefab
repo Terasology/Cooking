@@ -1,0 +1,16 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:items#RockSalt",
+        "stackId": "Cooking:seaSalt"
+    },
+    "DisplayName": {
+        "name": "Sea Salt"
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "Distilled from sea waters, this form can be fine or coarsely ground. This is a less expensive version of Celtic salt."
+        ]
+    }
+}

@@ -10,5 +10,11 @@
     "MillProcessed": {
         "millLength": 6000,
         "itemResult": "1*Cooking:GroundSalt"
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "Less refined and grayish in color, this is the chunky crystal salt used in ice cream machines."
+        ]
     }
 }

@@ -1,7 +1,7 @@
 {
     "parent": "engine:iconItem",
     "Item": {
-        "icon": "Cooking:Avocado",
+        "icon": "Cooking:AvocadoBig",
         "stackId": "Cooking:avocado",
         "consumedOnUse": true
     },
@@ -16,5 +16,12 @@
     },
     "Drink": {
         "filling": -0.5
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A large berry containing a single seed. Cultivated heavily in tropical climates and used for a bunch of things.",
+             "Restores 2 food and drains 0.5 water."
+        ]
     }
 }
