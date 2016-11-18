@@ -21,7 +21,7 @@
         "category": "Cooking",
         "paragraphText": [
              "A large berry containing a single seed. Cultivated heavily in tropical climates and used for a bunch of things.",
-             "Restores 2 food and -0.5 water."
+             "Restores 2 food and drains 0.5 water."
         ]
     }
 }
