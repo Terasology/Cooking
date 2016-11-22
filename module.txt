@@ -11,11 +11,11 @@
             },
             {
                 "id" : "Hunger",
-                "minVersion" : "0.1.0"
+                "minVersion" : "1.0.0"
             },
             {
                 "id" : "PlantPack",
-                "minVersion" : "0.1.0"
+                "minVersion" : "1.0.0"
             },
             {
                 "id" : "WorkstationCrafting",
@@ -23,7 +23,7 @@
             },
             {
                 "id": "InGameHelp",
-                "minVersion": "0.1.0"
+                "minVersion": "1.0.0"
             },
             {
                 "id": "WorkstationInGameHelp",
