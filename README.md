@@ -17,6 +17,8 @@ Send in PRs to this repository and feel free to add your name to the authors lis
 
 ### Credits for descriptions:
 
+Pear (slightly modified): http://www.thefruitpages.com/pears.shtml
+
 http://homecooking.about.com/od/spices/a/saltvarieties.htm
 
 ### Credits for images:
@@ -40,3 +42,5 @@ Lemon: http://www.publicdomainpictures.net/view-image.php?image=1453&picture=lem
 Lime: http://www.publicdomainpictures.net/view-image.php?image=174503&picture=lime
 
 Apple: http://opengameart.org/content/good-fruits-m484-games
+
+Pear: http://www.ttxdictionary.com/2015/04/pear.html
