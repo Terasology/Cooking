@@ -38,3 +38,5 @@ Guacamole: https://commons.wikimedia.org/wiki/File:Guacamole_avocados.jpg
 Lemon: http://www.publicdomainpictures.net/view-image.php?image=1453&picture=lemon
 
 Lime: http://www.publicdomainpictures.net/view-image.php?image=174503&picture=lime
+
+Apple: http://opengameart.org/content/good-fruits-m484-games
