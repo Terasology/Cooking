@@ -1,0 +1,27 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Pear",
+        "stackId": "Cooking:Pear",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Pear"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:pear"
+    },
+    "Food": {
+        "filling": 0.9
+    },
+    "Drink": {
+        "filling": 0.7
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A sweet juicy green fruit with a rounded shape that becomes narrower towards the stalk.",
+             "Restores 0.9 food and 0.7 water."
+        ]
+    }
+}
