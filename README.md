@@ -17,6 +17,9 @@ Send in PRs to this repository and feel free to add your name to the authors lis
 
 ### Credits for descriptions:
 
+
+Pear (slightly modified): http://www.thefruitpages.com/pears.shtml
+
 http://homecooking.about.com/od/spices/a/saltvarieties.htm
 
 ### Credits for images:
@@ -38,3 +41,5 @@ Guacamole: https://commons.wikimedia.org/wiki/File:Guacamole_avocados.jpg
 Lemon: http://www.publicdomainpictures.net/view-image.php?image=1453&picture=lemon
 
 Lime: http://www.publicdomainpictures.net/view-image.php?image=174503&picture=lime
+
+Pear: http://www.ttxdictionary.com/2015/04/pear.html
