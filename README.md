@@ -9,11 +9,11 @@ crash when openining the Cooking section of the help menu.
 ## Contribution
 1. Fork and clone this repository locally.
 2. To **add a food item**, create a prefab similar to the ones [here](https://github.com/Terasology/Cooking/tree/master/assets/prefabs/food/raw).
-3. While adding an icon for the food item, make sure that either you've created the textures for the new items, or the source you retrieved them from is compatible with the Apache 2.0 license. In any case cite the resources you've used in this README file. 
+3. While adding an icon for the food item, make sure that either you've created the textures for the new items, or the source you retrieved them from is compatible with the Apache 2.0 license. In any case cite the resources you've used in [this README file](https://github.com/Terasology/Cooking/blob/master/README.md). 
 4. Aim to keep the icons below 128x128 in resolution.
 5. To **add a recipe**, create a prefab similar to the ones [here](https://github.com/Terasology/Cooking/tree/master/assets/prefabs/recipe/cook).
 
-Send in PRs to this repository and feel free to add your name to the authors list in the module.txt file.
+Send in PRs to this repository and feel free to add your name to the authors list in the [module.txt file](https://github.com/Terasology/Cooking/blob/master/module.txt).
 
 ### Credits for descriptions:
 
@@ -22,11 +22,19 @@ http://homecooking.about.com/od/spices/a/saltvarieties.htm
 ### Credits for images:
 
 Grape: http://www.publicdomainpictures.net/view-image.php?image=128395&picture=grapes
+
 Raisin: https://pixabay.com/en/raisins-dried-vine-useful-617416/
+
 Onion: https://openclipart.org/detail/209635/food-onion
+
 Kale: http://www.publicdomainpictures.net/view-image.php?image=23830&picture=green-flowering-kale
+
 Cabbage: http://www.publicdomainpictures.net/view-image.php?image=68178&picture=cabbage
+
 Avocado: http://www.publicdomainpictures.net/view-image.php?image=174150&picture=avocado
+
 Guacamole: https://commons.wikimedia.org/wiki/File:Guacamole_avocados.jpg
+
 Lemon: http://www.publicdomainpictures.net/view-image.php?image=1453&picture=lemon
+
 Lime: http://www.publicdomainpictures.net/view-image.php?image=174503&picture=lime
