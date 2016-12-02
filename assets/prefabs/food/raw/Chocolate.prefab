@@ -1,0 +1,27 @@
+{
+    	    "parent": "engine:iconItem",
+    	    "Item": {
+    	        "icon": "Cooking:Chocolate",
+    	        "stackId": "Cooking:chocolate",
+    	        "consumedOnUse": true
+    	    },
+    	    "DisplayName": {
+    	        "name": "Chocolate"
+    	    },
+    	    "CraftingStationIngredient": {
+    	        "type": "Cooking:chocolate"
+    	    },
+    	    "Food": {
+    	        "filling": 1
+    	    },
+    	    "Drink": {
+    	        "filling": 0
+    	    },
+    	    "ItemHelp": {
+    	        "category": "Cooking",
+    	        "paragraphText": [
+    	             "A sweet treat and ingredient in many food items."
+    	             "Restores 1 food and 0 water."
+    	        ]
+    	    }
+ }
