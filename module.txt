@@ -1,7 +1,7 @@
 {
     "id" : "Cooking",
     "version" : "0.2.1-SNAPSHOT",
-    "author" : "XTariq",
+    "author" : "XTariq, Gautam Naik",
     "displayName" : "Cooking",
     "description" : "A module that allows for the cooking of simple foods at certain Workstations.",
     "dependencies" : [
