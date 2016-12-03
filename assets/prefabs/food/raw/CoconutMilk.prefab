@@ -1,0 +1,24 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:CoconutMilk",
+        "stackId": "Cooking:coconutmilk",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Coconut Milk"
+    },
+    "Food": {
+        "filling": 0.3
+    },
+    "Drink": {
+        "filling": 2
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "Coconut milk is the liquid that comes from the grated meat of a mature coconut. "
+        ]
+    }
+
+}
