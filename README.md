@@ -44,3 +44,5 @@ Lime: http://www.publicdomainpictures.net/view-image.php?image=174503&picture=li
 Apple: http://opengameart.org/content/good-fruits-m484-games
 
 Pear: http://www.ttxdictionary.com/2015/04/pear.html
+
+Lettuce: https://pixabay.com/en/lettuce-salad-leaves-leaf-green-1517239/
