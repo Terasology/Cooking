@@ -44,3 +44,7 @@ Lime: http://www.publicdomainpictures.net/view-image.php?image=174503&picture=li
 Apple: http://opengameart.org/content/good-fruits-m484-games
 
 Pear: http://www.ttxdictionary.com/2015/04/pear.html
+
+Kiwi: http://www196.lunapic.com/do-not-link-here-use-hosting-instead/148078668095545?7120749532
+
+Leamon Tea: https://www.twoleavestea.com/media/catalog/product/cache/1/image/490x445/9df78eab33525d08d6e5fb8d27136e95/b/l/blackicedtea_glasswithlemon_web.png
