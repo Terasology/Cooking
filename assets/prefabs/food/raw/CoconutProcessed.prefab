@@ -9,7 +9,7 @@
     },
     "CraftingStationIngredient": {
             "type": "Cooking:coconutProcessed"
-    }
+    },
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [

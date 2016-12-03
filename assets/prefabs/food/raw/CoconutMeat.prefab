@@ -10,7 +10,7 @@
     },
     "CraftingStationIngredient": {
             "type": "Cooking:coconutMeat"
-    }
+    },
     "Food": {
         "filling": 3
     },

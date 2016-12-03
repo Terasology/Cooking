@@ -9,7 +9,7 @@
     },
     "CraftingStationIngredient": {
             "type": "Cooking:coconut"
-    }
+    },
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [

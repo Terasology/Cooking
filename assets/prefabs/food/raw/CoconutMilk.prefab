@@ -10,7 +10,7 @@
     },
     "CraftingStationIngredient": {
             "type": "Cooking:coconutMilk"
-    }
+    },
     "Food": {
         "filling": 0.3
     },
