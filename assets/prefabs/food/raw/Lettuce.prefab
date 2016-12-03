@@ -13,7 +13,7 @@
         "type": "Cooking:lettuce"
     },
     "Food": {
-        "filling": 1.5
+        "filling": 2
     },
     "Drink": {
         "filling": 1
@@ -21,8 +21,8 @@
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "A bright red juicy fruit. A staple in many households",
-             "Restores 1.5 food and 1 water."
+             "A lettuce is a gree succulent vegatable with large tightly packed leaves",
+             "Restores 2 food and 1 water."
         ]
     }
 }
