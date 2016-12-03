@@ -18,6 +18,7 @@ Send in PRs to this repository and feel free to add your name to the authors lis
 ### Credits for descriptions:
 
 Pear (slightly modified): http://www.thefruitpages.com/pears.shtml
+Coconut: https://en.wikipedia.org/wiki/Coconut_milk
 
 http://homecooking.about.com/od/spices/a/saltvarieties.htm
 
@@ -44,3 +45,7 @@ Lime: http://www.publicdomainpictures.net/view-image.php?image=174503&picture=li
 Apple: http://opengameart.org/content/good-fruits-m484-games
 
 Pear: http://www.ttxdictionary.com/2015/04/pear.html
+
+Coconut:    https://de.pinterest.com/pin/303500462365459327/
+            http://www.centexcooks.com/coconuts/
+            https://pixabay.com/en/coconuts-foods-fruits-tropical-575780/

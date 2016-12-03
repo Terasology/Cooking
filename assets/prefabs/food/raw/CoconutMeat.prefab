@@ -1,0 +1,23 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:CoconutMeat",
+        "stackId": "Cooking:coconutmeat",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Coconut Meat"
+    },
+    "Food": {
+        "filling": 3
+    },
+    "Drink": {
+        "filling": 0.3
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "The delicious meat which is inside the coconut."
+        ]
+    }
+}
