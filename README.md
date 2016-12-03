@@ -17,6 +17,8 @@ Send in PRs to this repository and feel free to add your name to the authors lis
 
 ### Credits for descriptions:
 
+Chocolate (modified): https://en.wikipedia.org/wiki/Chocolate
+
 Pear (slightly modified): http://www.thefruitpages.com/pears.shtml
 
 http://homecooking.about.com/od/spices/a/saltvarieties.htm
@@ -44,3 +46,5 @@ Lime: http://www.publicdomainpictures.net/view-image.php?image=174503&picture=li
 Apple: http://opengameart.org/content/good-fruits-m484-games
 
 Pear: http://www.ttxdictionary.com/2015/04/pear.html
+
+Chocolate: http://www.publicdomainpictures.net/view-image.php?image=123141&picture=rick-dark-chocolate-background
