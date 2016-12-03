@@ -1,0 +1,19 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Coconut",
+        "stackId": "Cooking:coconut"
+    },
+    "DisplayName": {
+        "name": "Coconut"
+    },
+    "CraftingStationIngredient": {
+            "type": "Cooking:coconut"
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "The fruit from the coconut palm completely unprocessed with it's green husk."
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:CoconutProcessed",
+        "stackId": "Cooking:coconutProcessed"
+    },
+    "DisplayName": {
+        "name": "Coconut Processed"
+    },
+    "CraftingStationIngredient": {
+            "type": "Cooking:coconutProcessed"
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "The mature coconut fruit with the husk removed."
+        ]
+    }
+}

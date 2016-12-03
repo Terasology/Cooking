@@ -19,6 +19,8 @@ Send in PRs to this repository and feel free to add your name to the authors lis
 
 Chocolate (modified): https://en.wikipedia.org/wiki/Chocolate
 
+Coconut: https://en.wikipedia.org/wiki/Coconut_milk
+
 Pear (slightly modified): http://www.thefruitpages.com/pears.shtml
 
 http://homecooking.about.com/od/spices/a/saltvarieties.htm
@@ -52,3 +54,7 @@ Banana: http://www.fox1023.com/wp-content/uploads/2016/05/banana-2.jpg
 Chocolate: http://www.publicdomainpictures.net/view-image.php?image=123141&picture=rick-dark-chocolate-background
 
 Lettuce: https://pixabay.com/en/lettuce-salad-leaves-leaf-green-1517239/
+
+Coconut:    https://de.pinterest.com/pin/303500462365459327/
+            http://www.centexcooks.com/coconuts/
+            https://pixabay.com/en/coconuts-foods-fruits-tropical-575780/
