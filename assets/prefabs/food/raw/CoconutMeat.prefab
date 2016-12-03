@@ -2,12 +2,15 @@
     "parent": "engine:iconItem",
     "Item": {
         "icon": "Cooking:CoconutMeat",
-        "stackId": "Cooking:coconutmeat",
+        "stackId": "Cooking:coconutMeat",
         "consumedOnUse": true
     },
     "DisplayName": {
         "name": "Coconut Meat"
     },
+    "CraftingStationIngredient": {
+            "type": "Cooking:coconutMeat"
+    }
     "Food": {
         "filling": 3
     },

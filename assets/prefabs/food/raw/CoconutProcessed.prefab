@@ -2,11 +2,14 @@
     "parent": "engine:iconItem",
     "Item": {
         "icon": "Cooking:CoconutProcessed",
-        "stackId": "Cooking:coconutprocessed"
+        "stackId": "Cooking:coconutProcessed"
     },
     "DisplayName": {
         "name": "Coconut Processed"
     },
+    "CraftingStationIngredient": {
+            "type": "Cooking:coconutProcessed"
+    }
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [

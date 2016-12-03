@@ -2,12 +2,15 @@
     "parent": "engine:iconItem",
     "Item": {
         "icon": "Cooking:CoconutMilk",
-        "stackId": "Cooking:coconutmilk",
+        "stackId": "Cooking:coconutMilk",
         "consumedOnUse": true
     },
     "DisplayName": {
         "name": "Coconut Milk"
     },
+    "CraftingStationIngredient": {
+            "type": "Cooking:coconutMilk"
+    }
     "Food": {
         "filling": 0.3
     },
