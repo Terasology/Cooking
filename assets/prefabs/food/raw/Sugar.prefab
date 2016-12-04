@@ -1,0 +1,16 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Sugar",
+        "stackId": "Cooking:Sugar"
+    },
+    "DisplayName": {
+        "name": "Sugar"
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "Harvested from sugar cane and has a sweet taste."
+        ]
+    }
+}
