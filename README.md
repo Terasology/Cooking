@@ -64,3 +64,5 @@ Potato: https://cdn.pixabay.com/photo/2014/12/22/00/01/potato-576598_960_720.png
 Kiwi: http://www196.lunapic.com/do-not-link-here-use-hosting-instead/148078668095545?7120749532
 
 Lemon Tea: https://www.twoleavestea.com/media/catalog/product/cache/1/image/490x445/9df78eab33525d08d6e5fb8d27136e95/b/l/blackicedtea_glasswithlemon_web.png
+
+Mango: https://openclipart.org/detail/131485/mango-fruit
