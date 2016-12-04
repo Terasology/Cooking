@@ -66,3 +66,7 @@ Kiwi: http://www196.lunapic.com/do-not-link-here-use-hosting-instead/14807866809
 Lemon Tea: https://www.twoleavestea.com/media/catalog/product/cache/1/image/490x445/9df78eab33525d08d6e5fb8d27136e95/b/l/blackicedtea_glasswithlemon_web.png
 
 Mango: https://openclipart.org/detail/131485/mango-fruit
+
+Sugar: https://openclipart.org/detail/89407/sugar-cube-icon
+
+Apple Pie: https://openclipart.org/detail/9162/fast-food-desserts-pies
