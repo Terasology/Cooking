@@ -1,0 +1,27 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Peach",
+        "stackId": "Cooking:Peach",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Peach"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:peach"
+    },
+    "Food": {
+        "filling": 1.2
+    },
+    "Drink": {
+        "filling": 1.5
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A delectable, sweet, orange and red fruit with at tint of yellow that is rounded throughout.",
+             "Restores 1.2 food and 1.5 water."
+        ]
+    }
+}
