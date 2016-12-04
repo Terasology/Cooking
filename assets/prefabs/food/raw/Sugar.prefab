@@ -1,0 +1,19 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:items#Sugar",
+        "stackId": "Cooking:sugar"
+    },
+    "DisplayName": {
+        "name": "Sugar"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:sugar"
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A sweet white or clear grainy ingredient, often used to sweeten foods."
+        ]
+    }
+}
