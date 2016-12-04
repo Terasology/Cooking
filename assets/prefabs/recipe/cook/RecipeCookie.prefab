@@ -1,0 +1,29 @@
+{
+    "ProcessDefinition": {
+        "processType": "Cooking:Cooking"
+    },
+    "CraftingStationRecipe": {
+        "recipeId": "Baked food|Cooking:Cookie",
+
+        "recipeComponents": ["1*Cooking:flour","1*Cooking:chocolate"],
+        "recipeFluids": ["0.5*Fluid:Water"],
+        "requiredTemperature": 200,
+        "processingDuration": 15000,
+
+        "itemResult": "1*Cooking:Cookie"
+    },
+    "ProcessingTime": {
+        "duration": 15000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:flour": 1,
+            "Cooking:chocolate": 1
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:Cookie": 1
+        }
+    }
+}

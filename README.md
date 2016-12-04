@@ -25,6 +25,8 @@ Pear (slightly modified): http://www.thefruitpages.com/pears.shtml
 
 http://homecooking.about.com/od/spices/a/saltvarieties.htm
 
+Cookie: https://github.com/gkaretka
+
 ### Credits for images:
 
 Grape: http://www.publicdomainpictures.net/view-image.php?image=128395&picture=grapes
@@ -82,3 +84,5 @@ Brown Sugar: BrownSugar.png created by Camellia, original
 Butter: https://commons.wikimedia.org/wiki/File:Western-pack-butter.jpg (resized)
 
 Roast Potatoes: https://pixabay.com/en/country-potatoes-roast-potato-food-712661/ (resized)
+
+Cookie: https://github.com/gkaretka

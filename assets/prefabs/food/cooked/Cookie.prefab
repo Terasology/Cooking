@@ -1,0 +1,21 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Cookie",
+        "stackId": "Cooking:cookie",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Cookie"
+    },
+    "Food": {
+        "filling": 3
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "Everybody knows and loves cookies!",
+             "Restores 3 food."
+        ]
+    }
+}
