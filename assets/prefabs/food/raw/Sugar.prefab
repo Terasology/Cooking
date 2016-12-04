@@ -1,11 +1,11 @@
 {
     "parent": "engine:iconItem",
     "Item": {
-        "icon": "Cooking:Sugar",
-        "stackId": "Cooking:Sugar"
+        "icon": "Cooking:BrownSugar",
+        "stackId": "Cooking:brownsugar"
     },
     "DisplayName": {
-        "name": "Sugar"
+        "name": "Brown Sugar"
     },
     "ItemHelp": {
         "category": "Cooking",
