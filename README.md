@@ -58,3 +58,5 @@ Lettuce: https://pixabay.com/en/lettuce-salad-leaves-leaf-green-1517239/
 Coconut:    https://de.pinterest.com/pin/303500462365459327/
             http://www.centexcooks.com/coconuts/
             https://pixabay.com/en/coconuts-foods-fruits-tropical-575780/
+			
+Potato: https://cdn.pixabay.com/photo/2014/12/22/00/01/potato-576598_960_720.png (Resized)
