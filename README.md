@@ -60,3 +60,9 @@ Coconut:    https://de.pinterest.com/pin/303500462365459327/
             https://pixabay.com/en/coconuts-foods-fruits-tropical-575780/
 			
 Potato: https://cdn.pixabay.com/photo/2014/12/22/00/01/potato-576598_960_720.png (Resized)
+
+Pineapple Juice: http://www.pixcove.com/pineapple-juice-drink-concoction-food-pina-colada-cocktail-cocktails-fruit-ovary-tropical-juice-cup-straw-sap-drink/
+
+Pineapple: http://pngimg.com/download/2726
+
+Brown Sugar: BrownSugar.png created by Camellia, original
