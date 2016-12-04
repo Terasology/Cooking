@@ -1,7 +1,7 @@
 {
     "id" : "Cooking",
     "version" : "0.2.2-SNAPSHOT",
-    "author" : "XTariq, apaukraine, Gautam Naik, kallentu, MadMate, sisukas-hiiri, DarkSoul943 (Camellia)",
+    "author" : "XTariq, apaukraine, DarkSoul943 (Camellia), Gautam Naik, kallentu, MadMate, sisukas-hiiri, SufurElite",
     "displayName" : "Cooking",
     "description" : "A module that allows for the cooking of simple foods at certain Workstations.",
     "dependencies" : [
