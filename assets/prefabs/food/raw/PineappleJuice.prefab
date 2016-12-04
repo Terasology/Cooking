@@ -12,7 +12,7 @@
         "type": "Cooking:pineapplejuice"
     },
     "Food": {
-        "filling": 1
+        "filling": 2
     },
     "Drink": {
         "filling": 3
