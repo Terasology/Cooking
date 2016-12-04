@@ -70,3 +70,9 @@ Mango: https://openclipart.org/detail/131485/mango-fruit
 Sugar: https://openclipart.org/detail/89407/sugar-cube-icon
 
 Apple Pie: https://openclipart.org/detail/9162/fast-food-desserts-pies
+
+Pineapple Juice: http://www.pixcove.com/pineapple-juice-drink-concoction-food-pina-colada-cocktail-cocktails-fruit-ovary-tropical-juice-cup-straw-sap-drink/
+
+Pineapple: http://pngimg.com/download/2726
+
+Brown Sugar: BrownSugar.png created by Camellia, original
