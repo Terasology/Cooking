@@ -77,6 +77,6 @@ Pineapple: http://pngimg.com/download/2726
 
 Brown Sugar: BrownSugar.png created by Camellia, original
 
-Butter: https://upload.wikimedia.org/wikipedia/commons/f/fd/Western-pack-butter.jpg (resized)
+Butter: https://commons.wikimedia.org/wiki/File:Western-pack-butter.jpg (resized)
 
-Roast Potatoes : https://cdn.pixabay.com/photo/2015/04/08/13/12/country-potatoes-712661_960_720.jpg (resized)
+Roast Potatoes : https://pixabay.com/en/country-potatoes-roast-potato-food-712661/ (resized)
