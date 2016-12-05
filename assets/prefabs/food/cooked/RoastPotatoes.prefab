@@ -1,0 +1,21 @@
+{
+  "parent": "engine:iconItem",
+  "Item": {
+    "icon": "Cooking:RoastPotatoes",
+    "stackId": "Cooking:roastPotatoes",
+    "consumedOnUse": true
+  },
+  "DisplayName": {
+    "name": "Roast Potatoes"
+  },
+  "Food": {
+    "filling": 4
+  },
+  "ItemHelp": {
+    "category": "Cooking",
+    "paragraphText": [
+      "Potatoes that have been roasted in an oven.",
+      "Restores 4 food."
+    ]
+  }
+}

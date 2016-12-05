@@ -76,3 +76,7 @@ Pineapple Juice: http://www.pixcove.com/pineapple-juice-drink-concoction-food-pi
 Pineapple: http://pngimg.com/download/2726
 
 Brown Sugar: BrownSugar.png created by Camellia, original
+
+Butter: https://commons.wikimedia.org/wiki/File:Western-pack-butter.jpg (resized)
+
+Roast Potatoes : https://pixabay.com/en/country-potatoes-roast-potato-food-712661/ (resized)

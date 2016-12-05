@@ -1,0 +1,28 @@
+{
+  "ProcessDefinition": {
+    "processType": "Cooking:Cooking"
+  },
+  "CraftingStationRecipe": {
+    "recipeId": "Hot food|Cooking:RoastPotatoes",
+
+    "recipeComponents": ["1*Cooking:butter","3*Cooking:potato"],
+    "requiredTemperature": 180,
+    "processingDuration": 20000,
+
+    "itemResult": "1*Cooking:roastPotatoes"
+  },
+  "ProcessingTime": {
+    "duration": 20000
+  },
+  "InventoryInput": {
+    "itemCounts": {
+      "Cooking:potato": 3,
+      "Cooking:butter": 1
+    }
+  },
+  "InventoryOutput": {
+    "itemCounts": {
+      "Cooking:roastPotatoes": 1
+    }
+  }
+}
