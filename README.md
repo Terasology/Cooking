@@ -47,7 +47,7 @@ Lime: http://www.publicdomainpictures.net/view-image.php?image=174503&picture=li
 
 Apple: http://opengameart.org/content/good-fruits-m484-games
 
-Peach: https://www.tumblr.com/search/pixel-peach
+Peach: http://www.publicdomainpictures.net/view-image.php?image=93866&picture=isolated-peach
 
 Pear: http://www.ttxdictionary.com/2015/04/pear.html
 
