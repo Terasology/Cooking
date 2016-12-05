@@ -2,7 +2,7 @@
     "parent": "engine:iconItem",
     "Item": {
         "icon": "Cooking:Peach",
-        "stackId": "Cooking:Peach",
+        "stackId": "Cooking:peach",
         "consumedOnUse": true
     },
     "DisplayName": {
