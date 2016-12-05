@@ -1,0 +1,28 @@
+{
+	"parent": "engine:iconItem",
+	"Item": {
+		"icon": "Cooking:Egg",
+		"stackId": "Cooking:egg",
+		"consumedOnUse": true
+	},
+	"DisplayName": {
+		"name": "Egg"
+	},
+	"CraftingStationIngredient": {
+		"type": "Cooking:egg"
+	},
+	"Food": {
+		"filling": 0.2
+	},
+	"Drink": {
+		"filling": 0
+	},
+	"ItemHelp": {
+		"category": "Cooking",
+		"paragraphText": [
+			"An item gathered from a chicken. A staple for breakfast and baking foods. It is recommended that you cook this.",
+			"Restores 0.2 food and 0 water."
+		]
+	}
+}
+
