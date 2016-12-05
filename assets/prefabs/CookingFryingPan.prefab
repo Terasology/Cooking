@@ -1,0 +1,82 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:FryingPan",
+        "stackId": "Cooking:fryingPan",
+        "maxStackSize": 1
+    },
+    "DisplayName": {
+        "name": "Frying Pan"
+    },
+    "BlockDropGrammar": {
+        "itemDrops": ["4*WorkstationCrafting:Clay"]
+    },
+    "InteractionTarget": {},
+    "InteractionScreen": {
+        "screen": "Cooking:FryingPan"
+    },
+    "Workstation": {
+        "supportedProcessTypes": {
+            "Machines:Furnace": true,
+            "Workstation:FillFluid": false,
+            "Cooking:FoodMixing": true
+        }
+    },
+    "WorkstationInventory": {
+        "slotAssignments": {
+            "INPUT": {
+                "slotStart": 0,
+                "slotCount": 6
+            },
+            "TOOL": {
+                "slotStart": 6,
+                "slotCount": 1
+            },
+            "OUTPUT": {
+                "slotStart": 8,
+                "slotCount": 1
+            }
+        }
+    },
+    "CraftingStation": {
+        "type": "Cooking:CookingStation",
+        "workstationUITexture": ""
+    },
+    "Inventory": {
+        "privateToOwner": false,
+        "itemSlots": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "HeatProducer": {
+        "temperatureAbsorptionRate": 10,
+        "temperatureLossRate": 5,
+        "maximumTemperature": 250
+    },
+    "Health": {
+        "currentHealth": 10,
+        "maxHealth": 10,
+        "regenRate": 1,
+        "waitBeforeRegen": 2,
+        "destroyEntityOnNoHealth": true
+    },
+    "ActAsBlock": {
+        "block": "WorkstationCrafting:StandardWoodStation"
+    },
+    "DropBlockInventory": {},
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+            "A frying pan can be used to fry meat."
+        ]
+    }
+}

@@ -80,3 +80,5 @@ Brown Sugar: BrownSugar.png created by Camellia, original
 Butter: https://commons.wikimedia.org/wiki/File:Western-pack-butter.jpg (resized)
 
 Roast Potatoes : https://pixabay.com/en/country-potatoes-roast-potato-food-712661/ (resized)
+
+Frying Pan: http://www.clipartkid.com/images/2/frying-pan-clip-art-at-clker-com-vector-clip-art-online-royalty-jWoIJm-clipart.png
