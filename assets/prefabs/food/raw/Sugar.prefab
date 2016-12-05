@@ -1,7 +1,7 @@
 {
     "parent": "engine:iconItem",
     "Item": {
-        "icon": "Cooking:items#Sugar",
+        "icon": "Cooking:Sugar",
         "stackId": "Cooking:sugar"
     },
     "DisplayName": {

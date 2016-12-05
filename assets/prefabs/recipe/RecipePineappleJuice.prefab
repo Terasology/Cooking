@@ -18,7 +18,7 @@
     "InventoryInput": {
         "itemCounts": {
             "Cooking:pineapple": 1,
-            "Cooking:sugar": 2,
+            "Cooking:sugar": 2
         }
     },
     "InventoryOutput": {
