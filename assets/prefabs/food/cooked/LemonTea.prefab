@@ -1,0 +1,24 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:LemonTea",
+        "stackId": "Cooking:lemonTea",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Lemon Tea"
+    },
+    "Food": {
+        "filling": 0.1
+    },
+    "Drink": {
+        "filling": 2
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A nicely lemon tea.",
+             "Restores 0.1 food and 2 water."
+        ]
+    }
+}

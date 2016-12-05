@@ -17,8 +17,11 @@ Send in PRs to this repository and feel free to add your name to the authors lis
 
 ### Credits for descriptions:
 
-Pear (slightly modified): http://www.thefruitpages.com/pears.shtml
+Chocolate (modified): https://en.wikipedia.org/wiki/Chocolate
+
 Coconut: https://en.wikipedia.org/wiki/Coconut_milk
+
+Pear (slightly modified): http://www.thefruitpages.com/pears.shtml
 
 http://homecooking.about.com/od/spices/a/saltvarieties.htm
 
@@ -46,6 +49,34 @@ Apple: http://opengameart.org/content/good-fruits-m484-games
 
 Pear: http://www.ttxdictionary.com/2015/04/pear.html
 
+Banana: http://www.fox1023.com/wp-content/uploads/2016/05/banana-2.jpg
+
+Chocolate: http://www.publicdomainpictures.net/view-image.php?image=123141&picture=rick-dark-chocolate-background
+
+Lettuce: https://pixabay.com/en/lettuce-salad-leaves-leaf-green-1517239/
+
 Coconut:    https://de.pinterest.com/pin/303500462365459327/
             http://www.centexcooks.com/coconuts/
             https://pixabay.com/en/coconuts-foods-fruits-tropical-575780/
+
+Potato: https://cdn.pixabay.com/photo/2014/12/22/00/01/potato-576598_960_720.png (Resized)
+
+Kiwi: http://www196.lunapic.com/do-not-link-here-use-hosting-instead/148078668095545?7120749532
+
+Lemon Tea: https://www.twoleavestea.com/media/catalog/product/cache/1/image/490x445/9df78eab33525d08d6e5fb8d27136e95/b/l/blackicedtea_glasswithlemon_web.png
+
+Mango: https://openclipart.org/detail/131485/mango-fruit
+
+Sugar: https://openclipart.org/detail/89407/sugar-cube-icon
+
+Apple Pie: https://openclipart.org/detail/9162/fast-food-desserts-pies
+
+Pineapple Juice: http://www.pixcove.com/pineapple-juice-drink-concoction-food-pina-colada-cocktail-cocktails-fruit-ovary-tropical-juice-cup-straw-sap-drink/
+
+Pineapple: http://pngimg.com/download/2726
+
+Brown Sugar: BrownSugar.png created by Camellia, original
+
+Butter: https://commons.wikimedia.org/wiki/File:Western-pack-butter.jpg (resized)
+
+Roast Potatoes : https://pixabay.com/en/country-potatoes-roast-potato-food-712661/ (resized)

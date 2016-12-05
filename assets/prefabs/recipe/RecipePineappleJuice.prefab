@@ -1,0 +1,29 @@
+{
+    "ProcessDefinition": {
+        "processType": "Cooking:Cooking"
+    },
+    "CraftingStationRecipe": {
+        "recipeId": "Cooking|Cooking:PineappleJuice",
+
+        "recipeComponents": ["1*Cooking:pineapple","2*Cooking:sugar"],
+        "recipeFluids": ["0.6*Fluid:Water"],
+        "requiredTemperature": 0,
+        "processingDuration": 4500,
+
+        "itemResult": "1*Cooking:PineappleJuice"
+    },
+    "ProcessingTime": {
+        "duration": 9000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:pineapple": 1,
+            "Cooking:sugar": 2
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:PineappleJuice": 1
+        }
+    }
+}

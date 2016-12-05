@@ -1,0 +1,24 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Potato",
+        "stackId": "Cooking:potato",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Potato"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:potato"
+    },
+    "Food": {
+        "filling": 0.6
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A staple in many dishes, it is best consumed cooked.",
+			 "Restores 0.6 food"
+        ]
+    }
+}

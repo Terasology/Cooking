@@ -1,0 +1,27 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:PineappleJuice",
+        "stackId": "Cooking:pineapplejuice",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Pineapple Juice"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:pineapplejuice"
+    },
+    "Food": {
+        "filling": 2
+    },
+    "Drink": {
+        "filling": 3
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A tasty tropical drink.",
+             "Restores 1 food and 3 water."
+        ]
+    }
+}

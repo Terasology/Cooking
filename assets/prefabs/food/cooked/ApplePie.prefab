@@ -1,0 +1,24 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:items#ApplePie",
+        "stackId": "Cooking:applePie",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Apple Pie"
+    },
+    "Food": {
+        "filling": 5
+    },
+    "Drink": {
+        "filling": 1
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A tart pie made with fresh apples and a flaky, crispy crust.",
+             "Restores 5 food and 1 water."
+        ]
+    }
+}

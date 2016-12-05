@@ -1,0 +1,27 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Kiwi",
+        "stackId": "Cooking:kiwi",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Kiwi"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:kiwi"
+    },
+    "Food": {
+        "filling": 0.5
+    },
+    "Drink": {
+        "filling": 2
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A brown juicy fruit.",
+             "Restores 0.5 food and 2 water."
+        ]
+    }
+}
