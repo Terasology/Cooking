@@ -86,3 +86,7 @@ Butter: https://commons.wikimedia.org/wiki/File:Western-pack-butter.jpg (resized
 Roast Potatoes: https://pixabay.com/en/country-potatoes-roast-potato-food-712661/ (resized)
 
 Cookie: https://github.com/gkaretka
+
+Egg: Egg.png created by J0hnCena, original
+
+Boiled Egg: BoiledEgg.png created by J0hnCena, original
