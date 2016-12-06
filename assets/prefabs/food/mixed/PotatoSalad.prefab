@@ -1,0 +1,21 @@
+{
+  "parent": "engine:iconItem",
+  "Item": {
+    "icon": "Cooking:PotatoSalad",
+    "stackId": "Cooking:PotatoSalad",
+    "consumedOnUse": true
+  },
+  "DisplayName": {
+    "name": "Potato Salad"
+  },
+  "Food": {
+    "filling": 5
+  },
+  "ItemHelp": {
+    "category": "Cooking",
+    "paragraphText": [
+      "A salad made from potatoes, mixed in with other items",
+      "Restores 5 food."
+    ]
+  }
+}
