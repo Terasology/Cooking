@@ -1,0 +1,15 @@
+{
+    "ProcessDefinition": {
+        "processType": "Cooking:Cooking"
+    },
+    "CraftingStationRecipe": {
+        "recipeId": "Processed food|Cooking:coconutProcessed",
+
+        "recipeComponents": ["1*Cooking:coconut"],
+        "recipeFluids": ["0.0*Fluid:Water"],
+        "requiredTemperature": 0,
+        "processingDuration": 10000,
+
+        "itemResult": "1*Cooking:coconutProcessed"
+    }
+}
