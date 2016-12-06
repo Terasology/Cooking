@@ -1,0 +1,16 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Spoon",
+        "stackId": "Cooking:spoon"
+    },
+    "DisplayName": {
+        "name": "Spoon"
+    },
+    "ItemHelp": {
+        "category": "CookingUtils",
+        "paragraphText": [
+          "Basic utensil used for eating soup."
+        ]
+    }
+}
