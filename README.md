@@ -104,3 +104,5 @@ Boiled Egg: BoiledEgg.png created by J0hnCena, original
 Potato Salad: https://commons.wikimedia.org/wiki/File:Potato_salad_(1).jpg (Resized)
 
 Knife: https://pixabay.com/en/knife-chef-cutting-food-kitchen-156794/ (Resized)
+
+Cake: http://en.miankoutu.com/3gpic/251400

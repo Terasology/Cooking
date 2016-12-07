@@ -1,0 +1,21 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Cake",
+        "stackId": "Cooking:cake",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Cake"
+    },
+    "Food": {
+        "filling": 5
+    },
+    "ItemHelp": {
+        "category": "Cake",
+        "paragraphText": [
+             "Who does not want a peice of Cake!",
+             "Restores 5 food."
+        ]
+    }
+}
