@@ -1,0 +1,28 @@
+{
+  "parent": "engine:iconItem",
+  "Item": {
+    "icon": "Cooking:ChefKnife",
+    "stackId": "cooking:ChefKnife",
+    "consumedOnUse": false
+  },
+  "DisplayName": {
+    "name": "Chef's Knife",
+    "description": "Use to chop and cut many different foods."
+  },
+  "Durability": {
+    "durability": 150,
+    "maxDurability": 150
+  },
+  "CraftingStationTool": {
+    "type": ["chefKnife"]
+  },
+  "CraftInHandIngredient": {
+    "componentType": "Cooking:chefKnife"
+  },
+  "ItemHelp": {
+    "category": "Cooking",
+    "paragraphText": [
+      "A vital tool, a chef's knife is used to slice, chop, dice and much more."
+    ]
+  }
+}

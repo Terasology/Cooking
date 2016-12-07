@@ -20,7 +20,7 @@
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "<description of eggs>",
+             "An item gathered from a chicken. A staple for breakfast and baking foods. It is recommended that you cook this.",
              "Restores 1 food and 0 water."
         ]
     }
