@@ -20,7 +20,7 @@
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "<description of salt>",
+             "A mineral with a distinctive salty taste, harvested from the sea and used in many foods.",
              "Restores 0.1 food and drains 0.2 water."
         ]
     }

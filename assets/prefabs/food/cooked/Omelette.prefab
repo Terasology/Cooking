@@ -14,7 +14,7 @@
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "<description of omelettes>",
+             "A fried, savory food item made from eggs and other ingredients to taste.",
              "Restores 5 food."
         ]
     }
