@@ -1,0 +1,27 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Egg",
+        "stackId": "Cooking:egg",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Egg"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:egg"
+    },
+    "Food": {
+        "filling": 1
+    },
+    "Drink": {
+        "filling": 0
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "<description of eggs>",
+             "Restores 1 food and 0 water."
+        ]
+    }
+}

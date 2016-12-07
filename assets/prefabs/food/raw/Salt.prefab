@@ -1,0 +1,27 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Salt",
+        "stackId": "Cooking:salt",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Salt"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:salt"
+    },
+    "Food": {
+        "filling": 0.1
+    },
+    "Drink": {
+        "filling": -0.2
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "<description of salt>",
+             "Restores 0.1 food and drains 0.2 water."
+        ]
+    }
+}

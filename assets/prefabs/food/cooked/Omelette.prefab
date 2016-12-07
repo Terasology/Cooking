@@ -1,0 +1,21 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Omelette",
+        "stackId": "Cooking:omelette",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Omelette"
+    },
+    "Food": {
+        "filling": 5
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "<description of omelettes>",
+             "Restores 5 food."
+        ]
+    }
+}

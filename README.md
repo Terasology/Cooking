@@ -86,3 +86,9 @@ Butter: https://commons.wikimedia.org/wiki/File:Western-pack-butter.jpg (resized
 Roast Potatoes: https://pixabay.com/en/country-potatoes-roast-potato-food-712661/ (resized)
 
 Cookie: https://github.com/gkaretka
+
+Omelette: http://www.clipartpanda.com/categories/omelet-20clipart
+
+Tomato: https://openclipart.org/detail/225413/minitomato
+
+Salt: https://openclipart.org/detail/210621/spice-pinch-of-salt

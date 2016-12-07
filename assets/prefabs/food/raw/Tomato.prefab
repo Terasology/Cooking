@@ -1,0 +1,27 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Tomato",
+        "stackId": "Cooking:tomato",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Tomato"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:tomato"
+    },
+    "Food": {
+        "filling": 2
+    },
+    "Drink": {
+        "filling": 2
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "<description of tomatoes>",
+             "Restores 2 food and 2 water."
+        ]
+    }
+}

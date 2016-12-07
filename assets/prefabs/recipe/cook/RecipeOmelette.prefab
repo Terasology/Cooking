@@ -1,0 +1,31 @@
+{
+    "ProcessDefinition": {
+        "processType": "Cooking:Cooking"
+    },
+    "CraftingStationRecipe": {
+        "recipeId": "Hot food|Cooking:Omelette",
+
+        "recipeComponents": ["2*Cooking:egg","1*Cooking:onion","1*Cooking:tomato","1*Cooking:salt"],
+        "recipeFluids": [],
+        "requiredTemperature": 200,
+        "processingDuration": 20000,
+
+        "itemResult": "1*Cooking:Omelette"
+    },
+    "ProcessingTime": {
+        "duration": 20000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:egg": 2,
+            "Cooking:onion": 1,
+            "Cooking:tomato": 1,
+            "Cooking:salt": 1
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:Omelette": 1
+        }
+    }
+}
