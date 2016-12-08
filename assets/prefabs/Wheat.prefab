@@ -11,8 +11,8 @@
     "CraftingStationIngredient": {
         "type": "Cooking:wheat"
     },
-	"Food": {
-	  "filling": 0.1
+    "Food": {
+      "filling": 0.1
 	},
     "ItemHelp": {
         "category": "Cooking",
