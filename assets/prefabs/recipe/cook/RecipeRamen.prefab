@@ -1,0 +1,15 @@
+{
+    "ProcessDefinition": {
+        "processType": "Cooking:Cooking"
+    },
+    "CraftingStationRecipe": {
+        "recipeId": "Hot food|Cooking:Ramen",
+
+        "recipeComponents": ["4*Cooking:flour","1*Cooking:salt","1*Cooking:butter"],
+        "recipeFluids": ["0.5*Fluid:Water"],
+        "requiredTemperature": 100,
+        "processingDuration": 3000,
+
+        "itemResult": "1*Cooking:Ramen"
+    }
+}
