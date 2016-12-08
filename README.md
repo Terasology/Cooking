@@ -29,6 +29,8 @@ Cookie: https://github.com/gkaretka
 
 Spoon: https://github.com/gkaretka
 
+Wheat: https://en.wikipedia.org/wiki/Wheat
+
 ### Credits for images:
 
 Grape: http://www.publicdomainpictures.net/view-image.php?image=128395&picture=grapes
@@ -106,3 +108,5 @@ Potato Salad: https://commons.wikimedia.org/wiki/File:Potato_salad_(1).jpg (Resi
 Knife: https://pixabay.com/en/knife-chef-cutting-food-kitchen-156794/ (Resized)
 
 Cake: http://en.miankoutu.com/3gpic/251400
+
+Wheat: https://commons.wikimedia.org/wiki/File:Meuble_bl%C3%A9_tig%C3%A9_feuill%C3%A9.svg (Resized)
