@@ -1,27 +1,27 @@
 {
     "parent": "engine:iconItem",
     "Item": {
-        "icon": "Cooking:Tomato",
-        "stackId": "Cooking:tomato",
+        "icon": "Cooking:RedMushroom",
+        "stackId": "Cooking:redMushroom",
         "consumedOnUse": true
     },
     "DisplayName": {
-        "name": "Tomato"
+        "name": "RedMushroom"
     },
     "CraftingStationIngredient": {
-        "type": "Cooking:tomato"
+        "type": "Cooking:redMushroom"
     },
     "Food": {
         "filling": 2
     },
     "Drink": {
-        "filling": 2
+        "filling": 0
     },
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "A juicy, red, round edible fruit, having high water content and a mild sour taste.",
-             "Restores 2 food and 2 water."
+             "A large red mushroom with white spots on its cap.",
+             "Restores 2 hunger."
         ]
     }
 }

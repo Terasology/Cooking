@@ -1,0 +1,27 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Tomato",
+        "stackId": "Cooking:tomato",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Tomato"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:tomato"
+    },
+    "Food": {
+        "filling": 2
+    },
+    "Drink": {
+        "filling": 2
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A juicy, red, round edible fruit, having high water content and a mild sour taste.",
+             "Restores 2 hunger and 2 thirst."
+        ]
+    }
+}

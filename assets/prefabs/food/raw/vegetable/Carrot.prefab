@@ -1,0 +1,27 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Carrot",
+        "stackId": "Cooking:carrot",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Carrot"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:carrot"
+    },
+    "Food": {
+        "filling": 3
+    },
+    "Drink": {
+        "filling": 0
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A crunchy orange root vegetable.",
+             "Restores 3 hunger."
+        ]
+    }
+}
