@@ -1,0 +1,22 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:items#IndianTea",
+        "stackId": "Cooking:IndianTea",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Indian Tea"
+    },
+    "Food": {
+        "filling": 1   },
+    "Drink": {
+        "filling": 6    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A refreshing drink containing exotic Indian flavours which makes your day.",
+             "Restores 1 food and 6 water."
+        ]
+    }
+}
