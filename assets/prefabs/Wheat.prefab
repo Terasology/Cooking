@@ -1,8 +1,8 @@
 {
     "parent": "engine:iconItem",
     "Item": {
-        "icon": "Cooking:items#Wheat",
-        "stackId": "Cooking:wheat"
+        "icon": "Cooking:Wheat",
+        "stackId": "Cooking:wheat",
         "consumedOnUse": true
     },
     "DisplayName": {
