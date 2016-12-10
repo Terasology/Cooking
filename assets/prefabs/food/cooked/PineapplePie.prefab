@@ -1,0 +1,24 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:items#PineapplePie",
+        "stackId": "Cooking:PineapplePie",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Pineapple Pie"
+    },
+    "Food": {
+        "filling": 5
+    },
+    "Drink": {
+        "filling": 2
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A tart pie made with fresh Pineapples and a flaky, crispy crust.",
+             "Restores 5 food and 2 water."
+        ]
+    }
+}
