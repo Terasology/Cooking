@@ -6,7 +6,7 @@
         "recipeId": "Mixed food|Cooking:IndianTea",
 
         "recipeComponents": ["1*Cooking:sugar","2*Cooking:tea",],
-        "recipeFluids": ["2*Fluid:Water""1*Fluid:Milk"],
+        "recipeFluids": ["2*Fluid:Water""1*Fluid:Cocunutilk"],
         "requiredTemperature": 80,
         "processingDuration": 120,
 
