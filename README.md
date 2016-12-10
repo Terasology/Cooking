@@ -110,3 +110,5 @@ Knife: https://pixabay.com/en/knife-chef-cutting-food-kitchen-156794/ (Resized)
 Cake: http://en.miankoutu.com/3gpic/251400
 
 Wheat: https://commons.wikimedia.org/wiki/File:Meuble_bl%C3%A9_tig%C3%A9_feuill%C3%A9.svg (Resized)
+
+Fruit Salad: https://pixabay.com/en/desserts-fruit-salad-bowl-stacked-575437/ (Resized)
