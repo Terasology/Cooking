@@ -1,0 +1,21 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:FruitSalad",
+        "stackId": "Cooking:FruitSalad",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Fruit Salad"
+    },
+    "Food": {
+        "filling": 8
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A salad with fresh fruits in it",
+             "Restores 8 Food."
+        ]
+    }
+}
