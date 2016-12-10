@@ -1,7 +1,7 @@
-{
+.p{
     "parent": "engine:iconItem",
     "Item": {
-        "icon": "Cooking:items#IndianTea",
+        "icon": "Cooking:items#IndianTea.png",
         "stackId": "Cooking:IndianTea",
         "consumedOnUse": true
     },
