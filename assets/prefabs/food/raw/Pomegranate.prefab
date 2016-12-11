@@ -1,25 +1,26 @@
 {
     "parent": "engine:iconItem",
     "Item": {
-        "icon": "Cooking: pomegranate”,
-        "stackId": "Cooking: pomegranate”,
+        "icon": "Cooking:Pomegranate",
+        "stackId": "Cooking:pomegranate",
         "consumedOnUse": true
     },
     "DisplayName": {
-        "name": “Pomegranate”
+        "name": “Pomegranate"
     },
     "CraftingStationIngredient": {
-        "type": "Cooking: pomegranate”
+        "type": "Cooking:pomegranate"
     },
     "Food": {
         "filling": 3
     },
     "Drink": {
-        "filling": 2  },
+        "filling": 2  
+    },
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "A big, red fruit, with small juice filled seed covering! Perfect for a adventurer like you“,
+             "A big, red fruit, with small juice filled seed covering!",
              "Restores 3 food and 2 water."
         ]
     }
