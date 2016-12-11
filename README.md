@@ -32,6 +32,7 @@ Spoon: https://github.com/gkaretka
 Wheat: https://en.wikipedia.org/wiki/Wheat
 
 ### Credits for images:
+Pomegranate:https://pixabay.com/en/pomegranate-fruit-cut-red-seed-150255/
 
 Grape: http://www.publicdomainpictures.net/view-image.php?image=128395&picture=grapes
 
