@@ -114,3 +114,5 @@ Wheat: https://commons.wikimedia.org/wiki/File:Meuble_bl%C3%A9_tig%C3%A9_feuill%
 Fruit Salad: https://pixabay.com/en/desserts-fruit-salad-bowl-stacked-575437/ (Resized)
 
 Grater: https://openclipart.org/detail/180156/grater
+
+Pineapple Pie: http://res.freestockphotos.biz/pictures/17/17487-illustration-of-a-slice-of-pie-pv.png (Resized)
