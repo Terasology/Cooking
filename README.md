@@ -113,4 +113,4 @@ Wheat: https://commons.wikimedia.org/wiki/File:Meuble_bl%C3%A9_tig%C3%A9_feuill%
 
 Fruit Salad: https://pixabay.com/en/desserts-fruit-salad-bowl-stacked-575437/ (Resized)
 
-Pineapple Pie: http://www.firehow.com/images/stories/users/82/pineapple-pie.jpg (Resized)
+Pineapple Pie: http://www.firehow.com/images/stories/users/82/pineapple-pie.jpg (Resized
