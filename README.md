@@ -112,3 +112,5 @@ Cake: http://en.miankoutu.com/3gpic/251400
 Wheat: https://commons.wikimedia.org/wiki/File:Meuble_bl%C3%A9_tig%C3%A9_feuill%C3%A9.svg (Resized)
 
 Fruit Salad: https://pixabay.com/en/desserts-fruit-salad-bowl-stacked-575437/ (Resized)
+
+Pineapple Pie: http://www.firehow.com/images/stories/users/82/pineapple-pie.jpg (Resized)
