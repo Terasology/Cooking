@@ -6,7 +6,7 @@
 	        "recipeId": "Hot food|Cooking:Bananabread”,
 
 
-	        "recipeComponents": ["1*Cooking:flour","1*Cooking:sugar”,”3*Cooking:banana”,”1*Cooking:chocolate”],
+	        "recipeComponents": ["1*Cooking:cornflour","1*Cooking:sugar”,”3*Cooking:banana”,”1*Cooking:chocolate”],
 	        "recipeFluids": ["0.5*Fluid:Water"],
 	        "requiredTemperature": 200,
 	        "processingDuration": 25000,
