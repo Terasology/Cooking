@@ -1,0 +1,28 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Grater",
+        "stackId": "Cooking:Grater",
+        "consumedOnUse": false
+    },
+    "DisplayName": {
+        "name": "Grater",
+        "description": "Used to grate foods into fine pieces."
+    },
+    "Durability": {
+        "durability": 100,
+        "maxDurability": 100
+    },
+    "CraftingStationTool": {
+        "type": ["grater"]
+    },
+    "CraftInHandIngredient": {
+        "componentType": "Cooking:grater"
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+            "A hollow box shape grater used to grate soft foods into smaller pieces."
+        ]
+    }
+}
