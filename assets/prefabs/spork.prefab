@@ -1,0 +1,16 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:spork”,
+        "stackId": "Cooking:spork”
+    },
+    "DisplayName": {
+        "name": “spork”
+    },
+    "ItemHelp": {
+        "category": "CookingUtils",
+        "paragraphText": [
+          “It’ functions as a spoon and a fork, hence the name spork.”
+        ]
+    }
+}
