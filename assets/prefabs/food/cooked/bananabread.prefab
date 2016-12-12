@@ -1,0 +1,26 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking: Banana Bread",
+        "stackId": "Cooking: Banana Bread",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Banana Bread"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking: Banana Bread"
+    },
+    "Food": {
+        "filling": 3
+    },
+    "Drink": {
+        "filling": 0  },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A traditional thanksgiving dish!",
+             "Restores 3 foood."
+        ]
+    }
+}
