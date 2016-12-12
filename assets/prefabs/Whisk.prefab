@@ -8,7 +8,7 @@
         "name": "Whisk"
     },
     "Durability": {
-   	    "durability": 600,
+        "durability": 600,
         "maxDurability": 800
     },
     "CraftingStationTool": {
