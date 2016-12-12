@@ -1,0 +1,26 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking: starfruit”,
+        "stackId": "Cooking: starfruit”,
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": “starfruit”
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking: starfruit”
+    },
+    "Food": {
+        "filling": 3
+    },
+    "Drink": {
+        "filling": 2  },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A medium size,greenish orange color fruit, with alot of  sour juice filled inside!“,
+             "Restores 2 food and 3 water."
+        ]
+    }
+}
