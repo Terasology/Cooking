@@ -115,4 +115,4 @@ Fruit Salad: https://pixabay.com/en/desserts-fruit-salad-bowl-stacked-575437/ (R
 
 Pineapple Pie: http://res.freestockphotos.biz/pictures/17/17487-illustration-of-a-slice-of-pie-pv.png (Resized)
 
-Whisk: https://c1.staticflickr.com/3/2707/4049374496_5809b856f8_b.jpg (Resized)
+Whisk: https://pixabay.com/en/mixer-electric-appliance-equipment-31112/
