@@ -33,6 +33,10 @@ Wheat: https://en.wikipedia.org/wiki/Wheat
 
 ### Credits for images:
 
+Banana bread: https://pixabay.com/en/banana-bread-brown-food-fruit-1295617/
+
+Spork: https://thenounproject.com/term/spork/22693/
+
 Pomegranate:https://pixabay.com/en/pomegranate-fruit-cut-red-seed-150255/
 
 Grape: http://www.publicdomainpictures.net/view-image.php?image=128395&picture=grapes
