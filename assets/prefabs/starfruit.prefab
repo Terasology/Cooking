@@ -1,15 +1,15 @@
 {
     "parent": "engine:iconItem",
     "Item": {
-        "icon": "Cooking: starfruit”,
-        "stackId": "Cooking: starfruit”,
+        "icon": "Cooking:Starfruit”,
+        "stackId": "Cooking:Starfruit”,
         "consumedOnUse": true
     },
     "DisplayName": {
-        "name": “starfruit”
+        "name": “Starfruit”
     },
     "CraftingStationIngredient": {
-        "type": "Cooking: starfruit”
+        "type": "Cooking:Starfruit”
     },
     "Food": {
         "filling": 3
