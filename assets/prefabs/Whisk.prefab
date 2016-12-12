@@ -8,14 +8,14 @@
         "name": "Whisk"
     },
     "Durability": {
-    	"durability": 600,
-    	"maxDurability": 800
+   	    "durability": 600,
+        "maxDurability": 800
     },
     "CraftingStationTool": {
-    	"type": ["Whisk"]
+        "type": ["Whisk"]
     },
     "CraftInHandIngredient": {
-    	"componentType": "Cooking:Whisk"
+        "componentType": "Cooking:Whisk"
     },
     "ItemHelp": {
         "category": "Cooking",
