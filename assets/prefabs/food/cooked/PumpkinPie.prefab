@@ -1,0 +1,24 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:items#PumpkinPie",
+        "stackId": "Cooking:pumpkinPie",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Pumpkin Pie"
+    },
+    "Food": {
+        "filling": 7
+    },
+    "Drink": {
+        "filling": 0.5
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A delicious pie made out of pumkin.",
+             "Restores 7 food and .5 water."
+        ]
+    }
+}
