@@ -31,8 +31,6 @@ Spoon: https://github.com/gkaretka
 
 Wheat: https://en.wikipedia.org/wiki/Wheat
 
-Fork: Patrick Wang
-
 Spatula: https://en.wikibooks.org/wiki/Cookbook:Spatula
 
 ### Credits for images:
@@ -95,7 +93,7 @@ Pineapple Juice: http://www.pixcove.com/pineapple-juice-drink-concoction-food-pi
 
 Pineapple: http://pngimg.com/download/2726
 
-Brown Sugar: BrownSugar.png created by Camellia, original
+Brown Sugar: Created by Camellia, original
 
 Butter: https://commons.wikimedia.org/wiki/File:Western-pack-butter.jpg (resized)
 
@@ -109,9 +107,9 @@ Tomato: https://openclipart.org/detail/225413/minitomato
 
 Salt: https://openclipart.org/detail/210621/spice-pinch-of-salt
 
-Egg: Egg.png created by J0hnCena, original
+Egg: Created by J0hnCena, original
 
-Boiled Egg: BoiledEgg.png created by J0hnCena, original
+Boiled Egg: Created by J0hnCena, original
 
 Potato Salad: https://commons.wikimedia.org/wiki/File:Potato_salad_(1).jpg (Resized)
 
@@ -129,4 +127,6 @@ Pineapple Pie: http://res.freestockphotos.biz/pictures/17/17487-illustration-of-
 
 Whisk: https://pixabay.com/en/mixer-electric-appliance-equipment-31112/
 
-Fork and Spatula: Patrick Wang
+Fork: Created by Patrick Wang. Original
+
+Spatula: Created by Patrick Wang. Original
