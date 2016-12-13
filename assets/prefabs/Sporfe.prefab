@@ -2,11 +2,11 @@
 {
     "parent": "engine:iconItem",
     "Item": {
-        "icon": "Cooking:SporkKnife",
-        "stackId": "Cooking:SporkKnife"
+        "icon": "Cooking:Sporfe",
+        "stackId": "Cooking:Sporfe"
     },
     "DisplayName": {
-        "name": "SporkKnife"
+        "name": "Sporfe"
     },
     "ItemHelp": {
         "category": "CookingUtils",
