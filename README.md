@@ -129,6 +129,4 @@ Pineapple Pie: http://res.freestockphotos.biz/pictures/17/17487-illustration-of-
 
 Whisk: https://pixabay.com/en/mixer-electric-appliance-equipment-31112/
 
-Fork: Patrick Wang
-
-Spatula: Patrick Wang
+Fork and Spatula: Patrick Wang
