@@ -31,6 +31,10 @@ Spoon: https://github.com/gkaretka
 
 Wheat: https://en.wikipedia.org/wiki/Wheat
 
+Fork: Patrick Wang
+
+Spatula: https://en.wikibooks.org/wiki/Cookbook:Spatula
+
 ### Credits for images:
 
 Banana bread: https://pixabay.com/en/banana-bread-brown-food-fruit-1295617/
@@ -124,3 +128,5 @@ Grater: https://openclipart.org/detail/180156/grater
 Pineapple Pie: http://res.freestockphotos.biz/pictures/17/17487-illustration-of-a-slice-of-pie-pv.png (Resized)
 
 Whisk: https://pixabay.com/en/mixer-electric-appliance-equipment-31112/
+
+Fork and Spatula: Patrick Wang
