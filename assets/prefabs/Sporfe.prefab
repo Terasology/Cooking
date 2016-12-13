@@ -1,0 +1,17 @@
+
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:SporkKnife",
+        "stackId": "Cooking:SporkKnife"
+    },
+    "DisplayName": {
+        "name": "SporkKnife"
+    },
+    "ItemHelp": {
+        "category": "CookingUtils",
+        "paragraphText": [
+          "Basic utensil used for eating and drinking soup cutting meat."
+        ]
+    }
+}
