@@ -1,0 +1,24 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:items#AppleJuice",
+        "stackId": "Cooking:AppleJuice",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Apple Juice"
+    },
+    "Food": {
+        "filling": 1
+    },
+    "Drink": {
+        "filling": 8
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A refreshing glass of juice made with apples, hence the name, apple juice.",
+             "Restores 1 food and 8 water."
+        ]
+    }
+}
