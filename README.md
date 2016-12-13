@@ -130,3 +130,13 @@ Whisk: https://pixabay.com/en/mixer-electric-appliance-equipment-31112/
 Fork: Created by Patrick Wang. Original
 
 Spatula: Created by Patrick Wang. Original
+
+Apple Juice: Created by Patrick Wang. Original
+
+Orange: Created by Patrick Wang. Original
+
+Orange Juice: Created by Patrick Wang. Original
+
+Pumpkin: Created by Patrick Wang. Original
+
+PumpkinPie: Created by Patrick Wang. Original
