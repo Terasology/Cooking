@@ -1,0 +1,28 @@
+{
+  "parent": "engine:iconItem",
+  "Item": {
+    "icon": "Cooking:SporkKnife",
+    "stackId": "cooking:SporkKnife",
+    "consumedOnUse": false
+  },
+  "DisplayName": {
+    "name": "SporkKnife",
+    "description": "Knife Spoon in One tool "
+  },
+  "Durability": {
+    "durability": 100,
+    "maxDurability": 100
+  },
+  "CraftingStationTool": {
+    "type": ["SporkKnife"]
+  },
+  "CraftInHandIngredient": {
+    "componentType": "Cooking:SporkKnife"
+  },
+  "ItemHelp": {
+    "category": "Cooking",
+    "paragraphText": [
+      "A vital tool, a SporkKnife is used to cut and eat with one tool."
+    ]
+  }
+}
