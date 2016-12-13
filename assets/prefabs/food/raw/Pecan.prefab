@@ -1,7 +1,7 @@
 {
     "parent": "engine:iconItem",
     "Item": {
-        "icon": "Cooking:items#pecan",
+        "icon": "Cooking:pecan",
         "stackId": "Cooking:pecan"
     },
     "DisplayName": {
