@@ -143,4 +143,4 @@ Pumpkin: Created by Patrick Wang. Original
 
 PumpkinPie: Created by Patrick Wang. Original
 
-SauteedApples :  https://c2.staticflickr.com/4/3596/3360467255_de7227ce96_b.jpg(Resized)
+SauteedApples:  https://c2.staticflickr.com/4/3596/3360467255_de7227ce96_b.jpg(Resized)
