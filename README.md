@@ -145,6 +145,6 @@ PumpkinPie: Created by Patrick Wang. Original
 
 Starfruit: https://pixabay.com/en/starfruit-fruit-yellow-carambola-159325/
 
-PecanPie: http://media.istockphoto.com/vectors/pecan-pie-vector-id165974396?k=6&m=165974396&s=170667a&w=0&h=vJO_7uYqp0vRnPOsCfqechT5WfQkLOlJbxy_v0Ah0-k=
+PecanPie: http://www.istockphoto.com/in/vector/pecan-pie-gm165974396-21795146?st=_p_pecan%20pie
 
-Pecan: http://www.clipartkid.com/images/128/pecans-Ep7iNM-clipart.png
+Pecan: http://worldartsme.com/pecan-nut-clipart.html#
