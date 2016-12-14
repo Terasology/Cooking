@@ -17,6 +17,8 @@ Send in PRs to this repository and feel free to add your name to the authors lis
 
 ### Credits for descriptions:
 
+Ladle (slightly modified): http://www.clipartpal.com/clipart_pd/household/kitchen/ladle1.html
+
 Chocolate (modified): https://en.wikipedia.org/wiki/Chocolate
 
 Coconut: https://en.wikipedia.org/wiki/Coconut_milk
@@ -127,6 +129,8 @@ Pineapple Pie: http://res.freestockphotos.biz/pictures/17/17487-illustration-of-
 
 Whisk: https://pixabay.com/en/mixer-electric-appliance-equipment-31112/
 
+SauteedApple: https://cdn.pixabay.com/photo/2015/10/07/17/13/cherry-pie-976470_960_720.png (Resized)
+               
 Sporfe : http://makercommons.org/wp-content/uploads/2014/03/3D_print_4-300x162.png (Resized)
 
 Fork: Created by Patrick Wang. Original
@@ -150,3 +154,9 @@ Bean (modified): https://apkpure.com/cn/ginjal-sehat/com.wGinjalSehat
 Cooked Beans: Created by Minege. Original
 
 Chopsticks: Created by Minege, Inspired from Freepik on www.flaticon.com 
+
+PecanPie: http://www.pictureicon.com/image/pecan-pie-vector-art-getty-images
+
+Pecan: http://worldartsme.com/pecan-nut-clipart.html#
+
+Peeler: https://pixabay.com/en/peeler-blade-tool-kitchen-peel-30634/
