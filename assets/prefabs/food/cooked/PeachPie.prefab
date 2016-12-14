@@ -1,0 +1,24 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:PeachPie",
+        "stackId": "Cooking:peachPie",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Peach Pie"
+    },
+    "Food": {
+        "filling": 5
+    },
+    "Drink": {
+        "filling": 1
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A pie made with fresh peaches and a biscuity crust.",
+             "Restores 5 food and 1 water."
+        ]
+    }
+}
