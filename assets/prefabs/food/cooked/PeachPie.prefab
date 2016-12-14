@@ -1,12 +1,12 @@
 {
     "parent": "engine:iconItem",
     "Item": {
-        "icon": "Cooking:ApplePie",
-        "stackId": "Cooking:applePie",
+        "icon": "Cooking:PeachPie",
+        "stackId": "Cooking:peachPie",
         "consumedOnUse": true
     },
     "DisplayName": {
-        "name": "Apple Pie"
+        "name": "Peach Pie"
     },
     "Food": {
         "filling": 5
@@ -17,7 +17,7 @@
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "A tart pie made with fresh apples and a flaky, crispy crust.",
+             "A pie made with fresh peaches and a biscuity crust.",
              "Restores 5 food and 1 water."
         ]
     }

@@ -1,0 +1,16 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Fork",
+        "stackId": "Cooking:fork"
+    },
+    "DisplayName": {
+        "name": "Fork"
+    },
+    "ItemHelp": {
+        "category": "CookingUtils",
+        "paragraphText": [
+          "Basic utensil used for eating food like spagetti."
+        ]
+    }
+}

@@ -17,6 +17,8 @@ Send in PRs to this repository and feel free to add your name to the authors lis
 
 ### Credits for descriptions:
 
+Ladle (slightly modified): http://www.clipartpal.com/clipart_pd/household/kitchen/ladle1.html
+
 Chocolate (modified): https://en.wikipedia.org/wiki/Chocolate
 
 Coconut: https://en.wikipedia.org/wiki/Coconut_milk
@@ -31,7 +33,13 @@ Spoon: https://github.com/gkaretka
 
 Wheat: https://en.wikipedia.org/wiki/Wheat
 
+Spatula: https://en.wikibooks.org/wiki/Cookbook:Spatula
+
 ### Credits for images:
+
+Banana bread: https://pixabay.com/en/banana-bread-brown-food-fruit-1295617/
+
+Spork: https://thenounproject.com/term/spork/22693/
 
 Pomegranate:https://pixabay.com/en/pomegranate-fruit-cut-red-seed-150255/
 
@@ -87,7 +95,7 @@ Pineapple Juice: http://www.pixcove.com/pineapple-juice-drink-concoction-food-pi
 
 Pineapple: http://pngimg.com/download/2726
 
-Brown Sugar: BrownSugar.png created by Camellia, original
+Brown Sugar: Created by Camellia, original
 
 Butter: https://commons.wikimedia.org/wiki/File:Western-pack-butter.jpg (resized)
 
@@ -101,9 +109,9 @@ Tomato: https://openclipart.org/detail/225413/minitomato
 
 Salt: https://openclipart.org/detail/210621/spice-pinch-of-salt
 
-Egg: Egg.png created by J0hnCena, original
+Egg: Created by J0hnCena, original
 
-Boiled Egg: BoiledEgg.png created by J0hnCena, original
+Boiled Egg: Created by J0hnCena, original
 
 Potato Salad: https://commons.wikimedia.org/wiki/File:Potato_salad_(1).jpg (Resized)
 
@@ -123,6 +131,26 @@ Whisk: https://pixabay.com/en/mixer-electric-appliance-equipment-31112/
 
 SauteedApple: https://cdn.pixabay.com/photo/2015/10/07/17/13/cherry-pie-976470_960_720.png (Resized)
                
+Sporfe : http://makercommons.org/wp-content/uploads/2014/03/3D_print_4-300x162.png (Resized)
 
+Fork: Created by Patrick Wang. Original
 
+Spatula: Created by Patrick Wang. Original
 
+Apple Juice: Created by Patrick Wang. Original
+
+Orange: Created by Patrick Wang. Original
+
+Orange Juice: Created by Patrick Wang. Original
+
+Pumpkin: Created by Patrick Wang. Original
+
+PumpkinPie: Created by Patrick Wang. Original
+
+Starfruit: https://pixabay.com/en/starfruit-fruit-yellow-carambola-159325/
+
+PecanPie: http://www.pictureicon.com/image/pecan-pie-vector-art-getty-images
+
+Pecan: http://worldartsme.com/pecan-nut-clipart.html#
+
+Peeler: https://pixabay.com/en/peeler-blade-tool-kitchen-peel-30634/

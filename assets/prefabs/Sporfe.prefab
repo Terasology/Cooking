@@ -1,0 +1,17 @@
+
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Sporfe",
+        "stackId": "Cooking:Sporfe"
+    },
+    "DisplayName": {
+        "name": "Sporfe"
+    },
+    "ItemHelp": {
+        "category": "CookingUtils",
+        "paragraphText": [
+          "Basic utensil used for eating and drinking soup cutting meat."
+        ]
+    }
+}
