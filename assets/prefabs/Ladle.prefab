@@ -1,0 +1,16 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Ladle",
+        "stackId": "Cooking:Ladle"
+    },
+    "DisplayName": {
+        "name": "Ladle"
+    },
+    "ItemHelp": {
+        "category": "CookingUtils",
+        "paragraphText": [
+            "A long-handled spoon used to serve items (usually soup or gravy)."
+        ]
+    }
+}
