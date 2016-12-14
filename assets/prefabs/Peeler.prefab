@@ -1,0 +1,17 @@
+
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Peeler",
+        "stackId": "Cooking:Peeler"
+    },
+    "DisplayName": {
+        "name": "Peeler"
+    },
+    "ItemHelp": {
+        "category": "CookingUtils",
+        "paragraphText": [
+          "It helps to remove the peel of some fruits such as removing the first layer of the apple etc."
+        ]
+    }
+}
