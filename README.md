@@ -149,6 +149,12 @@ PumpkinPie: Created by Patrick Wang. Original
 
 Starfruit: https://pixabay.com/en/starfruit-fruit-yellow-carambola-159325/
 
+Bean (modified): https://apkpure.com/cn/ginjal-sehat/com.wGinjalSehat
+
+Cooked Beans: Created by Minege. Original
+
+Chopsticks: Created by Minege, Inspired from Freepik on www.flaticon.com 
+
 PecanPie: http://www.pictureicon.com/image/pecan-pie-vector-art-getty-images
 
 Pecan: http://worldartsme.com/pecan-nut-clipart.html#

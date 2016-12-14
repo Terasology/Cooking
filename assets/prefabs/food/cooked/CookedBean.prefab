@@ -1,0 +1,24 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:CookedBean",
+        "stackId": "Cooking:cookedBean",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Cooked Bean"
+    },
+    "Food": {
+        "filling": 4
+    },
+    "Drink": {
+        "filling": 2
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A really delicious hot cooked beans bowl.",
+             "Restores 4 food and 2 water."
+        ]
+    }
+}
