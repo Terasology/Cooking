@@ -1,0 +1,19 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:ipecanpie",
+        "stackId": "Cooking:pecanpie"
+    },
+    "DisplayName": {
+        "name": "pecanpie"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:pecanpie"
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "pecanpie is a dessert item with condiments inside."
+        ]
+    }
+}
