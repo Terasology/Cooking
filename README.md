@@ -148,3 +148,5 @@ Starfruit: https://pixabay.com/en/starfruit-fruit-yellow-carambola-159325/
 Bean: Created by Minege. Original
 
 Cooked Beans: Created by Minege. Original
+
+Chopsticks: Created by Minege, Inspired from Freepik on www.flaticon.com 
