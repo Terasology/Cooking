@@ -144,3 +144,5 @@ Pumpkin: Created by Patrick Wang. Original
 PumpkinPie: Created by Patrick Wang. Original
 
 Starfruit: https://pixabay.com/en/starfruit-fruit-yellow-carambola-159325/
+
+PecanPie: http://media.istockphoto.com/vectors/pecan-pie-vector-id165974396?k=6&m=165974396&s=170667a&w=0&h=vJO_7uYqp0vRnPOsCfqechT5WfQkLOlJbxy_v0Ah0-k=
