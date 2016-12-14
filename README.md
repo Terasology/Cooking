@@ -145,7 +145,7 @@ PumpkinPie: Created by Patrick Wang. Original
 
 Starfruit: https://pixabay.com/en/starfruit-fruit-yellow-carambola-159325/
 
-Bean: https://apkpure.com/cn/ginjal-sehat/com.wGinjalSehat
+Bean (modified): https://apkpure.com/cn/ginjal-sehat/com.wGinjalSehat
 
 Cooked Beans: Created by Minege. Original
 
