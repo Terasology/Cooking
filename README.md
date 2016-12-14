@@ -17,6 +17,8 @@ Send in PRs to this repository and feel free to add your name to the authors lis
 
 ### Credits for descriptions:
 
+Ladle (slightly modified): http://www.clipartpal.com/clipart_pd/household/kitchen/ladle1.html
+
 Chocolate (modified): https://en.wikipedia.org/wiki/Chocolate
 
 Coconut: https://en.wikipedia.org/wiki/Coconut_milk
