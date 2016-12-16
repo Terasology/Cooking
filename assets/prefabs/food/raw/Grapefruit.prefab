@@ -1,0 +1,28 @@
+Grapefruit
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Grapefruit",
+        "stackId": "Cooking:Grapefruit",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Grapefruit"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:Grapefruit"
+    },
+    "Food": {
+        "filling": 1.7
+    },
+    "Drink": {
+        "filling": 2.3  
+        },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "The Grapefruit is a juicy yellow-orange skinned citrus fruit which tastes from sour to semi-sweet depending on the variety.",
+             "Restores 1.7 food and 2.3 water."
+        ]
+    }
+}
