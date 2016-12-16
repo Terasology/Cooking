@@ -1,0 +1,16 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Pressure Cooker",
+        "stackId": "Cooking:Pressure Cooker"
+    },
+    "DisplayName": {
+        "name": "Pressure Cooker"
+    },
+    "ItemHelp": {
+        "category": "CookingUtils",
+        "paragraphText": [
+          "Basic utensil used for conventional cooking, food like rice can be cooked with it."
+        ]
+    }
+}
