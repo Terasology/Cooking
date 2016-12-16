@@ -1,0 +1,16 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:RollingPin",
+        "stackId": "Cooking:rollingpin"
+    },
+    "DisplayName": {
+        "name": "Rolling Pin"
+    },
+    "ItemHelp": {
+        "category": "CookingUtils",
+        "paragraphText": [
+          "Basic utensil used to flatten dough for rolls."
+        ]
+    }
+}
