@@ -160,3 +160,7 @@ PecanPie: http://www.pictureicon.com/image/pecan-pie-vector-art-getty-images
 Pecan: http://worldartsme.com/pecan-nut-clipart.html#
 
 Peeler: https://pixabay.com/en/peeler-blade-tool-kitchen-peel-30634/
+
+Bread: http://kingofwallpapers.com/bread/bread-005.jpg
+
+Jam: http://www.nutripeople.co.uk/userfiles/images/cranberry%20jam.jpg

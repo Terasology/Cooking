@@ -1,0 +1,27 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Jam",
+        "stackId": "Cooking:jam",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "jam"
+    },
+    "CraftingStationIngredient": {
+       "type": "Cooking:bread"
+    },
+    "Food": {
+        "filling": 0.5
+    },
+    "Drink": {
+        "filling": 0.5
+    },
+    "ItemHelp": {
+       "category": "Cooking",
+        "paragraphText": [
+             "It's sweet. Must make for a great breakfast.",
+             "Restores 0.5 food and 0.5 water."
+        ]
+    }
+}

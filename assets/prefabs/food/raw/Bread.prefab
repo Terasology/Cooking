@@ -1,0 +1,27 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Bread",
+        "stackId": "Cooking:bread",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Bread"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:bread"
+    },
+    "Food": {
+        "filling": 1
+    },
+    "Drink": {
+        "filling": 0
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "Fluffy, Floury and Fantastic. It's bread!",
+             "Restores 1 food and 0 water."
+        ]
+    }
+}
