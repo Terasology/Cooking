@@ -161,4 +161,4 @@ Pecan: http://worldartsme.com/pecan-nut-clipart.html#
 
 Peeler: https://pixabay.com/en/peeler-blade-tool-kitchen-peel-30634/
 
-Rolling Pin: http://tlaststand.wikia.com/wiki/File:Roll_pin.jpg
+Rolling Pin: https://image.freepik.com/free-photo/rolling-pin_2734858.jpg (Edited)
