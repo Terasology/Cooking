@@ -162,3 +162,5 @@ Pecan: http://worldartsme.com/pecan-nut-clipart.html#
 Peeler: https://pixabay.com/en/peeler-blade-tool-kitchen-peel-30634/
 
 Rolling Pin: http://www.freepik.com/free-photo/rolling-pin_622989.htm (Edited)
+
+Juicer: https://pixabay.com/en/juicer-appliance-equipment-machine-575761/ (Resized)
