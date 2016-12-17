@@ -1,1 +1,0 @@
-GRAPEFRUIT(resized): http://images.all-free-download.com/images/graphicthumb/grapefruit_clip_art_25749.jpg
