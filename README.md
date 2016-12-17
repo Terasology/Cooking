@@ -161,6 +161,10 @@ Pecan: http://worldartsme.com/pecan-nut-clipart.html#
 
 Peeler: https://pixabay.com/en/peeler-blade-tool-kitchen-peel-30634/
 
-Bread: http://kingofwallpapers.com/bread/bread-005.jpg
+Jam: https://img.clipartfest.com/cc2eeef1afa0455c41eccb1291da5d22_-jam-and-jelly-3-jar-of-jam-clipart_350-350.jpeg
 
-Jam: http://www.nutripeople.co.uk/userfiles/images/cranberry%20jam.jpg
+Red Bell Pepper: https://pixabay.com/en/peppers-bell-pepper-sweet-pepper-154377/
+
+Yellow Bell Pepper: https://pixabay.com/en/peppers-bell-pepper-sweet-pepper-154377/
+
+Green Bell Pepper: https://pixabay.com/en/peppers-bell-pepper-sweet-pepper-154377/
