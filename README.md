@@ -161,6 +161,7 @@ Pecan: http://worldartsme.com/pecan-nut-clipart.html#
 
 Peeler: https://pixabay.com/en/peeler-blade-tool-kitchen-peel-30634/
 
+<<<<<<< HEAD
 Jam: https://img.clipartfest.com/cc2eeef1afa0455c41eccb1291da5d22_-jam-and-jelly-3-jar-of-jam-clipart_350-350.jpeg
 
 Red Bell Pepper: https://pixabay.com/en/peppers-bell-pepper-sweet-pepper-154377/
@@ -168,3 +169,6 @@ Red Bell Pepper: https://pixabay.com/en/peppers-bell-pepper-sweet-pepper-154377/
 Yellow Bell Pepper: https://pixabay.com/en/peppers-bell-pepper-sweet-pepper-154377/
 
 Green Bell Pepper: https://pixabay.com/en/peppers-bell-pepper-sweet-pepper-154377/
+
+Rolling Pin: http://www.freepik.com/free-photo/rolling-pin_622989.htm (Edited)
+>>>>>>> f9437f733926847ea00c1eeb383a47f3c02092d8
