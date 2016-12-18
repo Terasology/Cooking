@@ -5,7 +5,7 @@
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:FrenchToast",
 
-        "recipeComponents": ["2*Cooking:egg","1*Cooking:bread"],
+        "recipeComponents": ["2*Cooking:egg","1*Cooking:bread","1*Cooking:brownsugar"],
         "recipeFluids": ["0.5*Fluid:Water"],
         "requiredTemperature": 200,
         "processingDuration": 10000,
