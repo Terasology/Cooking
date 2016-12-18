@@ -162,7 +162,7 @@ Pecan: http://worldartsme.com/pecan-nut-clipart.html#
 Peeler: https://pixabay.com/en/peeler-blade-tool-kitchen-peel-30634/
 
 <<<<<<< HEAD
-Jam: https://img.clipartfest.com/cc2eeef1afa0455c41eccb1291da5d22_-jam-and-jelly-3-jar-of-jam-clipart_350-350.jpeg
+Jam: http://clipart.me/jam-and-jelly-3-38318
 
 Red Bell Pepper: https://pixabay.com/en/peppers-bell-pepper-sweet-pepper-154377/
 
