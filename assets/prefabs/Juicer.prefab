@@ -8,14 +8,14 @@
         "name": "Juicer"
     },
     "Durability": {
-    	"durability": 500,
-    	"maxDurability": 500
+        "durability": 500,
+        "maxDurability": 500
     },
     "CraftingStationTool": {
-    	"type": ["juicer"]
+        "type": ["juicer"]
     },
     "CraftInHandIngredient": {
-    	"componentType": "Cooking:Juicer"
+        "componentType": "Cooking:Juicer"
     },
     "ItemHelp": {
         "category": "Cooking",
