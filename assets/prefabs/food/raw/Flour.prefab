@@ -1,0 +1,27 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Flour",
+        "stackId": "Cooking:flour",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Flour"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:flour"
+    },
+    "Food": {
+        "filling": 0
+    },
+    "Drink": {
+        "filling": 0
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A bag of lots of powder. Doesn't seem like much use if its not cooked.",
+             "Restores 0 food and 0 water."
+        ]
+    }
+}
