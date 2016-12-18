@@ -170,5 +170,11 @@ Yellow Bell Pepper: https://pixabay.com/en/peppers-bell-pepper-sweet-pepper-1543
 
 Green Bell Pepper: https://pixabay.com/en/peppers-bell-pepper-sweet-pepper-154377/
 
+Cheese:
+
+VeggiePizza: https://pixabay.com/en/pizza-food-slice-cheese-mushroom-23477/
+
+ButterJamSandwich
+
 Rolling Pin: http://www.freepik.com/free-photo/rolling-pin_622989.htm (Edited)
 >>>>>>> f9437f733926847ea00c1eeb383a47f3c02092d8

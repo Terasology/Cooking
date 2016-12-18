@@ -1,0 +1,15 @@
+{
+    "ProcessDefinition": {
+        "processType": "Cooking:Cooking"
+    },
+    "CraftingStationRecipe": {
+        "recipeId": "Cold food|Cooking:ButterJamSandwich",
+
+        "recipeComponents": ["1*Cooking:Bread", "1*Cooking:Butter", "1*Cooking:Jam"],
+        "recipeFluids": ["0*Fluid:Water"],
+        "requiredTemperature": 0,
+        "processingDuration": 10000,
+
+        "itemResult": "1*Cooking:ButterJamSandwich"
+    }
+}
