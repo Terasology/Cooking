@@ -1,0 +1,27 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:RedBellPepper",
+        "stackId": "Cooking:redBellPepper",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Red Bell Pepper"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:redBellPepper"
+    },
+    "Food": {
+        "filling": 1.5
+    },
+    "Drink": {
+        "filling": 1
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A delicious crunchy red bell pepper.",
+             "Restores 1.5 hunger and 1 thirst."
+        ]
+    }
+}
