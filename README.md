@@ -161,7 +161,6 @@ Pecan: http://worldartsme.com/pecan-nut-clipart.html#
 
 Peeler: https://pixabay.com/en/peeler-blade-tool-kitchen-peel-30634/
 
-<<<<<<< HEAD
 Jam: http://clipart.me/jam-and-jelly-3-38318
 
 Red Bell Pepper: https://pixabay.com/en/peppers-bell-pepper-sweet-pepper-154377/
@@ -177,4 +176,3 @@ VeggiePizza: https://pixabay.com/en/pizza-food-slice-cheese-mushroom-23477/
 ButterJamSandwich: https://en.wikipedia.org/wiki/File:Peanut-Butter-Jelly-Sandwich.png#file
 
 Rolling Pin: http://www.freepik.com/free-photo/rolling-pin_622989.htm (Edited)
->>>>>>> f9437f733926847ea00c1eeb383a47f3c02092d8
