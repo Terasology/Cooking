@@ -1,0 +1,16 @@
+{
+    "parent": "engine:MelonBaller",
+    "Item": {
+        "icon": "Cooking:MelonBaller",
+        "stackId": "Cooking:MelonBaller"
+    },
+    "DisplayName": {
+        "name": "MelonBaller"
+    },
+    "ItemHelp": {
+        "category": "CookingUtils",
+        "paragraphText": [
+          "Cooking Utensil used to ball melons"
+        ]
+    }
+}
