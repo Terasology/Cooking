@@ -1,12 +1,11 @@
 Cooking
-============
 
 This module adds several raw food items and the ability to cook food for better restoration of hunger and thrist.
 
 Warning: You may want to bump up the max RAM usable by Terasology when enabling this module. Otherwise, your game might
 crash when openining the Cooking section of the help menu.
 
-## Contribution
+ Contribution
 1. Fork and clone this repository locally.
 2. To **add a food item**, create a prefab similar to the ones [here](https://github.com/Terasology/Cooking/tree/master/assets/prefabs/food/raw).
 3. While adding an icon for the food item, make sure that either you've created the textures for the new items, or the source you retrieved them from is compatible with the Apache 2.0 license. In any case cite the resources you've used in [this README file](https://github.com/Terasology/Cooking/blob/master/README.md). 
@@ -15,7 +14,7 @@ crash when openining the Cooking section of the help menu.
 
 Send in PRs to this repository and feel free to add your name to the authors list in the [module.txt file](https://github.com/Terasology/Cooking/blob/master/module.txt).
 
-### Credits for descriptions:
+ Credits for descriptions:
 
 Ladle (slightly modified): http://www.clipartpal.com/clipart_pd/household/kitchen/ladle1.html
 
@@ -35,7 +34,7 @@ Wheat: https://en.wikipedia.org/wiki/Wheat
 
 Spatula: https://en.wikibooks.org/wiki/Cookbook:Spatula
 
-### Credits for images:
+ Credits for images:
 
 Banana bread: https://pixabay.com/en/banana-bread-brown-food-fruit-1295617/
 
