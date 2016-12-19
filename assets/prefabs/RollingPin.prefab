@@ -2,10 +2,20 @@
     "parent": "engine:iconItem",
     "Item": {
         "icon": "Cooking:RollingPin",
-        "stackId": "Cooking:rollingpin"
+        "stackId": "Cooking:rollingPin"
     },
     "DisplayName": {
         "name": "Rolling Pin"
+    },
+    "Durability": {
+    	"durability": 500,
+    	"maxDurability": 500
+    },
+    "CraftingStationTool": {
+    	"type": ["rollingPin"]
+    },
+    "CraftInHandIngredient": {
+    	"componentType": "Cooking:RollingPin"
     },
     "ItemHelp": {
         "category": "CookingUtils",

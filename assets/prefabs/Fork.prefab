@@ -7,6 +7,16 @@
     "DisplayName": {
         "name": "Fork"
     },
+    "Durability": {
+    	"durability": 150,
+    	"maxDurability": 150
+    },
+    "CraftingStationTool": {
+    	"type": ["fork"]
+    },
+    "CraftInHandIngredient": {
+    	"componentType": "Cooking:Fork"
+    },
     "ItemHelp": {
         "category": "CookingUtils",
         "paragraphText": [

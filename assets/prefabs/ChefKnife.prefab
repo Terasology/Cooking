@@ -17,7 +17,7 @@
     "type": ["chefKnife"]
   },
   "CraftInHandIngredient": {
-    "componentType": "Cooking:chefKnife"
+    "componentType": "Cooking:ChefKnife"
   },
   "ItemHelp": {
     "category": "Cooking",

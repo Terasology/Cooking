@@ -1,0 +1,27 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Tongs",
+        "stackId": "Cooking:tongs"
+    },
+    "DisplayName": {
+        "name": "Tongs"
+    },
+    "Durability": {
+    	"durability": 500,
+    	"maxDurability": 500
+    },
+    "CraftingStationTool": {
+    	"type": ["tongs"]
+    },
+    "CraftInHandIngredient": {
+    	"componentType": "Cooking:Tongs"
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+          "Cooking utensil used to handle very hot and very cold objects."
+          "Useful to hold food items above 212F"
+        ]
+    }
+}

@@ -8,6 +8,16 @@
     "DisplayName": {
         "name": "Peeler"
     },
+    "Durability": {
+    	"durability": 400,
+    	"maxDurability": 400
+    },
+    "CraftingStationTool": {
+    	"type": ["peeler"]
+    },
+    "CraftInHandIngredient": {
+    	"componentType": "Cooking:Peeler"
+    },
     "ItemHelp": {
         "category": "CookingUtils",
         "paragraphText": [

@@ -7,6 +7,16 @@
     "DisplayName": {
         "name": "Ladle"
     },
+    "Durability": {
+    	"durability": 500,
+    	"maxDurability": 500
+    },
+    "CraftingStationTool": {
+    	"type": ["ladle"]
+    },
+    "CraftInHandIngredient": {
+    	"componentType": "Cooking:Ladle"
+    },
     "ItemHelp": {
         "category": "CookingUtils",
         "paragraphText": [
