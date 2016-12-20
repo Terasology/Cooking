@@ -173,4 +173,3 @@ Rolling Pin: http://www.freepik.com/free-photo/rolling-pin_622989.htm (Edited)
 
 Juicer: https://pixabay.com/en/juicer-appliance-equipment-machine-575761/ (Resized)
 
-MelonBaller:http://comps.canstockphoto.com/can-stock-photo_csp10363862.jpg
