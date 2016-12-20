@@ -1,0 +1,16 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:BastingBrush",
+        "stackId": "Cooking:bastingBrush"
+    },
+    "DisplayName": {
+        "name": "Basting Brush"
+    },
+    "ItemHelp": {
+        "category": "CookingUtils",
+        "paragraphText": [
+          "Used to put sauces and marinades on food before, during, or after cooking."
+        ]
+    }
+}
