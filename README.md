@@ -170,3 +170,7 @@ Yellow Bell Pepper: https://pixabay.com/en/peppers-bell-pepper-sweet-pepper-1543
 Green Bell Pepper: https://pixabay.com/en/peppers-bell-pepper-sweet-pepper-154377/
 
 Rolling Pin: http://www.freepik.com/free-photo/rolling-pin_622989.htm (Edited)
+
+Chocolate Cupcake: Created by Harry Wang. Original
+
+Cream Cupcake: Created by Harry Wang. Original
