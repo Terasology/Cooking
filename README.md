@@ -176,3 +176,5 @@ Juicer: https://pixabay.com/en/juicer-appliance-equipment-machine-575761/ (Resiz
 Chocolate Cupcake: Created by Harry Wang. Original
 
 Cream Cupcake: Created by Harry Wang. Original
+
+Pumpkin Soup: Created by TheJYKoder. Original
