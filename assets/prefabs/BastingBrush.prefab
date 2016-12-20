@@ -2,10 +2,18 @@
     "parent": "engine:iconItem",
     "Item": {
         "icon": "Cooking:BastingBrush",
-        "stackId": "Cooking:bastingBrush"
+        "stackId": "Cooking:bastingBrush",
+        "consumeOnUse": false
     },
     "DisplayName": {
         "name": "Basting Brush"
+    },
+    "Durability": {
+        "durability": 200,
+        "maxDurability": 200
+    },
+    "CraftingStationTool": {
+        "type": ["bastingBrush"]
     },
     "ItemHelp": {
         "category": "CookingUtils",
