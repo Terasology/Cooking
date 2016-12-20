@@ -2,7 +2,7 @@
     "parent": "engine:iconItem",
     "Item": {
         "icon": "Cooking:PumpkinSoup",
-        "stackId": "Cooking:pumpkimSoup",
+        "stackId": "Cooking:pumpkinSoup",
         "consumedOnUse": true
     },
     "DisplayName": {
