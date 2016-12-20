@@ -65,6 +65,8 @@ Apple: http://opengameart.org/content/good-fruits-m484-games
 
 Peach: http://www.publicdomainpictures.net/view-image.php?image=93866&picture=isolated-peach
 
+Peach Juice: Parodied off of the apple juice texture.
+
 Pear: http://www.ttxdictionary.com/2015/04/pear.html
 
 Banana: http://www.fox1023.com/wp-content/uploads/2016/05/banana-2.jpg

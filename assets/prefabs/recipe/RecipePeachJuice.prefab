@@ -1,0 +1,29 @@
+{
+    "ProcessDefinition": {
+        "processType": "Cooking:Cooking"
+    },
+    "CraftingStationRecipe": {
+        "recipeId": "Cooking|Cooking:PeachJuice",
+
+        "recipeComponents": ["2*Cooking:peach","1*Cooking:sugar"],
+        "recipeFluids": ["0.6*Fluid:Water"],
+        "requiredTemperature": 0,
+        "processingDuration": 4500,
+
+        "itemResult": "1*Cooking:PeachJuice"
+    },
+    "ProcessingTime": {
+        "duration": 9000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:peach": 2,
+            "Cooking:sugar": 1
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:PeachJuice": 1
+        }
+    }
+}
