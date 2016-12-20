@@ -69,6 +69,8 @@ Pear: http://www.ttxdictionary.com/2015/04/pear.html
 
 Banana: http://www.fox1023.com/wp-content/uploads/2016/05/banana-2.jpg
 
+French Toast: Jose Santin
+
 Chocolate: http://www.publicdomainpictures.net/view-image.php?image=123141&picture=rick-dark-chocolate-background
 
 Lettuce: https://pixabay.com/en/lettuce-salad-leaves-leaf-green-1517239/
