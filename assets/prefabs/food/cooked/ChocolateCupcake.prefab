@@ -1,0 +1,22 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:ChocolateCupcake",
+        "stackId": "Cooking:ChocolateCupcake",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Chocolate Cupcake"
+    },
+    "Food": {
+        "filling": 3
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "The smoothest and creamiest",
+             "Restores 3 food."
+        ]
+    }
+}
+

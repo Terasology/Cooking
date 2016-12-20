@@ -172,3 +172,7 @@ Green Bell Pepper: https://pixabay.com/en/peppers-bell-pepper-sweet-pepper-15437
 Rolling Pin: http://www.freepik.com/free-photo/rolling-pin_622989.htm (Edited)
 
 Juicer: https://pixabay.com/en/juicer-appliance-equipment-machine-575761/ (Resized)
+
+Chocolate Cupcake: Created by Harry Wang. Original
+
+Cream Cupcake: Created by Harry Wang. Original
