@@ -1,0 +1,24 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:PumpkinSoup",
+        "stackId": "Cooking:pumpkimSoup",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Pumpkin Soup"
+    },
+    "Food": {
+        "filling": 3
+    },
+    "Drink": {
+        "filling": 1
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A nice warn bowl of savory pumpkin soup",
+             "Restores 3 food and 1 water."
+        ]
+    }
+}
