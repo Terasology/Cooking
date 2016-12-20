@@ -75,6 +75,8 @@ Lettuce: https://pixabay.com/en/lettuce-salad-leaves-leaf-green-1517239/
 
 Spoon: https://github.com/gkaretka
 
+Skewer: Made by SufurElite
+
 Coconut:    https://de.pinterest.com/pin/303500462365459327/
             http://www.centexcooks.com/coconuts/
             https://pixabay.com/en/coconuts-foods-fruits-tropical-575780/
