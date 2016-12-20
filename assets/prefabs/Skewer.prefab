@@ -1,0 +1,16 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Skewer",
+        "stackId": "Cooking:skewer"
+    },
+    "DisplayName": {
+        "name": "Skewer"
+    },
+    "ItemHelp": {
+        "category": "CookingUtils",
+        "paragraphText": [
+          "A metal skewer that is used to hold food together originally used in the 15th century."
+        ]
+    }
+}
