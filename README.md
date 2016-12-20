@@ -5,16 +5,16 @@ This module adds several raw food items and the ability to cook food for better 
 Warning: You may want to bump up the max RAM usable by Terasology when enabling this module. Otherwise, your game might
 crash when openining the Cooking section of the help menu.
 
- Contribution
+##Contribution
 1. Fork and clone this repository locally.
 2. To **add a food item**, create a prefab similar to the ones [here](https://github.com/Terasology/Cooking/tree/master/assets/prefabs/food/raw).
-3. While adding an icon for the food item, make sure that either you've created the textures for the new items, or the source you retrieved them from is compatible with the Apache 2.0 license. In any case cite the resources you've used in [this README file](https://github.com/Terasology/Cooking/blob/master/README.md). 
+3. While adding an icon for the food item, make sure that either you've created the textures for the new items, or the source you retrieved them from is compatible with the Apache 2.0 license. In any case cite the resources you've used in [this README file](https://github.com/Terasology/Cooking/blob/master/README.md).
 4. Aim to keep the icons below 128x128 in resolution.
 5. To **add a recipe**, create a prefab similar to the ones [here](https://github.com/Terasology/Cooking/tree/master/assets/prefabs/recipe/cook).
 
 Send in PRs to this repository and feel free to add your name to the authors list in the [module.txt file](https://github.com/Terasology/Cooking/blob/master/module.txt).
 
- Credits for descriptions:
+Credits for descriptions:
 
 Ladle (slightly modified): http://www.clipartpal.com/clipart_pd/household/kitchen/ladle1.html
 
@@ -129,7 +129,7 @@ Pineapple Pie: http://res.freestockphotos.biz/pictures/17/17487-illustration-of-
 Whisk: https://pixabay.com/en/mixer-electric-appliance-equipment-31112/
 
 SauteedApple: https://cdn.pixabay.com/photo/2015/10/07/17/13/cherry-pie-976470_960_720.png (Resized)
-               
+
 Sporfe : http://makercommons.org/wp-content/uploads/2014/03/3D_print_4-300x162.png (Resized)
 
 Fork: Created by Patrick Wang. Original
@@ -152,7 +152,7 @@ Bean (modified): https://apkpure.com/cn/ginjal-sehat/com.wGinjalSehat
 
 Cooked Beans: Created by Minege. Original
 
-Chopsticks: Created by Minege, Inspired from Freepik on www.flaticon.com 
+Chopsticks: Created by Minege, Inspired from Freepik on www.flaticon.com
 
 PecanPie: http://www.pictureicon.com/image/pecan-pie-vector-art-getty-images
 
@@ -179,3 +179,5 @@ Rolling Pin: http://www.freepik.com/free-photo/rolling-pin_622989.htm (Edited)
 Mushroom: https://pixabay.com/en/mushrooms-brown-autumn-nature-food-1738992/
 
 Flour: https://pixabay.com/en/bag-flour-sack-sand-161932/
+
+Juicer: https://pixabay.com/en/juicer-appliance-equipment-machine-575761/ (Resized)
