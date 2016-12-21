@@ -8,6 +8,9 @@
     "DisplayName": {
         "name": "Bread"
     },
+    "CraftingStationIngredient":{
+        "type":"Cooking:bread"
+    },
     "Food": {
         "filling": 5
     },
