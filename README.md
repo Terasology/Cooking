@@ -186,3 +186,5 @@ Cream Cupcake: Created by Harry Wang. Original
 Pumpkin Soup: Created by TheJYKoder. Original
 
 Basting Brush: Created by TheJYKoder. Original
+
+Blender: Original by Benjamin Amos
