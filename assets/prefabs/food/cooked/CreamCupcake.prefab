@@ -1,0 +1,22 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:CreamCupcake",
+        "stackId": "Cooking:CreamCupcake",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Cream Cupcake"
+    },
+    "Food": {
+        "filling": 3
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "Bites of happiness and sweetness",
+             "Restores 3 food."
+        ]
+    }
+}
+

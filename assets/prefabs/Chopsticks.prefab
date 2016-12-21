@@ -7,16 +7,6 @@
     "DisplayName": {
         "name": "ChopSticks"
     },
-    "Durability": {
-    	"durability": 100,
-    	"maxDurability": 100
-    },
-    "CraftingStationTool": {
-    	"type": ["chopsticks"]
-    },
-    "CraftInHandIngredient": {
-    	"componentType": "Cooking:Chopsticks"
-    },
     "ItemHelp": {
         "category": "CookingUtils",
         "paragraphText": [

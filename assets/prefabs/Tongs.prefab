@@ -7,16 +7,6 @@
     "DisplayName": {
         "name": "Tongs"
     },
-    "Durability": {
-    	"durability": 500,
-    	"maxDurability": 500
-    },
-    "CraftingStationTool": {
-    	"type": ["tongs"]
-    },
-    "CraftInHandIngredient": {
-    	"componentType": "Cooking:Tongs"
-    },
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [

@@ -7,16 +7,6 @@
     "DisplayName": {
         "name": "Spoon"
     },
-    "Durability": {
-    	"durability": 150,
-    	"maxDurability": 150
-    },
-    "CraftingStationTool": {
-    	"type": ["spoon"]
-    },
-    "CraftInHandIngredient": {
-    	"componentType": "Cooking:Spoon"
-    },
     "ItemHelp": {
         "category": "CookingUtils",
         "paragraphText": [

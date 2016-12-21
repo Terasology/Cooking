@@ -8,16 +8,6 @@
     "DisplayName": {
         "name": "Sporfe"
     },
-    "Durability": {
-    	"durability": 400,
-    	"maxDurability": 400
-    },
-    "CraftingStationTool": {
-    	"type": ["sporfe"]
-    },
-    "CraftInHandIngredient": {
-    	"componentType": "Cooking:Sporfe"
-    },
     "ItemHelp": {
         "category": "CookingUtils",
         "paragraphText": [

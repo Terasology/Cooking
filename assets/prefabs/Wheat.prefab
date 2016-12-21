@@ -8,6 +8,9 @@
     "DisplayName": {
         "name": "Wheat"
     },
+    "CraftingStationIngredient": {
+        "type": "Cooking:wheat"
+    },
     "Food": {
       "filling": 0.1
     },
@@ -16,7 +19,6 @@
         "paragraphText": [
              "Wheat is a cereal grain originally from the Levant region but now cultivated worldwide.",
              "In 2014, world production of wheat was 729 million tonnes, making it the third most-produced cereal after maize and rice"
-             "Restores 0.1 food and 0 water."
         ]
     }
 }

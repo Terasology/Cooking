@@ -1,0 +1,21 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:FrenchToast",
+        "stackId": "Cooking:frenchToast",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "French Toast"
+    },
+    "Food": {
+        "filling": 7
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "Made from fried bread soaked in eggs and brown sugar, along with fluids",
+             "Restores 7 food."
+        ]
+    }
+}

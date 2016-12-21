@@ -7,16 +7,6 @@
     "DisplayName": {
         "name": "spork"
     },
-    "Durability": {
-    	"durability": 400,
-    	"maxDurability": 400
-    },
-    "CraftingStationTool": {
-    	"type": ["spork"]
-    },
-    "CraftInHandIngredient": {
-    	"componentType": "Cooking:Spork"
-    },
     "ItemHelp": {
         "category": "CookingUtils",
         "paragraphText": [

@@ -1,11 +1,12 @@
 Cooking
+============
 
 This module adds several raw food items and the ability to cook food for better restoration of hunger and thrist.
 
 Warning: You may want to bump up the max RAM usable by Terasology when enabling this module. Otherwise, your game might
 crash when openining the Cooking section of the help menu.
 
-##Contribution
+## Contribution
 1. Fork and clone this repository locally.
 2. To **add a food item**, create a prefab similar to the ones [here](https://github.com/Terasology/Cooking/tree/master/assets/prefabs/food/raw).
 3. While adding an icon for the food item, make sure that either you've created the textures for the new items, or the source you retrieved them from is compatible with the Apache 2.0 license. In any case cite the resources you've used in [this README file](https://github.com/Terasology/Cooking/blob/master/README.md).
@@ -14,7 +15,7 @@ crash when openining the Cooking section of the help menu.
 
 Send in PRs to this repository and feel free to add your name to the authors list in the [module.txt file](https://github.com/Terasology/Cooking/blob/master/module.txt).
 
-Credits for descriptions:
+### Credits for descriptions:
 
 Ladle (slightly modified): http://www.clipartpal.com/clipart_pd/household/kitchen/ladle1.html
 
@@ -34,7 +35,9 @@ Wheat: https://en.wikipedia.org/wiki/Wheat
 
 Spatula: https://en.wikibooks.org/wiki/Cookbook:Spatula
 
- Credits for images:
+Tongs:
+
+### Credits for images:
 
 Banana bread: https://pixabay.com/en/banana-bread-brown-food-fruit-1295617/
 
@@ -64,15 +67,21 @@ Apple: http://opengameart.org/content/good-fruits-m484-games
 
 Peach: http://www.publicdomainpictures.net/view-image.php?image=93866&picture=isolated-peach
 
+Peach Juice: Originally created by Patrick Wang for Apple Juice. Edited by SufurElite.
+
 Pear: http://www.ttxdictionary.com/2015/04/pear.html
 
 Banana: http://www.fox1023.com/wp-content/uploads/2016/05/banana-2.jpg
+
+French Toast: Jose Santin
 
 Chocolate: http://www.publicdomainpictures.net/view-image.php?image=123141&picture=rick-dark-chocolate-background
 
 Lettuce: https://pixabay.com/en/lettuce-salad-leaves-leaf-green-1517239/
 
 Spoon: https://github.com/gkaretka
+
+Skewer: Made by SufurElite
 
 Coconut:    https://de.pinterest.com/pin/303500462365459327/
             http://www.centexcooks.com/coconuts/
@@ -168,16 +177,24 @@ Yellow Bell Pepper: https://pixabay.com/en/peppers-bell-pepper-sweet-pepper-1543
 
 Green Bell Pepper: https://pixabay.com/en/peppers-bell-pepper-sweet-pepper-154377/
 
-Cheese: https://pixabay.com/en/cheese-food-yellow-edam-cheese-161179/
+Rolling Pin: http://www.freepik.com/free-photo/rolling-pin_622989.htm (Edited)
+
+Juicer: https://pixabay.com/en/juicer-appliance-equipment-machine-575761/ (Resized)
+
+Chocolate Cupcake: Created by Harry Wang. Original
+
+Cream Cupcake: Created by Harry Wang. Original
+
+Pumpkin Soup: Created by TheJYKoder. Original
+
+Basting Brush: Created by TheJYKoder. Original
 
 VeggiePizza: https://pixabay.com/en/pizza-food-slice-cheese-mushroom-23477/
 
-ButterJamSandwich: https://en.wikipedia.org/wiki/File:Peanut-Butter-Jelly-Sandwich.png#file
-
-Rolling Pin: http://www.freepik.com/free-photo/rolling-pin_622989.htm (Edited)
-
-Mushroom: https://pixabay.com/en/mushrooms-brown-autumn-nature-food-1738992/
+Cheese: https://pixabay.com/en/cheese-food-yellow-edam-cheese-161179/
 
 Flour: https://pixabay.com/en/bag-flour-sack-sand-161932/
 
-Juicer: https://pixabay.com/en/juicer-appliance-equipment-machine-575761/ (Resized)
+Mushroom: https://pixabay.com/en/mushrooms-brown-autumn-nature-food-1738992/
+
+ButterJamSandwich: https://en.wikipedia.org/wiki/File:Peanut-Butter-Jelly-Sandwich.png#file
