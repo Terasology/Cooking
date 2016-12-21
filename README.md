@@ -35,7 +35,7 @@ Wheat: https://en.wikipedia.org/wiki/Wheat
 
 Spatula: https://en.wikibooks.org/wiki/Cookbook:Spatula
 
-Tongs:
+Tongs: https://pixabay.com/en/tongs-barbecue-salad-grill-cooking-30580/
 
 ### Credits for images:
 
@@ -198,3 +198,5 @@ Flour: https://pixabay.com/en/bag-flour-sack-sand-161932/
 Mushroom: https://pixabay.com/en/mushrooms-brown-autumn-nature-food-1738992/
 
 ButterJamSandwich: https://en.wikipedia.org/wiki/File:Peanut-Butter-Jelly-Sandwich.png#file
+
+Cocoa Beans: https://pixabay.com/en/coffee-coffee-bean-bean-food-1213247/
