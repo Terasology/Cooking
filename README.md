@@ -202,7 +202,3 @@ ButterJamSandwich: https://en.wikipedia.org/wiki/File:Peanut-Butter-Jelly-Sandwi
 Cocoa Beans: https://pixabay.com/en/coffee-coffee-bean-bean-food-1213247/
 
 Blender: Original by Benjamin Amos
-
-Fried Chicken: Created by Yashvardhan Sharma using Gimp. Orignal
-
-Chicken: Created by Yashvardhan Sharma using Gimp. Orignal
