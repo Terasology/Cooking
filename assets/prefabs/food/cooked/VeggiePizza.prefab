@@ -1,0 +1,24 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:VeggiePizza",
+        "stackId": "Cooking:veggiePizza",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Veggie Pizza"
+    },
+    "Food": {
+        "filling": 5
+    },
+    "Drink": {
+        "filling": 1
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A delicious scrumptious slice of veggie pizza.",
+             "Restores 5 food and 1 water."
+        ]
+    }
+}
