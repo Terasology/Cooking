@@ -1,0 +1,29 @@
+{
+    "ProcessDefinition": {
+        "processType": "Cooking:Cooking"
+    },
+    "CraftingStationRecipe": {
+        "recipeId": "Hot food|Cooking:FriedChicken",
+
+        "recipeComponents": ["1*Cooking:chicken","1*Cooking:salt"],
+        "recipeFluids": ["0.5*Fluid:Oil"],
+        "requiredTemperature": 150,
+        "processingDuration": 20000,
+
+        "itemResult": "1*Cooking:FriedChicken"
+    },
+    "ProcessingTime": {
+        "duration": 20000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:chicken": 1,
+            "Cooking:salt": 1
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:FriedChicken": 1
+        }
+    }
+}

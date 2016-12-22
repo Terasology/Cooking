@@ -188,3 +188,7 @@ Pumpkin Soup: Created by TheJYKoder. Original
 Basting Brush: Created by TheJYKoder. Original
 
 Blender: Original by Benjamin Amos
+
+Fried Chicken: Created by Yashvardhan Sharma using Gimp. Orignal
+
+Chicken: Created by Yashvardhan Sharma using Gimp. Orignal
