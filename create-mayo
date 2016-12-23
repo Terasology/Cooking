@@ -1,0 +1,39 @@
+{
+
+    "parent": "engine:iconItem",
+
+    "Item": {
+
+        "icon": "Cooking:Mayonnaise",
+
+        "stackId": "Cooking:mayonnaise",
+
+        "consumedOnUse": true
+
+    },
+
+    "DisplayName": {
+
+        "name": "Mayonnaise"
+
+    },
+
+    "CraftingStationIngredient": {
+
+        "type": "Cooking:mayonnaise"
+
+    },
+
+    
+    "ItemHelp": {
+
+        "category": "Cooking",
+
+        "paragraphText": [
+
+             "A white colored sauce which adds creaminess to food items."
+        ]
+
+    }
+
+}
