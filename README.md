@@ -203,6 +203,6 @@ Cocoa Beans: https://pixabay.com/en/coffee-coffee-bean-bean-food-1213247/
 
 Blender: Original by Benjamin Amos
 
-Fried Chicken: Created by Yashvardhan Sharma using Gimp. Orignal
+Fried Chicken: https://pixabay.com/en/chicken-fried-leg-piece-poultry-37807/
 
-Chicken: Created by Yashvardhan Sharma using Gimp. Orignal
+Chicken: http://www.clipartpanda.com/clipart_images/shared-by-leonnardo00-9075011
