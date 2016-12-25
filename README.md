@@ -206,3 +206,5 @@ Blender: Original by Benjamin Amos
 Fried Chicken: https://pixabay.com/en/chicken-fried-leg-piece-poultry-37807/
 
 Chicken: http://www.clipartpanda.com/clipart_images/shared-by-leonnardo00-9075011
+
+Cleaver： Created by Harry Wang. Original
