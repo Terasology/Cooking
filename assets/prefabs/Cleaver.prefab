@@ -6,7 +6,7 @@
     },
     "Item" : {
         "icon" : "Cooking:Cleaver",
-        "stackId" : "cooking:Cleaver",
+        "stackId" : "cooking:Cleaver"
     },
     "Durability" : {
         "durability" : 300,
