@@ -6,7 +6,6 @@
         "recipeId": "Hot food|Cooking:Toast",
 
         "recipeComponents": ["1*Bread"],
-        "recipeFluids": ["0.25*Fluid:Water"],
         "requiredTemperature": 200,
         "processingDuration": 20000,
 
