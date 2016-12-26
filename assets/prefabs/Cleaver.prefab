@@ -1,24 +1,24 @@
 {
-  "parent" : "engine:iconItem",
-  "DisplayName" : {
-    "name" : "Stainless Cleaver",
-    "description" : "Use to cut through meat or bones."
-  },
-  "Item" : {
-    "icon" : "Cooking:Cleaver",
-    "stackId" : "cooking:Cleaver",
-  },
-  "Durability" : {
-    "durability" : 300,
-    "maxDurability" : 300
-  },
-  "CraftingStationTool" : {
-    "type" : ["Cleaver"]
-  },
-  "ItemHelp" : {
-    "category" : "Cooking",
-    "paragraphText" : [
-      "The cleaver uses its weight to cut through tough food with a chopping motion."
-    ]
-  }
+    "parent" : "engine:iconItem",
+    "DisplayName" : {
+        "name" : "Stainless Cleaver",
+        "description" : "Use to cut through meat or bones."
+    },
+    "Item" : {
+        "icon" : "Cooking:Cleaver",
+        "stackId" : "cooking:Cleaver",
+    },
+    "Durability" : {
+        "durability" : 300,
+        "maxDurability" : 300
+    },
+    "CraftingStationTool" : {
+        "type" : ["Cleaver"]
+    },
+    "ItemHelp" : {
+        "category" : "Cooking",
+        "paragraphText" : [
+            "The cleaver uses its weight to cut through tough food with a chopping motion."
+        ]
+    }
 }
