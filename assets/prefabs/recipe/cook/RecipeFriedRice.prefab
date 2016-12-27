@@ -5,7 +5,7 @@
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:FriedRice",
 
-        "recipeComponents": ["1*Cooking:whiteRice","1*Cooking:egg","1*Cooking:carrot","1*Cooking:salt"],
+        "recipeComponents": ["1*Cooking:whiteRice","1*Cooking:carrot","2*Cooking:salt"],
         "recipeFluids": ["0.5*Fluid:Water"],
         "requiredTemperature": 100,
         "processingDuration": 20000,
