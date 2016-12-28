@@ -1,15 +1,15 @@
 {
     "parent": "engine:iconItem",
     "Item": {
-        "icon": "Cooking:CookedBrownRice",
-        "stackId": "Cooking:cookedBrownRice",
+        "icon": "Cooking:VeggiePizza",
+        "stackId": "Cooking:veggiePizza",
         "consumedOnUse": true
     },
     "DisplayName": {
-        "name": "Cooked Brown Rice"
+        "name": "Veggie Pizza"
     },
     "Food": {
-        "filling": 2.5
+        "filling": 5
     },
     "Drink": {
         "filling": 1
@@ -17,8 +17,8 @@
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "A nicely cooked bowl of brown rice.",
-             "Restores 2.5 food and 1 water."
+             "A delicious scrumptious slice of veggie pizza.",
+             "Restores 5 food and 1 water."
         ]
     }
 }

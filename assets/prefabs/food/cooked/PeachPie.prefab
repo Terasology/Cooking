@@ -1,15 +1,15 @@
 {
     "parent": "engine:iconItem",
     "Item": {
-        "icon": "Cooking:CookedBrownRice",
-        "stackId": "Cooking:cookedBrownRice",
+        "icon": "Cooking:PeachPie",
+        "stackId": "Cooking:peachPie",
         "consumedOnUse": true
     },
     "DisplayName": {
-        "name": "Cooked Brown Rice"
+        "name": "Peach Pie"
     },
     "Food": {
-        "filling": 2.5
+        "filling": 5
     },
     "Drink": {
         "filling": 1
@@ -17,8 +17,8 @@
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "A nicely cooked bowl of brown rice.",
-             "Restores 2.5 food and 1 water."
+             "A pie made with fresh peaches and a biscuity crust.",
+             "Restores 5 food and 1 water."
         ]
     }
 }

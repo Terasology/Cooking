@@ -1,0 +1,15 @@
+{
+    "ProcessDefinition": {
+        "processType": "Cooking:Cooking"
+    },
+    "CraftingStationRecipe": {
+        "recipeId": "Hot food|Cooking:VeggiePizza",
+
+        "recipeComponents": ["1*Cooking:Flour", "1*Cooking:GreenBellPepper", "1*Cooking:Cheese", "1*Cooking:Mushroom", "1*Cooking:Tomato"],
+        "recipeFluids": ["1*Fluid:Water"],
+        "requiredTemperature": 400,
+        "processingDuration": 40000,
+
+        "itemResult": "1*Cooking:VeggiePizza"
+    }
+}

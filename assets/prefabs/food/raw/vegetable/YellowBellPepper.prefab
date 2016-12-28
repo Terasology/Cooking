@@ -1,0 +1,27 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:YellowBellPepper",
+        "stackId": "Cooking:yellowBellPepper",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Yellow Bell Pepper"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:yellowBellPepper"
+    },
+    "Food": {
+        "filling": 1.5
+    },
+    "Drink": {
+        "filling": 1
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "An appetizing and crunchy yellow bell pepper.",
+             "Restores 1.5 hunger and 1 thirst."
+        ]
+    }
+}

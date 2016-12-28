@@ -1,0 +1,24 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:ButterJamSandwich",
+        "stackId": "Cooking:butterJamSandwich",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Butter and Jam Sandwich"
+    },
+    "Food": {
+        "filling": 3
+    },
+    "Drink": {
+        "filling": 0.5
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "Sweet yet so buttery - A great dish to prepare for breakfast.",
+             "Restores 3 food and 0.5 water."
+        ]
+    }
+}
