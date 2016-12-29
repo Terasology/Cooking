@@ -172,3 +172,5 @@ Green Bell Pepper: https://pixabay.com/en/peppers-bell-pepper-sweet-pepper-15437
 Rolling Pin: http://www.freepik.com/free-photo/rolling-pin_622989.htm (Edited)
 
 Juicer: https://pixabay.com/en/juicer-appliance-equipment-machine-575761/ (Resized)
+
+Fig: http://www.fancyicons.com/free-icon/233/fruits-icon-set/free-fig-fruit-icon-png/
