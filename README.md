@@ -212,3 +212,5 @@ Cleaver： Created by Harry Wang. Original
 Toast: Original by Anarav
 
 Fried Rice: Created by TwoTau. Original
+
+Potato Masher, Mashed Potatoes: [András Ottó Földes](https://github.com/andriii25) Original
