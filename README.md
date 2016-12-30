@@ -212,3 +212,5 @@ Cleaver： Created by Harry Wang. Original
 Toast: Original by Anarav
 
 Fried Rice: Created by TwoTau. Original
+
+Fig: http://www.fancyicons.com/free-icon/233/fruits-icon-set/free-fig-fruit-icon-png/ (Taken with 128 * 128 Resolution)
