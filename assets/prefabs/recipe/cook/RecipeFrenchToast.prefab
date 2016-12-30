@@ -1,0 +1,15 @@
+{
+    "ProcessDefinition": {
+        "processType": "Cooking:Cooking"
+    },
+    "CraftingStationRecipe": {
+        "recipeId": "Fried Food|Cooking:FrenchToast",
+
+        "recipeComponents": ["1*Cooking:bread","1*Cooking:brownsugar","2*Cooking:egg"],
+        "recipeFluids": ["0.5*Fluid:Water"],
+        "requiredTemperature": 300,
+        "processingDuration": 10000,
+
+        "itemResult": "1*Cooking:FrenchToast"
+    }
+}
