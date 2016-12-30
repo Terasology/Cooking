@@ -1,0 +1,21 @@
+{
+  "parent": "engine:iconItem",
+  "Item": {
+    "icon": "Cooking:MashedPotatoes",
+    "stackId": "Cooking:MashedPotatoes",
+    "consumedOnUse": true
+  },
+  "DisplayName": {
+    "name": "Mashed potatoes"
+  },
+  "Food": {
+    "filling": 6
+  },
+  "ItemHelp": {
+    "category": "Cooking",
+    "paragraphText": [
+      "A bowl of hot mashed potatoes.",
+      "Restores 4 food."
+    ]
+  }
+}
