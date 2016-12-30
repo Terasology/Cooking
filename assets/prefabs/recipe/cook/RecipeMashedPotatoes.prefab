@@ -1,0 +1,29 @@
+{
+  "ProcessDefinition": {
+    "processType": "Cooking:Cooking"
+  },
+  "CraftingStationRecipe": {
+    "recipeId": "Hot food|Cooking:mashedPotatoes",
+
+    "recipeComponents": ["4*Cooking:potato", "1*Cooking:salt"],
+    "recipeFluids": ["1*Fluid:Water"],
+    "recipeTools": ["1*potatoMasher"],
+    "requiredTemperature": 120,
+    "processingDuration": 10000,
+    "itemResult": "1*Cooking:mashedPotatoes"
+  },
+  "ProcessingTime": {
+    "duration": 10000
+  },
+  "InventoryInput": {
+    "itemCounts": {
+      "Cooking:potato": 4,
+      "Cooking:salt": 1
+    }
+  },
+  "InventoryOutput": {
+    "itemCounts": {
+      "Cooking:mashedPotatoes": 1
+    }
+  }
+}
