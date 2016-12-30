@@ -1,0 +1,27 @@
+{
+  "parent": "engine:iconItem",
+  "Item": {
+    "icon": "Cooking:Cheese",
+    "stackId": "Cooking:cheese",
+    "consumedOnUse": true
+  },
+  "DisplayName": {
+    "name": "cheese"
+  },
+  "CraftingStationIngredient": {
+    "type": "Cooking:cheese"
+  },
+  "Food": {
+    "filling": 1
+  },
+  "Drink": {
+    "filling": 0
+  },
+  "ItemHelp": {
+    "category": "Cooking",
+    "paragraphText": [
+      "This is a cheeesy product indeed. Tastes cheeesy!",
+      "Restores 1 food."
+    ]
+  }
+}

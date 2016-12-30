@@ -1,0 +1,27 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Chicken",
+        "stackId": "Cooking:chicken",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Chicken"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:chicken"
+    },
+    "Food": {
+        "filling": 4
+    },
+    "Drink": {
+        "filling": 0
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A raw chicken. Cooking it is recommended.",
+             "Restores 4 food"
+        ]
+    }
+ }

@@ -9,7 +9,7 @@ crash when openining the Cooking section of the help menu.
 ## Contribution
 1. Fork and clone this repository locally.
 2. To **add a food item**, create a prefab similar to the ones [here](https://github.com/Terasology/Cooking/tree/master/assets/prefabs/food/raw).
-3. While adding an icon for the food item, make sure that either you've created the textures for the new items, or the source you retrieved them from is compatible with the Apache 2.0 license. In any case cite the resources you've used in [this README file](https://github.com/Terasology/Cooking/blob/master/README.md). 
+3. While adding an icon for the food item, make sure that either you've created the textures for the new items, or the source you retrieved them from is compatible with the Apache 2.0 license. In any case cite the resources you've used in [this README file](https://github.com/Terasology/Cooking/blob/master/README.md).
 4. Aim to keep the icons below 128x128 in resolution.
 5. To **add a recipe**, create a prefab similar to the ones [here](https://github.com/Terasology/Cooking/tree/master/assets/prefabs/recipe/cook).
 
@@ -34,6 +34,8 @@ Spoon: https://github.com/gkaretka
 Wheat: https://en.wikipedia.org/wiki/Wheat
 
 Spatula: https://en.wikibooks.org/wiki/Cookbook:Spatula
+
+Tongs: https://pixabay.com/en/tongs-barbecue-salad-grill-cooking-30580/
 
 ### Credits for images:
 
@@ -65,15 +67,21 @@ Apple: http://opengameart.org/content/good-fruits-m484-games
 
 Peach: http://www.publicdomainpictures.net/view-image.php?image=93866&picture=isolated-peach
 
+Peach Juice: Originally created by Patrick Wang for Apple Juice. Edited by SufurElite.
+
 Pear: http://www.ttxdictionary.com/2015/04/pear.html
 
 Banana: http://www.fox1023.com/wp-content/uploads/2016/05/banana-2.jpg
+
+French Toast: Jose Santin
 
 Chocolate: http://www.publicdomainpictures.net/view-image.php?image=123141&picture=rick-dark-chocolate-background
 
 Lettuce: https://pixabay.com/en/lettuce-salad-leaves-leaf-green-1517239/
 
 Spoon: https://github.com/gkaretka
+
+Skewer: Made by SufurElite
 
 Coconut:    https://de.pinterest.com/pin/303500462365459327/
             http://www.centexcooks.com/coconuts/
@@ -130,7 +138,7 @@ Pineapple Pie: http://res.freestockphotos.biz/pictures/17/17487-illustration-of-
 Whisk: https://pixabay.com/en/mixer-electric-appliance-equipment-31112/
 
 SauteedApple: https://cdn.pixabay.com/photo/2015/10/07/17/13/cherry-pie-976470_960_720.png (Resized)
-               
+
 Sporfe : http://makercommons.org/wp-content/uploads/2014/03/3D_print_4-300x162.png (Resized)
 
 Fork: Created by Patrick Wang. Original
@@ -153,7 +161,7 @@ Bean (modified): https://apkpure.com/cn/ginjal-sehat/com.wGinjalSehat
 
 Cooked Beans: Created by Minege. Original
 
-Chopsticks: Created by Minege, Inspired from Freepik on www.flaticon.com 
+Chopsticks: Created by Minege, Inspired from Freepik on www.flaticon.com
 
 PecanPie: http://www.pictureicon.com/image/pecan-pie-vector-art-getty-images
 
@@ -172,5 +180,37 @@ Green Bell Pepper: https://pixabay.com/en/peppers-bell-pepper-sweet-pepper-15437
 Rolling Pin: http://www.freepik.com/free-photo/rolling-pin_622989.htm (Edited)
 
 Juicer: https://pixabay.com/en/juicer-appliance-equipment-machine-575761/ (Resized)
+
+Chocolate Cupcake: Created by Harry Wang. Original
+
+Cream Cupcake: Created by Harry Wang. Original
+
+Pumpkin Soup: Created by TheJYKoder. Original
+
+Basting Brush: Created by TheJYKoder. Original
+
+VeggiePizza: https://pixabay.com/en/pizza-food-slice-cheese-mushroom-23477/
+
+Cheese: https://pixabay.com/en/cheese-food-yellow-edam-cheese-161179/
+
+Flour: https://pixabay.com/en/bag-flour-sack-sand-161932/
+
+Mushroom: https://pixabay.com/en/mushrooms-brown-autumn-nature-food-1738992/
+
+ButterJamSandwich: https://en.wikipedia.org/wiki/File:Peanut-Butter-Jelly-Sandwich.png#file
+
+Cocoa Beans: https://pixabay.com/en/coffee-coffee-bean-bean-food-1213247/
+
+Blender: Original by Benjamin Amos
+
+Fried Chicken: https://pixabay.com/en/chicken-fried-leg-piece-poultry-37807/
+
+Chicken: http://www.clipartpanda.com/clipart_images/shared-by-leonnardo00-9075011
+
+Cleaver： Created by Harry Wang. Original
+
+Toast: Original by Anarav
+
+Fried Rice: Created by TwoTau. Original
 
 Fig: http://www.fancyicons.com/free-icon/233/fruits-icon-set/free-fig-fruit-icon-png/ (Taken with 128 * 128 Resolution)

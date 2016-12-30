@@ -1,0 +1,21 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:FriedRice",
+        "stackId": "Cooking:friedRice",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Fried Rice"
+    },
+    "Food": {
+        "filling": 3
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A bowl of steamed rice with eggs and vegetables.",
+             "Restores 3 food."
+        ]
+    }
+}

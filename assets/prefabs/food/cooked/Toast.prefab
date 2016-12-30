@@ -1,0 +1,21 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:toast",
+        "stackId": "Cooking:toast",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Toast"
+    },
+    "Food": {
+        "filling": 7
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "An upgraded version of bread to get more food out of your hard work in farming by simply cooking bread.",
+             "Restores 7 food."
+        ]
+    }
+}
