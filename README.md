@@ -216,3 +216,5 @@ Fried Rice: Created by TwoTau. Original
 Fig: http://www.fancyicons.com/free-icon/233/fruits-icon-set/free-fig-fruit-icon-png/ (Taken with 128 * 128 Resolution)
 
 Potato Masher, Mashed Potatoes: [András Ottó Földes](https://github.com/andriii25) Original
+
+Shrimp: https://openclipart.org/detail/177724/shrimp
