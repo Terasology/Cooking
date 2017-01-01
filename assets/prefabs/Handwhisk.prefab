@@ -8,7 +8,7 @@
         "name": "Hand Whisk"
     },
     "Durability": {
-        "durability": 300,
+        "durability": 400,
         "maxDurability": 400
     },
     "CraftingStationTool": {
