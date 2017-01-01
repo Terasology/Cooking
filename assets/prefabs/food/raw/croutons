@@ -1,0 +1,19 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Croutons",
+        "stackId": "Cooking:croutons",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Croutons"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:apple"
+    },
+       "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "Mostly like breadcrumbs. Makes the dish crunchy"       ]
+    }
+}
