@@ -210,6 +210,8 @@ Chicken: http://www.clipartpanda.com/clipart_images/shared-by-leonnardo00-907501
 
 Cleaver： Created by Harry Wang. Original
 
+Handwhisk: Original by zehata
+
 Toast: Original by Anarav
 
 Fried Rice: Created by TwoTau. Original
