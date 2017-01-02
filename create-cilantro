@@ -1,0 +1,39 @@
+{
+
+    "parent": "engine:iconItem",
+
+    "Item": {
+
+        "icon": "Cooking:Cilantro",
+
+        "stackId": "Cooking:cilantro",
+
+        "consumedOnUse": true
+
+    },
+
+    "DisplayName": {
+
+        "name": "Cilantro"
+
+    },
+
+    "CraftingStationIngredient": {
+
+        "type": "Cooking:cilantro"
+
+    },
+
+    
+    "ItemHelp": {
+
+        "category": "Cooking",
+
+        "paragraphText": [
+
+             "A green leafy vegetable. Used mostly in asian food"
+        ]
+
+    }
+
+}
