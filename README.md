@@ -75,6 +75,8 @@ Banana: http://www.fox1023.com/wp-content/uploads/2016/05/banana-2.jpg
 
 French Toast: Jose Santin
 
+Croutons: https://pixabay.com/en/food-cro%C3%BBton-bread-1739791/  
+
 Chocolate: http://www.publicdomainpictures.net/view-image.php?image=123141&picture=rick-dark-chocolate-background
 
 Lettuce: https://pixabay.com/en/lettuce-salad-leaves-leaf-green-1517239/
