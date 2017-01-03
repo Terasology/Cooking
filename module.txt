@@ -1,6 +1,6 @@
 {
     "id" : "Cooking",
-    "version" : "0.2.2-SNAPSHOT",
+    "version" : "1.0.0-SNAPSHOT",
     "author" : "Anarav, XTariq, apaukraine, DarkSoul943 (Camellia), Yashvardhan Sharma (KidCoder), Gautam Naik, gkaretka, kallentu, MadMate, sisukas-hiiri, SufurElite, J0hnCena, shardulc, gkaretka, S-ulphuric, TehTotalPwnage, smsunarto, Jinxin, JayGupta2003, Patrick Wang, Mandar Juvekar, Minege, Arpit Kamboj(digitalripperynr), He Who Shall Not Be Named (VaibhavBajaj), Marvel0usx, TwoTau, andriii25",
     "displayName" : "Cooking",
     "description" : "A module that allows for the cooking of simple foods at certain Workstations.",
@@ -19,7 +19,7 @@
             },
             {
                 "id" : "WorkstationCrafting",
-                "minVersion" : "0.1.0"
+                "minVersion" : "1.0.0"
             },
             {
                 "id": "InGameHelp",
