@@ -41,6 +41,8 @@ Tongs: https://pixabay.com/en/tongs-barbecue-salad-grill-cooking-30580/
 
 Banana bread: https://pixabay.com/en/banana-bread-brown-food-fruit-1295617/
 
+Slicer: https://pixabay.com/en/tool-plane-workshop-the-old-tool-584164/
+
 Spork: https://thenounproject.com/term/spork/22693/
 
 Pomegranate:https://pixabay.com/en/pomegranate-fruit-cut-red-seed-150255/
