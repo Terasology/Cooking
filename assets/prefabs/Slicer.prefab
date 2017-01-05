@@ -1,0 +1,26 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Slicer",
+        "stackId": "Cooking:Slicer"
+    },
+    "DisplayName": {
+        "name": "Slicer"
+    },
+    "Durability": {
+        "durability": 500,
+        "maxDurability": 500
+    },
+    "CraftingStationTool": {
+        "type": ["slicer"]
+    },
+    "CraftInHandIngredient": {
+        "componentType": "Cooking:Slicer"
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+            "The utensil is used to cut fruits or vegetables easily."
+        ]
+    }
+}
