@@ -1,0 +1,24 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:BiscuitMould",
+        "stackId": "Cooking:biscuitMould",
+        "consumeOnUse": false
+    },
+    "DisplayName": {
+        "name": "Biscuit Mould"
+    },
+    "Durability": {
+        "durability": 500,
+        "maxDurability": 500
+    },
+    "CraftingStationTool": {
+        "type": ["biscuitMould"]
+    },
+    "ItemHelp": {
+        "category": "CookingUtils",
+        "paragraphText": [
+          "Used to shape the biscuits."
+        ]
+    }
+}
