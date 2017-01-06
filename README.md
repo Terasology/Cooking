@@ -1,3 +1,4 @@
+
 Cooking
 ============
 
@@ -38,6 +39,8 @@ Spatula: https://en.wikibooks.org/wiki/Cookbook:Spatula
 Tongs: https://pixabay.com/en/tongs-barbecue-salad-grill-cooking-30580/
 
 ### Credits for images:
+
+FryPan: https://pixabay.com/en/frying-pan-tool-kitchen-cooking-158521/
 
 Banana bread: https://pixabay.com/en/banana-bread-brown-food-fruit-1295617/
 
