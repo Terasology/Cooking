@@ -95,6 +95,7 @@
         "waitBeforeRegen": 2,
         "destroyEntityOnNoHealth": true
     },
+    "Network": {},
     "ActAsBlock": {
         "block": "WorkstationCrafting:StandardWoodStation"
     },
