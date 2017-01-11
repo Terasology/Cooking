@@ -226,3 +226,5 @@ Fig: http://www.fancyicons.com/free-icon/233/fruits-icon-set/free-fig-fruit-icon
 Potato Masher, Mashed Potatoes: [András Ottó Földes](https://github.com/andriii25) Original
 
 CookingPot: Created by starwader, original
+
+Blowtorch: https://pixabay.com/en/blowtorch-flame-tool-cutting-156543/
