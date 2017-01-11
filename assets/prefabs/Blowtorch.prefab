@@ -1,28 +1,28 @@
 {
   "parent": "engine:iconItem",
   "Item": {
-    "icon": "Cooking:Blowtorch”,
-    "stackId": "cooking:Blowtorch”,
+    "icon": "Cooking:Blowtorch",
+    "stackId": "cooking:Blowtorch",
     "consumedOnUse": false
   },
   "DisplayName": {
-    "name": “Blowtorch”,
-    "description": "Use to crisp up the outside of different foods.”
+    "name": "Blowtorch",
+    "description": "Use to crisp up the outside of different foods."
   },
   "Durability": {
     "durability": 100,
     "maxDurability": 100
   },
   "CraftingStationTool": {
-    "type": [“blowtorch”]
+    "type": ["blowtorch"]
   },
   "CraftInHandIngredient": {
-    "componentType": "Cooking:blowtorch”
+    "componentType": "Cooking:blowtorch"
   },
   "ItemHelp": {
     "category": "Cooking",
     "paragraphText": [
-      “A blowtorch is used for caramelization or fast heating of the surface for many different foods.”
+      "A blowtorch is used for caramelisation or fast heating of the surface for many different foods."
     ]
   }
 }
