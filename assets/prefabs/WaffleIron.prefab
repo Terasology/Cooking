@@ -1,0 +1,26 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:WaffleIron",
+        "stackId": "Cooking:WaffleIron"
+    },
+    "DisplayName": {
+        "name": "Waffle Iron"
+    },
+    "Durability": {
+        "durability": 500,
+        "maxDurability": 500
+    },
+    "CraftingStationTool": {
+        "type": ["waffleIron"]
+    },
+    "CraftInHandIngredient": {
+        "componentType": "Cooking:WaffleIron"
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+            "This item may be useful in making waffles."
+        ]
+    }
+}
