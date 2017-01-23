@@ -2,11 +2,15 @@
     "parent": "engine:iconItem",
     "Item": {
         "icon": "Cooking:BrownSugar",
-        "stackId": "Cooking:brownsugar"
+        "stackId": "Cooking:brownsugar",
+        "consumedOnUse":true
     },
     "DisplayName": {
         "name": "Brown Sugar"
     },
+     "CraftingStationIngredient": {
+            "type": "Cooking:brownsugar"
+        },
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [

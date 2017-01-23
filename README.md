@@ -1,3 +1,4 @@
+
 Cooking
 ============
 
@@ -9,13 +10,15 @@ crash when openining the Cooking section of the help menu.
 ## Contribution
 1. Fork and clone this repository locally.
 2. To **add a food item**, create a prefab similar to the ones [here](https://github.com/Terasology/Cooking/tree/master/assets/prefabs/food/raw).
-3. While adding an icon for the food item, make sure that either you've created the textures for the new items, or the source you retrieved them from is compatible with the Apache 2.0 license. In any case cite the resources you've used in [this README file](https://github.com/Terasology/Cooking/blob/master/README.md). 
+3. While adding an icon for the food item, make sure that either you've created the textures for the new items, or the source you retrieved them from is compatible with the Apache 2.0 license. In any case cite the resources you've used in [this README file](https://github.com/Terasology/Cooking/blob/master/README.md).
 4. Aim to keep the icons below 128x128 in resolution.
 5. To **add a recipe**, create a prefab similar to the ones [here](https://github.com/Terasology/Cooking/tree/master/assets/prefabs/recipe/cook).
 
 Send in PRs to this repository and feel free to add your name to the authors list in the [module.txt file](https://github.com/Terasology/Cooking/blob/master/module.txt).
 
 ### Credits for descriptions:
+
+Ladle (slightly modified): http://www.clipartpal.com/clipart_pd/household/kitchen/ladle1.html
 
 Chocolate (modified): https://en.wikipedia.org/wiki/Chocolate
 
@@ -31,7 +34,13 @@ Spoon: https://github.com/gkaretka
 
 Wheat: https://en.wikipedia.org/wiki/Wheat
 
+Spatula: https://en.wikibooks.org/wiki/Cookbook:Spatula
+
+Tongs: https://pixabay.com/en/tongs-barbecue-salad-grill-cooking-30580/
+
 ### Credits for images:
+
+FryPan: https://pixabay.com/en/frying-pan-tool-kitchen-cooking-158521/
 
 Banana bread: https://pixabay.com/en/banana-bread-brown-food-fruit-1295617/
 
@@ -61,15 +70,23 @@ Apple: http://opengameart.org/content/good-fruits-m484-games
 
 Peach: http://www.publicdomainpictures.net/view-image.php?image=93866&picture=isolated-peach
 
+Croutons:https://pixabay.com/en/food-cro%C3%BBton-bread-1739791/
+
+Peach Juice: Originally created by Patrick Wang for Apple Juice. Edited by SufurElite.
+
 Pear: http://www.ttxdictionary.com/2015/04/pear.html
 
 Banana: http://www.fox1023.com/wp-content/uploads/2016/05/banana-2.jpg
+
+French Toast: Jose Santin
 
 Chocolate: http://www.publicdomainpictures.net/view-image.php?image=123141&picture=rick-dark-chocolate-background
 
 Lettuce: https://pixabay.com/en/lettuce-salad-leaves-leaf-green-1517239/
 
 Spoon: https://github.com/gkaretka
+
+Skewer: Made by SufurElite
 
 Coconut:    https://de.pinterest.com/pin/303500462365459327/
             http://www.centexcooks.com/coconuts/
@@ -91,7 +108,7 @@ Pineapple Juice: http://www.pixcove.com/pineapple-juice-drink-concoction-food-pi
 
 Pineapple: http://pngimg.com/download/2726
 
-Brown Sugar: BrownSugar.png created by Camellia, original
+Brown Sugar: Created by Camellia, original
 
 Butter: https://commons.wikimedia.org/wiki/File:Western-pack-butter.jpg (resized)
 
@@ -105,9 +122,9 @@ Tomato: https://openclipart.org/detail/225413/minitomato
 
 Salt: https://openclipart.org/detail/210621/spice-pinch-of-salt
 
-Egg: Egg.png created by J0hnCena, original
+Egg: Created by J0hnCena, original
 
-Boiled Egg: BoiledEgg.png created by J0hnCena, original
+Boiled Egg: Created by J0hnCena, original
 
 Potato Salad: https://commons.wikimedia.org/wiki/File:Potato_salad_(1).jpg (Resized)
 
@@ -120,7 +137,94 @@ Wheat: https://commons.wikimedia.org/wiki/File:Meuble_bl%C3%A9_tig%C3%A9_feuill%
 Fruit Salad: https://pixabay.com/en/desserts-fruit-salad-bowl-stacked-575437/ (Resized)
 
 Grater: https://openclipart.org/detail/180156/grater
+Griddle: Ian Santin
 
 Pineapple Pie: http://res.freestockphotos.biz/pictures/17/17487-illustration-of-a-slice-of-pie-pv.png (Resized)
 
 Whisk: https://pixabay.com/en/mixer-electric-appliance-equipment-31112/
+
+SauteedApple: https://cdn.pixabay.com/photo/2015/10/07/17/13/cherry-pie-976470_960_720.png (Resized)
+
+Sporfe : http://makercommons.org/wp-content/uploads/2014/03/3D_print_4-300x162.png (Resized)
+
+Fork: Created by Patrick Wang. Original
+
+Spatula: Created by Patrick Wang. Original
+
+Apple Juice: Created by Patrick Wang. Original
+
+Orange: Created by Patrick Wang. Original
+
+Orange Juice: Created by Patrick Wang. Original
+
+Pumpkin: Created by Patrick Wang. Original
+
+PumpkinPie: Created by Patrick Wang. Original
+
+Starfruit: https://pixabay.com/en/starfruit-fruit-yellow-carambola-159325/
+
+Bean (modified): https://apkpure.com/cn/ginjal-sehat/com.wGinjalSehat
+
+Cooked Beans: Created by Minege. Original
+
+Chopsticks: Created by Minege, Inspired from Freepik on www.flaticon.com
+
+PecanPie: http://www.pictureicon.com/image/pecan-pie-vector-art-getty-images
+
+Pecan: http://worldartsme.com/pecan-nut-clipart.html#
+
+Peeler: https://pixabay.com/en/peeler-blade-tool-kitchen-peel-30634/
+
+Jam: http://clipart.me/jam-and-jelly-3-38318
+
+Red Bell Pepper: https://pixabay.com/en/peppers-bell-pepper-sweet-pepper-154377/
+
+Yellow Bell Pepper: https://pixabay.com/en/peppers-bell-pepper-sweet-pepper-154377/
+
+Green Bell Pepper: https://pixabay.com/en/peppers-bell-pepper-sweet-pepper-154377/
+
+Rolling Pin: http://www.freepik.com/free-photo/rolling-pin_622989.htm (Edited)
+
+Juicer: https://pixabay.com/en/juicer-appliance-equipment-machine-575761/ (Resized)
+
+Chocolate Cupcake: Created by Harry Wang. Original
+
+Cream Cupcake: Created by Harry Wang. Original
+
+Pumpkin Soup: Created by TheJYKoder. Original
+
+Basting Brush: Created by TheJYKoder. Original
+
+VeggiePizza: https://pixabay.com/en/pizza-food-slice-cheese-mushroom-23477/
+
+Cheese: https://pixabay.com/en/cheese-food-yellow-edam-cheese-161179/
+
+Flour: https://pixabay.com/en/bag-flour-sack-sand-161932/
+
+Mushroom: https://pixabay.com/en/mushrooms-brown-autumn-nature-food-1738992/
+
+ButterJamSandwich: https://en.wikipedia.org/wiki/File:Peanut-Butter-Jelly-Sandwich.png#file
+
+Cocoa Beans: https://pixabay.com/en/coffee-coffee-bean-bean-food-1213247/
+
+Blender: Original by Benjamin Amos
+
+Fried Chicken: https://pixabay.com/en/chicken-fried-leg-piece-poultry-37807/
+
+Chicken: http://www.clipartpanda.com/clipart_images/shared-by-leonnardo00-9075011
+
+Cleaver： Created by Harry Wang. Original
+
+Handwhisk: Original by zehata
+
+Toast: Original by Anarav
+
+Fried Rice: Created by TwoTau. Original
+
+Fig: http://www.fancyicons.com/free-icon/233/fruits-icon-set/free-fig-fruit-icon-png/ (Taken with 128 * 128 Resolution)
+
+Potato Masher, Mashed Potatoes: [András Ottó Földes](https://github.com/andriii25) Original
+
+CookingPot: Created by starwader, original
+
+Blowtorch: https://pixabay.com/en/blowtorch-flame-tool-cutting-156543/

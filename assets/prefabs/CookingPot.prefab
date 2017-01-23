@@ -1,0 +1,23 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:CookingPot",
+        "stackId": "Cooking:CookingPot"
+    },
+    "DisplayName": {
+        "name": "CookingPot"
+    },
+    "Durability": {
+        "durability": 500,
+        "maxDurability": 500
+    },
+    "CraftingStationTool": {
+        "type": ["CookingPot"]
+    },
+    "ItemHelp": {
+        "category": "CookingUtils",
+        "paragraphText": [
+            "Used for cooking soups, vegetables, etc."
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "ProcessDefinition": {
+        "processType": "Cooking:Cooking"
+    },
+    "CraftingStationRecipe": {
+        "recipeId": "Hot food|Cooking:CookedBean",
+
+        "recipeComponents": ["1*Cooking:bean", "1*Cooking:onion", "1*Cooking:tomato", "1*Cooking:salt"],
+        "recipeFluids": ["0.5*Fluid:Water"],
+        "requiredTemperature": 150,
+        "processingDuration": 9000,
+
+        "itemResult": "1*Cooking:CookedBean"
+    }
+}

@@ -1,16 +1,16 @@
 {
     "parent": "engine:iconItem",
     "Item": {
-        "icon": "Cooking:spork",
-        "stackId": "Cooking:spork"
+        "icon": "Cooking:Ladle",
+        "stackId": "Cooking:Ladle"
     },
     "DisplayName": {
-        "name": "spork"
+        "name": "Ladle"
     },
     "ItemHelp": {
         "category": "CookingUtils",
         "paragraphText": [
-          "It’ functions as a spoon and a fork, hence the name spork."
+            "A long-handled spoon used to serve items (usually soup or gravy)."
         ]
     }
 }

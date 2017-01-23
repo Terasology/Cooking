@@ -1,0 +1,26 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Griddle",
+        "stackId": "Cooking:Griddle"
+    },
+    "DisplayName": {
+        "name": "Griddle"
+    },
+    "Durability": {
+        "durability": 500,
+        "maxDurability": 500
+    },
+    "CraftingStationTool": {
+        "type": ["griddle"]
+    },
+    "CraftInHandIngredient": {
+        "componentType": "Cooking:Griddle"
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+            "this utensil is used for frying foods such as french toast."
+        ]
+    }
+}

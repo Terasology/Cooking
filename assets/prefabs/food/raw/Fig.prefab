@@ -1,0 +1,26 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Fig",
+        "stackId": "Cooking:fig",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Green Fig"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:fig"
+    },
+    "Food": {
+        "filling": 2
+    },
+    "Drink": {
+        "filling": 1
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A good and refreshing treat that restores 2 food and 1 water."
+        ]
+    }
+}

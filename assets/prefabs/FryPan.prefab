@@ -1,0 +1,24 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:FryPan",
+        "stackId": "Cooking:fryPan",
+        "consumeOnUse": false
+    },
+    "DisplayName": {
+        "name": "FryPan"
+    },
+    "Durability": {
+        "durability": 500,
+        "maxDurability": 500
+    },
+    "CraftingStationTool": {
+        "type": ["fryPan"]
+    },
+    "ItemHelp": {
+        "category": "CookingUtils",
+        "paragraphText": [
+          "Used for frying food items."
+        ]
+    }
+}

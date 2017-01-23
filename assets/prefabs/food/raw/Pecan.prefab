@@ -1,0 +1,19 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Pecan",
+        "stackId": "Cooking:pecan"
+    },
+    "DisplayName": {
+        "name": "pecan"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:pecan"
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "pecan that is harvested and cracked out of their shell."
+        ]
+    }
+}

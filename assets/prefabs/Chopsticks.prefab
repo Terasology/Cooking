@@ -1,0 +1,16 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Chopsticks",
+        "stackId": "Cooking:chopsticks"
+    },
+    "DisplayName": {
+        "name": "ChopSticks"
+    },
+    "ItemHelp": {
+        "category": "CookingUtils",
+        "paragraphText": [
+          "Traditional Chinese and Japanese utensil used for eating food like rice or spagetti."
+        ]
+    }
+}
