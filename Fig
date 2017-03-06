@@ -1,0 +1,28 @@
+{
+
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Fig",
+        "stackId": "Cooking:Fig",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Fig"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:Fig"
+    },
+    "Food": {
+        "filling": 1
+    },
+    "Drink": {
+        "filling": 0
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A sweet treat and good to eat on the go;alone or with a meal. It is an important crop in where it is grown commercially, and is also very sought after.",
+             "Restores 3 food and 1 water."
+        ]
+    }
+}
