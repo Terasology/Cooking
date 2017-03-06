@@ -1,0 +1,28 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Fig",
+        "stackId": "Cooking:fig",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Green Fig"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:fig"
+    },
+    "Food": {
+        "filling": 1
+    },
+    "Drink": {
+        "filling": 1
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A bright green fruit that replenishes 1 food and 1 water. It can be consumed alone or with other fruits or meals.",
+            
+        ]
+    }
+}
+Contact GitHub API Training Shop Blog About
