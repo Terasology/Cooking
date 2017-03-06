@@ -1,0 +1,16 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Tray",
+        "stackId": "Cooking:tray"
+    },
+    "DisplayName": {
+        "name": "Tray"
+    },
+    "ItemHelp": {
+        "category": "CookingUtils",
+        "paragraphText": [
+          "It is used to serve food."
+        ]
+    }
+}
