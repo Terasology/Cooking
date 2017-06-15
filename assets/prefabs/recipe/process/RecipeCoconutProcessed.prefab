@@ -1,6 +1,6 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Processed food|Cooking:coconutProcessed",
@@ -11,5 +11,18 @@
         "processingDuration": 10000,
 
         "itemResult": "1*Cooking:coconutProcessed"
+    },
+    "ProcessingTime": {
+        "duration": 10000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:coconut": 1
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:coconutProcessed": 1
+        }
     }
 }

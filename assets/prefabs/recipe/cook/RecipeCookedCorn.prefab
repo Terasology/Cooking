@@ -1,16 +1,34 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:CookedCorn",
 
-        "recipeComponents": ["1*PlantPack:corn"],
+        "recipeComponents": ["1*Cooking:maize"],
         "recipeTools": ["1*knife"],
         "recipeFluids": ["0.25*Fluid:Water"],
         "requiredTemperature": 90,
         "processingDuration": 5000,
 
         "itemResult": "1*Cooking:CookedCorn"
+    },
+    "ProcessingTime": {
+        "duration": 5000
+    },
+    "RequirementInput": {
+        "requirements": [
+            "Knife"
+        ]
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:maize": 1
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:CookedCorn": 1
+        }
     }
 }

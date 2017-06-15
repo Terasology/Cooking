@@ -1,6 +1,6 @@
 {
   "ProcessDefinition": {
-    "processType": "Cooking:Cooking"
+    "processType": "Cooking:CookingProcess"
   },
   "CraftingStationRecipe": {
     "recipeId": "Hot food|Cooking:mashedPotatoes",

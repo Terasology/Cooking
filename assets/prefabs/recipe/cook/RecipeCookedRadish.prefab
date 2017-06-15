@@ -1,6 +1,6 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:CookedRadish",
@@ -11,5 +11,18 @@
         "processingDuration": 4500,
 
         "itemResult": "1*Cooking:CookedRadish"
+    },
+    "ProcessingTime": {
+        "duration": 4500
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "PlantPack:radish": 1
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:CookedRadish": 1
+        }
     }
 }

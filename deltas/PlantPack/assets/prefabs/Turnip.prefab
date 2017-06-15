@@ -1,5 +1,5 @@
 /*
- * Copyright 2016 MovingBlocks
+ * Copyright 2012 Benjamin Glatzel <benjamin.glatzel@me.com>
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -13,15 +13,21 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.terasology.cooking;
-
-/**
- * This class contains the cooking process type constants or IDs.
- */
-public class Cooking {
-    public static final String COOKING_PROCESS_TYPE = "Cooking:CookingProcess";
-    public static final String FOOD_MIXING_PROCESS_TYPE = "Cooking:FoodMixingProcess";
-
-    private Cooking() {
+{
+    "Item": {
+        "stackId": "Cooking:turnip",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Turnip"
+    },
+    "CraftingStationIngredient": {
+        "type": "PlantPack:turnip"
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+             "A red edible root vegetable.",
+        ]
     }
 }

@@ -1,26 +1,27 @@
 {
     "parent": "engine:iconItem",
     "Item": {
-        "icon": "Cooking:CoconutMeat",
-        "stackId": "Cooking:coconutMeat",
+        "icon": "Cooking:BananaBread",
+        "stackId": "Cooking:bananaBread",
         "consumedOnUse": true
     },
     "DisplayName": {
-        "name": "Coconut Meat"
+        "name": "Banana Bread"
     },
     "CraftingStationIngredient": {
-        "type": "Cooking:coconutMeat"
+        "type": "Cooking:bananaBread"
     },
     "Food": {
         "filling": 3
     },
     "Drink": {
-        "filling": 0.3
-    },
+        "filling": 0  
+        },
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "The delicious meat which is inside the coconut."
+             "A traditional thanksgiving dish!",
+             "Restores 3 food."
         ]
     }
 }

@@ -1,15 +1,32 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:VeggiePizza",
 
-        "recipeComponents": ["1*Cooking:Flour", "1*Cooking:GreenBellPepper", "1*Cooking:Cheese", "1*Cooking:Mushroom", "1*Cooking:Tomato"],
+        "recipeComponents": ["1*Cooking:flour", "1*Cooking:greenBellPepper", "1*Cooking:cheese", "1*Cooking:mushroom", "1*Cooking:tomato"],
         "recipeFluids": ["1*Fluid:Water"],
         "requiredTemperature": 400,
         "processingDuration": 40000,
 
         "itemResult": "1*Cooking:VeggiePizza"
+    },
+    "ProcessingTime": {
+        "duration": 40000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:flour": 1,
+            "Cooking:greenBellPepper": 1,
+            "Cooking:cheese": 1,
+            "Cooking:mushroom": 1,
+            "Cooking:tomato": 1
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:VeggiePizza": 1
+        }
     }
 }

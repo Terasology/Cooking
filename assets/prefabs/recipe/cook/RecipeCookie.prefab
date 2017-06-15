@@ -1,6 +1,6 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Baked food|Cooking:Cookie",

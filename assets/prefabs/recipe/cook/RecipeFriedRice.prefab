@@ -1,6 +1,6 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:FriedRice",
@@ -11,5 +11,20 @@
         "processingDuration": 20000,
 
         "itemResult": "1*Cooking:FriedRice"
+    },
+    "ProcessingTime": {
+        "duration": 20000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:whiteRice": 1,
+            "Cooking:carrot": 1,
+            "Cooking:salt": 2
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:FriedRice": 1
+        }
     }
 }

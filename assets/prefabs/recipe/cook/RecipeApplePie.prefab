@@ -1,6 +1,6 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:ApplePie",
@@ -11,5 +11,20 @@
         "processingDuration": 24000,
 
         "itemResult": "1*Cooking:ApplePie"
+    },
+    "ProcessingTime": {
+        "duration": 24000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:flour": 3,
+            "Cooking:sugar": 2,
+            "Cooking:apple": 5
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:ApplePie": 1
+        }
     }
 }

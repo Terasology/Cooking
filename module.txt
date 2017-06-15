@@ -1,34 +1,30 @@
 {
     "id" : "Cooking",
-    "version" : "1.0.0-SNAPSHOT",
+    "version" : "1.0.1-SNAPSHOT",
     "author" : "Anarav, XTariq, apaukraine, cam943, Yashvardhan Sharma (KidCoder), Gautam Naik, gkaretka, kallentu, MadMate, sisukas-hiiri, SufurElite, J0hnCena, shardulc, gkaretka, S-ulphuric, TehTotalPwnage, smsunarto, Jinxin, JayGupta2003, Patrick Wang, Mandar Juvekar, Minege, Arpit Kamboj(digitalripperynr), He Who Shall Not Be Named (VaibhavBajaj), Marvel0usx, TwoTau, andriii25, PokeyOne, starwader",
     "displayName" : "Cooking",
     "description" : "A module that allows for the cooking of simple foods at certain Workstations.",
     "dependencies" : [
-            {
-                "id" : "Core",
-                "minVersion" : "1.0.0"
-            },
-            {
-                "id" : "Hunger",
-                "minVersion" : "1.0.0"
-            },
-            {
-                "id" : "PlantPack",
-                "minVersion" : "1.0.0"
-            },
-            {
-                "id" : "WorkstationCrafting",
-                "minVersion" : "1.0.0"
-            },
-            {
-                "id": "InGameHelp",
-                "minVersion": "1.0.0"
-            },
-            {
-                "id": "WorkstationInGameHelp",
-                "minVersion": "1.0.0"
-            }
+        {
+            "id" : "Core",
+            "minVersion" : "1.0.0"
+        },
+        {
+            "id" : "Hunger",
+            "minVersion" : "1.0.0"
+        },
+        {
+            "id" : "PlantPack",
+            "minVersion" : "1.0.0"
+        },
+        {
+            "id" : "WorkstationCrafting",
+            "minVersion" : "1.0.0"
+        },
+        {
+            "id" : "InGameHelpAPI",
+            "minVersion" : "0.1.0"
+        }
     ],
     "serverSideOnly" : false
 }

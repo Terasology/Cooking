@@ -18,7 +18,7 @@ package org.terasology.cooking.system;
 import org.terasology.entitySystem.systems.BaseComponentSystem;
 import org.terasology.entitySystem.systems.RegisterSystem;
 import org.terasology.entitySystem.systems.UpdateSubscriberSystem;
-import org.terasology.inGameHelp.event.OnAddNewCategoryEvent;
+import org.terasology.inGameHelpAPI.event.OnAddNewCategoryEvent;
 import org.terasology.logic.players.LocalPlayer;
 import org.terasology.registry.CoreRegistry;
 

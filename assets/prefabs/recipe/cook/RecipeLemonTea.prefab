@@ -1,6 +1,6 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot drink|Cooking:LemonTea",
@@ -11,5 +11,18 @@
         "processingDuration": 30000,
 
         "itemResult": "1*Cooking:LemonTea"
+    },
+    "ProcessingTime": {
+        "duration": 30000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:lemon": 1
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:LemonTea": 1
+        }
     }
 }

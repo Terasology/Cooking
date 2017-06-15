@@ -1,6 +1,6 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:CookedKale",
@@ -11,5 +11,18 @@
         "processingDuration": 6000,
 
         "itemResult": "1*Cooking:CookedKale"
+    },
+    "ProcessingTime": {
+        "duration": 6000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:kale": 1
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:CookedKale": 1
+        }
     }
 }

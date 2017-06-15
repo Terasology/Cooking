@@ -1,16 +1,36 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:FrenchToast",
 
-        "recipeComponents": ["2*Cooking:egg","1*Cooking:bread","1*Cooking:brownsugar"],
+        "recipeComponents": ["2*Cooking:egg","1*Cooking:bread","1*Cooking:brownSugar"],
         "recipeFluids": ["0.5*Fluid:Water"],
         "recipeTools":["1*griddle"],
         "requiredTemperature": 200,
         "processingDuration": 10000,
 
         "itemResult": "1*Cooking:FrenchToast"
+    },
+    "ProcessingTime": {
+        "duration": 10000
+    },
+    "RequirementInput": {
+        "requirements": [
+            "Griddle"
+        ]
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:egg": 2,
+            "Cooking:bread": 1,
+            "Cooking:brownSugar": 1
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:FrenchToast": 1
+        }
     }
 }

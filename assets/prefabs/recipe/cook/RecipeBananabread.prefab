@@ -1,13 +1,31 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
-        "recipeId": "Hot food|Cooking:Bananabread",
+        "recipeId": "Hot food|Cooking:BananaBread",
+
         "recipeComponents": ["1*Cooking:flour","1*Cooking:sugar","3*Cooking:banana","1*Cooking:chocolate"],
         "recipeFluids": ["0.5*Fluid:Water"],
         "requiredTemperature": 200,
         "processingDuration": 25000,
-        "itemResult": "1*Cooking:Bananabread"
+
+        "itemResult": "1*Cooking:BananaBread"
+    },
+    "ProcessingTime": {
+        "duration": 25000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:flour": 1,
+            "Cooking:sugar": 1,
+            "Cooking:banana": 3,
+            "Cooking:chocolate": 1
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:BananaBread": 1
+        }
     }
 }

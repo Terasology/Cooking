@@ -18,7 +18,7 @@
     "Workstation": {
         "supportedProcessTypes": {
             "Workstation:FillFluid": true,
-            "Cooking:FoodMixing": false
+            "Cooking:FoodMixingProcess": false
         }
     },
     "WorkstationInventory": {

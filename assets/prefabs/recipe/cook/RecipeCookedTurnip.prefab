@@ -1,6 +1,6 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:CookedTurnip",
@@ -11,5 +11,18 @@
         "processingDuration": 4500,
 
         "itemResult": "1*Cooking:CookedTurnip"
+    },
+    "ProcessingTime": {
+        "duration": 4500
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "PlantPack:turnip": 1
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:CookedTurnip": 1
+        }
     }
 }

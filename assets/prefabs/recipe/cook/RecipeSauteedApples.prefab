@@ -1,15 +1,30 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:SauteedApples",
 
-        "recipeComponents": ["1*Cooking:flour","1*Cooking:brownsugar","5*Cooking:apple"],
+        "recipeComponents": ["1*Cooking:flour","1*Cooking:brownSugar","5*Cooking:apple"],
         "recipeFluids": ["0.5*Fluid:Water"],
         "requiredTemperature": 200,
         "processingDuration": 24000,
 
         "itemResult": "1*Cooking:SauteedApples"
+    },
+    "ProcessingTime": {
+        "duration": 24000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:flour": 1,
+            "Cooking:brownSugar": 1,
+            "Cooking:apple": 5
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:SauteedApples": 1
+        }
     }
 }

@@ -1,15 +1,30 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:PineapplePie",
 
-        "recipeComponents": ["1*Cooking:flour","1*Cooking:sugar","5*Cooking:Pineapple"],
+        "recipeComponents": ["1*Cooking:flour","1*Cooking:sugar","5*Cooking:pineapple"],
         "recipeFluids": ["0.5*Fluid:Water"],
         "requiredTemperature": 200,
         "processingDuration": 26000,
 
         "itemResult": "1*Cooking:PineapplePie"
+    },
+    "ProcessingTime": {
+        "duration": 26000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:flour": 1,
+            "Cooking:sugar": 1,
+            "Cooking:pineapple": 5
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:PineapplePie": 1
+        }
     }
 }

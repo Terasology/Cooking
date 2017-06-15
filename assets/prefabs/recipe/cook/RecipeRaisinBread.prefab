@@ -1,6 +1,6 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:RaisinBread",
@@ -11,5 +11,20 @@
         "processingDuration": 20000,
 
         "itemResult": "1*Cooking:RaisinBread"
+    },
+    "ProcessingTime": {
+        "duration": 20000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:flour": 1,
+            "Cooking:salt": 1,
+            "Cooking:raisin": 5
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:RaisinBread": 1
+        }
     }
 }

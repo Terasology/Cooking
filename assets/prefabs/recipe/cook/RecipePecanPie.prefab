@@ -1,7 +1,6 @@
-
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:PecanPie",
@@ -12,5 +11,20 @@
         "processingDuration": 26000,
 
         "itemResult": "1*Cooking:PecanPie"
+    },
+    "ProcessingTime": {
+        "duration": 26000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:flour": 1,
+            "Cooking:sugar": 1,
+            "Cooking:pecan": 5
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:PecanPie": 1
+        }
     }
 }

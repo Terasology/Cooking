@@ -1,6 +1,6 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:Ramen",
@@ -11,5 +11,20 @@
         "processingDuration": 3000,
 
         "itemResult": "1*Cooking:Ramen"
+    },
+    "ProcessingTime": {
+        "duration": 3000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:flour": 4,
+            "Cooking:salt": 1,
+            "Cooking:butter": 1
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:Ramen": 1
+        }
     }
 }

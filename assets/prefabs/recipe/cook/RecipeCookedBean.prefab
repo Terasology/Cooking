@@ -1,6 +1,6 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:CookedBean",
@@ -11,5 +11,21 @@
         "processingDuration": 9000,
 
         "itemResult": "1*Cooking:CookedBean"
+    },
+    "ProcessingTime": {
+        "duration": 9000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:bean": 1,
+            "Cooking:onion": 1,
+            "Cooking:tomato": 3,
+            "Cooking:salt": 1
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:CookedBean": 1
+        }
     }
 }

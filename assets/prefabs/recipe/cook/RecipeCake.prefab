@@ -1,6 +1,6 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Baked food|Cooking:Cake",
@@ -11,5 +11,22 @@
         "processingDuration": 30000,
 
         "itemResult": "1*Cooking:Cake"
+    },
+    "ProcessingTime": {
+        "duration": 30000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:flour": 1,
+            "Cooking:sugar": 1,
+            "Cooking:egg": 2,
+            "Cooking:butter": 1,
+            "Cooking:chocolate": 1
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:Cake": 1
+        }
     }
 }

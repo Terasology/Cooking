@@ -1,6 +1,6 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:BoiledEggs",
@@ -11,5 +11,18 @@
         "processingDuration": 10000,
 
         "itemResult": "1*Cooking:BoiledEgg"
+    },
+    "ProcessingTime": {
+        "duration": 10000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:egg": 1
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:BoiledEgg": 1
+        }
     }
 }

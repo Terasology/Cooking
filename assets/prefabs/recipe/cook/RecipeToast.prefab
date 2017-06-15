@@ -1,11 +1,11 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:Toast",
 
-        "recipeComponents": ["1*Bread"],
+        "recipeComponents": ["1*bread"],
         "requiredTemperature": 200,
         "processingDuration": 20000,
 
@@ -14,5 +14,14 @@
     "ProcessingTime": {
         "duration": 20000
     },
-    "itemResult": "1*Cooking:Toast"
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:bread": 1
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:Toast": 1
+        }
+    }
 }

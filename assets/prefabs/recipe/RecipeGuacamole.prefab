@@ -1,6 +1,6 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:FoodMixing"
+        "processType": "Cooking:FoodMixingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Mixed food|Cooking:Guacamole",

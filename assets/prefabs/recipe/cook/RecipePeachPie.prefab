@@ -1,6 +1,6 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:PeachPie",
@@ -10,6 +10,21 @@
         "requiredTemperature": 200,
         "processingDuration": 24000,
 
-        "itemResult": "1*Cooking:ApplePie"
+        "itemResult": "1*Cooking:PeachPie"
+    },
+    "ProcessingTime": {
+        "duration": 24000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:flour": 1,
+            "Cooking:sugar": 1,
+            "Cooking:peach": 5
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:PeachPie": 1
+        }
     }
 }

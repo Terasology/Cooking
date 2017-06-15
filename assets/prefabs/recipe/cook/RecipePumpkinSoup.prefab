@@ -1,15 +1,30 @@
 {
     "ProcessDefinition": {
-        "processType": "Cooking:Cooking"
+        "processType": "Cooking:CookingProcess"
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:PumpkinSoup",
 
-        "recipeComponents": ["3*Cooking:Pumpkin","1*Cooking:GroundSalt","1*Cooking:Onion"],
+        "recipeComponents": ["3*Cooking:pumpkin","1*Cooking:groundSalt","1*Cooking:onion"],
         "recipeFluids": ["0.5*Fluid:Water"],
         "requiredTemperature": 200,
         "processingDuration": 10000,
 
         "itemResult": "1*Cooking:PumpkinSoup"
+    },
+    "ProcessingTime": {
+        "duration": 10000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:pumpkin": 3,
+            "Cooking:groundSalt": 1,
+            "Cooking:onion": 1
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:PumpkinSoup": 1
+        }
     }
 }
