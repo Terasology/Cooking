@@ -1,15 +1,15 @@
 {
     "parent": "engine:iconItem",
     "Item": {
-        "icon": "Cooking:BananaBread",
-        "stackId": "Cooking:bananaBread",
+        "icon": "Cooking:Bananabread",
+        "stackId": "Cooking:Bananabread",
         "consumedOnUse": true
     },
     "DisplayName": {
-        "name": "Banana Bread"
+        "name": "Banana bread"
     },
     "CraftingStationIngredient": {
-        "type": "Cooking:bananaBread"
+        "type": "Cooking:Bananabread"
     },
     "Food": {
         "filling": 3
