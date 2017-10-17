@@ -1,6 +1,8 @@
 {
     "BlockDropGrammar": {
-        "itemDrops": ["4*WorkstationCrafting:Brick"]
+        "itemDrops": [
+            "4*WorkstationCrafting:Brick"
+        ]
     },
     "InteractionTarget": {},
     "InteractionScreen": {
@@ -40,7 +42,6 @@
                 "slotStart": 10,
                 "slotCount": 1
             },
-
             "FLUID_INPUT": {
                 "slotStart": 0,
                 "slotCount": 1
@@ -73,8 +74,12 @@
         "maximumTemperature": 300
     },
     "FluidInventory": {
-        "fluidSlots": [ 0 ],
-        "maximumVolumes": [ 10 ]
+        "fluidSlots": [
+            0
+        ],
+        "maximumVolumes": [
+            10
+        ]
     },
     "Health": {
         "currentHealth": 5,

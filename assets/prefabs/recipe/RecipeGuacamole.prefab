@@ -4,12 +4,16 @@
     },
     "CraftingStationRecipe": {
         "recipeId": "Mixed food|Cooking:Guacamole",
-
-        "recipeComponents": ["1*Cooking:avocado","2*Cooking:salt","2*Cooking:lemon"],
-        "recipeFluids": ["0.6*Fluid:Water"],
+        "recipeComponents": [
+            "1*Cooking:avocado",
+            "2*Cooking:salt",
+            "2*Cooking:lemon"
+        ],
+        "recipeFluids": [
+            "0.6*Fluid:Water"
+        ],
         "requiredTemperature": 0,
         "processingDuration": 5000,
-
         "itemResult": "1*Cooking:Guacamole"
     },
     "ProcessingTime": {

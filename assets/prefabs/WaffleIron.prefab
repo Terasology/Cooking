@@ -12,7 +12,9 @@
         "maxDurability": 500
     },
     "CraftingStationTool": {
-        "type": ["waffleIron"]
+        "type": [
+            "waffleIron"
+        ]
     },
     "CraftInHandIngredient": {
         "componentType": "Cooking:WaffleIron"

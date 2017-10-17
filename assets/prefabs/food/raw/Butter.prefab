@@ -1,26 +1,27 @@
 {
-  "parent": "engine:iconItem",
-  "Item": {
-    "icon": "Cooking:Butter",
-    "stackId": "Cooking:butter",
-    "consumedOnUse": true
-  },
-  "DisplayName": {
-    "name": "Butter"
-  },
-  "CraftingStationIngredient": {
-    "type": "Cooking:butter"
-  },
-  "Food": {
-    "filling": 0.2
-  },
-  "Drink": {
-    "filling": 0.2    },
-  "ItemHelp": {
-    "category": "Cooking",
-    "paragraphText": [
-      "A product made from milk, this is often used in cooking",
-      "Restores 0.2 food and 0.2 water."
-    ]
-  }
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Butter",
+        "stackId": "Cooking:butter",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Butter"
+    },
+    "CraftingStationIngredient": {
+        "type": "Cooking:butter"
+    },
+    "Food": {
+        "filling": 0.2
+    },
+    "Drink": {
+        "filling": 0.2
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+            "A product made from milk, this is often used in cooking",
+            "Restores 0.2 food and 0.2 water."
+        ]
+    }
 }

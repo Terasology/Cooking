@@ -9,7 +9,9 @@
         "name": "Mixing Bowl"
     },
     "BlockDropGrammar": {
-        "itemDrops": ["4*WorkstationCrafting:Clay"]
+        "itemDrops": [
+            "4*WorkstationCrafting:Clay"
+        ]
     },
     "InteractionTarget": {},
     "InteractionScreen": {
@@ -68,12 +70,14 @@
             0
         ]
     },
-    "PortableWorkstation": {
-
-    },
+    "PortableWorkstation": {},
     "FluidInventory": {
-        "fluidSlots": [ 0 ],
-        "maximumVolumes": [ 10 ]
+        "fluidSlots": [
+            0
+        ],
+        "maximumVolumes": [
+            10
+        ]
     },
     "Health": {
         "currentHealth": 5,

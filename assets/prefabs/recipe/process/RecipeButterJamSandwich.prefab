@@ -4,12 +4,16 @@
     },
     "CraftingStationRecipe": {
         "recipeId": "Cold food|Cooking:ButterJamSandwich",
-
-        "recipeComponents": ["1*Cooking:bread", "1*Cooking:butter", "1*Cooking:jam"],
-        "recipeFluids": ["0*Fluid:Water"],
+        "recipeComponents": [
+            "1*Cooking:bread",
+            "1*Cooking:butter",
+            "1*Cooking:jam"
+        ],
+        "recipeFluids": [
+            "0*Fluid:Water"
+        ],
         "requiredTemperature": 0,
         "processingDuration": 10000,
-
         "itemResult": "1*Cooking:ButterJamSandwich"
     },
     "ProcessingTime": {

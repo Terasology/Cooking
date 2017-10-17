@@ -4,12 +4,14 @@
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:CookedRice",
-
-        "recipeComponents": ["1*Cooking:whiteRice"],
-        "recipeFluids": ["0.25*Fluid:Water"],
+        "recipeComponents": [
+            "1*Cooking:whiteRice"
+        ],
+        "recipeFluids": [
+            "0.25*Fluid:Water"
+        ],
         "requiredTemperature": 90,
         "processingDuration": 5000,
-
         "itemResult": "1*Cooking:CookedRice"
     },
     "ProcessingTime": {

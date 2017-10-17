@@ -1,33 +1,39 @@
 {
-  "ProcessDefinition": {
-    "processType": "Cooking:FoodMixingProcess"
-  },
-  "CraftingStationRecipe": {
-    "recipeId": "Mixed food|Cooking:FruitSalad",
-
-    "recipeComponents": ["1*Cooking:apple","1*Cooking:avocado","1*Cooking:lemon", "1*Cooking:mango", "1*Cooking:peach", "1*Cooking:Pear", "1*Cooking:kiwi"],
-    "requiredTemperature": 0,
-    "processingDuration": 3000,
-
-    "itemResult": "1*Cooking:FruitSalad"
-  },
-  "ProcessingTime": {
-    "duration": 20000
-  },
-  "InventoryInput": {
-    "itemCounts": {
-      "Cooking:apple": 1,
-      "Cooking:avocado": 1,
-      "Cooking:lemon": 1,
-      "Cooking:mango": 1,
-      "Cooking:peach": 1,
-      "Cooking:Pear": 1,
-      "Cooking:kiwi": 1
+    "ProcessDefinition": {
+        "processType": "Cooking:FoodMixingProcess"
+    },
+    "CraftingStationRecipe": {
+        "recipeId": "Mixed food|Cooking:FruitSalad",
+        "recipeComponents": [
+            "1*Cooking:apple",
+            "1*Cooking:avocado",
+            "1*Cooking:lemon",
+            "1*Cooking:mango",
+            "1*Cooking:peach",
+            "1*Cooking:Pear",
+            "1*Cooking:kiwi"
+        ],
+        "requiredTemperature": 0,
+        "processingDuration": 3000,
+        "itemResult": "1*Cooking:FruitSalad"
+    },
+    "ProcessingTime": {
+        "duration": 20000
+    },
+    "InventoryInput": {
+        "itemCounts": {
+            "Cooking:apple": 1,
+            "Cooking:avocado": 1,
+            "Cooking:lemon": 1,
+            "Cooking:mango": 1,
+            "Cooking:peach": 1,
+            "Cooking:Pear": 1,
+            "Cooking:kiwi": 1
+        }
+    },
+    "InventoryOutput": {
+        "itemCounts": {
+            "Cooking:FruitSalad": 1
+        }
     }
-  },
-  "InventoryOutput": {
-    "itemCounts": {
-      "Cooking:FruitSalad": 1
-    }
-  }
 }

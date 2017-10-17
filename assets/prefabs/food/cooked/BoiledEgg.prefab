@@ -12,13 +12,13 @@
         "filling": 2
     },
     "Drink": {
-        "filling": 0 
+        "filling": 0
     },
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "An egg that has been boiled in water",
-             "Restores 2 food and 0 water."
+            "An egg that has been boiled in water",
+            "Restores 2 food and 0 water."
         ]
     }
 }

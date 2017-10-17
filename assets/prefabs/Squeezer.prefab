@@ -8,14 +8,14 @@
         "name": "Squeezer"
     },
     "Durability": {
-    	"durability": 500,
-    	"maxDurability": 500
+        "durability": 500,
+        "maxDurability": 500
     },
     "CraftingStationTool": {
-    	"type": ["squeezer"]
+        "type": ["squeezer"]
     },
     "CraftInHandIngredient": {
-    	"componentType": "Cooking:Squeezer"
+        "componentType": "Cooking:Squeezer"
     },
     "ItemHelp": {
         "category": "Cooking",

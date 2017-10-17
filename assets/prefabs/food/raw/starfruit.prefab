@@ -15,12 +15,13 @@
         "filling": 3
     },
     "Drink": {
-        "filling": 2  },
+        "filling": 2
+    },
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "A medium size,greenish orange color fruit, with alot of  sour juice filled inside!",
-             "Restores 2 food and 3 water."
+            "A medium size,greenish orange color fruit, with alot of  sour juice filled inside!",
+            "Restores 2 food and 3 water."
         ]
     }
 }

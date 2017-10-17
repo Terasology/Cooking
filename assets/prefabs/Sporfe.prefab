@@ -1,4 +1,3 @@
-
 {
     "parent": "engine:iconItem",
     "Item": {
@@ -11,7 +10,7 @@
     "ItemHelp": {
         "category": "CookingUtils",
         "paragraphText": [
-          "Basic utensil used for eating and drinking soup cutting meat."
+            "Basic utensil used for eating and drinking soup cutting meat."
         ]
     }
 }

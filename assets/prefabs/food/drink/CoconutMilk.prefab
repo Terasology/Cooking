@@ -9,7 +9,7 @@
         "name": "Coconut Milk"
     },
     "CraftingStationIngredient": {
-            "type": "Cooking:coconutMilk"
+        "type": "Cooking:coconutMilk"
     },
     "Food": {
         "filling": 0.3
@@ -20,8 +20,7 @@
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "Coconut milk is the liquid that comes from the grated meat of a mature coconut. "
+            "Coconut milk is the liquid that comes from the grated meat of a mature coconut. "
         ]
     }
-
 }

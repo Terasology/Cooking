@@ -15,13 +15,13 @@
         "filling": 3
     },
     "Drink": {
-        "filling": 0  
-        },
+        "filling": 0
+    },
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "A traditional thanksgiving dish!",
-             "Restores 3 food."
+            "A traditional thanksgiving dish!",
+            "Restores 3 food."
         ]
     }
 }

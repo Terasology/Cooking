@@ -4,12 +4,18 @@
     },
     "CraftingStationRecipe": {
         "recipeId": "Baked food|Cooking:Cake",
-
-        "recipeComponents": ["1*Cooking:flour","1*Cooking:sugar","2*Cooking:egg","1*Cooking:butter","1*Cooking:chocolate"],
-        "recipeFluids": ["0.5*Fluid:Water"],
+        "recipeComponents": [
+            "1*Cooking:flour",
+            "1*Cooking:sugar",
+            "2*Cooking:egg",
+            "1*Cooking:butter",
+            "1*Cooking:chocolate"
+        ],
+        "recipeFluids": [
+            "0.5*Fluid:Water"
+        ],
         "requiredTemperature": 200,
         "processingDuration": 30000,
-
         "itemResult": "1*Cooking:Cake"
     },
     "ProcessingTime": {

@@ -8,12 +8,12 @@
         "name": "Coconut Processed"
     },
     "CraftingStationIngredient": {
-            "type": "Cooking:coconutProcessed"
+        "type": "Cooking:coconutProcessed"
     },
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "The mature coconut fruit with the husk removed."
+            "The mature coconut fruit with the husk removed."
         ]
     }
 }

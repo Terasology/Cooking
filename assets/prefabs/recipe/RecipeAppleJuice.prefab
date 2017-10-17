@@ -4,12 +4,15 @@
     },
     "CraftingStationRecipe": {
         "recipeId": "Cooking|Cooking:AppleJuice",
-
-        "recipeComponents": ["3*Cooking:apple","2*Cooking:sugar"],
-        "recipeFluids": ["0.6*Fluid:Water"],
+        "recipeComponents": [
+            "3*Cooking:apple",
+            "2*Cooking:sugar"
+        ],
+        "recipeFluids": [
+            "0.6*Fluid:Water"
+        ],
         "requiredTemperature": 0,
         "processingDuration": 4500,
-
         "itemResult": "1*Cooking:AppleJuice"
     },
     "ProcessingTime": {

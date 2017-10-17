@@ -12,7 +12,9 @@
         "maxDurability": 500
     },
     "CraftingStationTool": {
-        "type": ["blender"]
+        "type": [
+            "blender"
+        ]
     },
     "CraftInHandIngredient": {
         "componentType": "Cooking:Blender"

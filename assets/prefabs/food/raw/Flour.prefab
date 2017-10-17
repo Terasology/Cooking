@@ -20,8 +20,8 @@
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "A bag of lots of powder. Doesn't seem like much use if its not cooked.",
-             "Restores 0 food and 0 water."
+            "A bag of lots of powder. Doesn't seem like much use if its not cooked.",
+            "Restores 0 food and 0 water."
         ]
     }
 }

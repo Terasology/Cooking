@@ -3,18 +3,18 @@
     "Item": {
         "icon": "Cooking:BrownSugar",
         "stackId": "Cooking:brownsugar",
-        "consumedOnUse":true
+        "consumedOnUse": true
     },
     "DisplayName": {
         "name": "Brown Sugar"
     },
-     "CraftingStationIngredient": {
-            "type": "Cooking:brownsugar"
-        },
+    "CraftingStationIngredient": {
+        "type": "Cooking:brownsugar"
+    },
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "Harvested from sugar cane and has a sweet taste."
+            "Harvested from sugar cane and has a sweet taste."
         ]
     }
 }
