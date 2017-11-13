@@ -8,8 +8,8 @@
     "DisplayName": {
         "name": "Bread"
     },
-    "CraftingStationIngredient":{
-        "type":"Cooking:bread"
+    "CraftingStationIngredient": {
+        "type": "Cooking:bread"
     },
     "Food": {
         "filling": 5
@@ -17,8 +17,8 @@
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "A staple food prepared from a dough of flour and water, usually by baking. There are a large number of recipes that qualify as bread.",
-             "Restores 5 food."
+            "A staple food prepared from a dough of flour and water, usually by baking. There are a large number of recipes that qualify as bread.",
+            "Restores 5 food."
         ]
     }
 }

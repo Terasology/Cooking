@@ -1,4 +1,3 @@
-
 {
     "parent": "engine:iconItem",
     "Item": {
@@ -11,7 +10,7 @@
     "ItemHelp": {
         "category": "CookingUtils",
         "paragraphText": [
-          "It helps to remove the peel of some fruits such as removing the first layer of the apple etc."
+            "It helps to remove the peel of some fruits such as removing the first layer of the apple etc."
         ]
     }
 }

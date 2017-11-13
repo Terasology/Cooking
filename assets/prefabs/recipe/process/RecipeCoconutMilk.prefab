@@ -4,12 +4,14 @@
     },
     "CraftingStationRecipe": {
         "recipeId": "Processed food|Cooking:coconutMilk",
-
-        "recipeComponents": ["1*Cooking:coconutProcessed"],
-        "recipeFluids": ["0.0*Fluid:Water"],
+        "recipeComponents": [
+            "1*Cooking:coconutProcessed"
+        ],
+        "recipeFluids": [
+            "0.0*Fluid:Water"
+        ],
         "requiredTemperature": 20,
         "processingDuration": 8000,
-
         "itemResult": "2*Cooking:coconutMilk"
     },
     "ProcessingTime": {

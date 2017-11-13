@@ -13,12 +13,14 @@
         "maxDurability": 500
     },
     "CraftingStationTool": {
-        "type": ["fryPan"]
+        "type": [
+            "fryPan"
+        ]
     },
     "ItemHelp": {
         "category": "CookingUtils",
         "paragraphText": [
-          "Used for frying food items."
+            "Used for frying food items."
         ]
     }
 }

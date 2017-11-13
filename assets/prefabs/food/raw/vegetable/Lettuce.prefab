@@ -1,4 +1,3 @@
-
 {
     "parent": "engine:iconItem",
     "Item": {
@@ -21,8 +20,8 @@
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "A lettuce is a gree succulent vegatable with large tightly packed leaves",
-             "Restores 2 food and 1 water."
+            "A lettuce is a gree succulent vegatable with large tightly packed leaves",
+            "Restores 2 food and 1 water."
         ]
     }
 }

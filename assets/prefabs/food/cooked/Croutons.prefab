@@ -1,18 +1,18 @@
 {
-	"parent" : "engine:iconItem", 
-	"Item" : {
-		"icon" : "Cooking:Croutons", 
-		"stackId" : "Cooking:croutons", 
-		"consumedOnUse" : true
-	}, 
-	"DisplayName" : {
-		"name" : "Croutons"
-	}, 
-	"Food" : {
-		"filling" : 1
-	}, 
-	"ItemHelp" : {
-		"category" : "Cooking", 
-		"paragraphText" : [ "Huge chunks of breadcrumbs. Makes the soup more crunchier" ]
-	}
+    "parent" : "engine:iconItem",
+    "Item" : {
+        "icon" : "Cooking:Croutons",
+        "stackId" : "Cooking:croutons",
+        "consumedOnUse" : true
+    },
+    "DisplayName" : {
+        "name" : "Croutons"
+    },
+    "Food" : {
+        "filling" : 1
+    },
+    "ItemHelp" : {
+        "category" : "Cooking",
+        "paragraphText" : [ "Huge chunks of breadcrumbs. Makes the soup more crunchier" ]
+    }
 }

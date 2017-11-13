@@ -20,8 +20,8 @@
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "A mineral with a distinctive salty taste, harvested from the sea and used in many foods.",
-             "Restores 0.1 food and drains 0.2 water."
+            "A mineral with a distinctive salty taste, harvested from the sea and used in many foods.",
+            "Restores 0.1 food and drains 0.2 water."
         ]
     }
 }

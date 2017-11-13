@@ -15,12 +15,13 @@
         "filling": 2.1
     },
     "Drink": {
-        "filling": 1    },
+        "filling": 1
+    },
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "A big fibrous yellow fruit with white flesh; a complete meal in itself.",
-             "Restores 2.1 food and 1 water."
+            "A big fibrous yellow fruit with white flesh; a complete meal in itself.",
+            "Restores 2.1 food and 1 water."
         ]
     }
 }

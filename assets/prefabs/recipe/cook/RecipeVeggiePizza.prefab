@@ -4,12 +4,18 @@
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:VeggiePizza",
-
-        "recipeComponents": ["1*Cooking:flour", "1*Cooking:greenBellPepper", "1*Cooking:cheese", "1*Cooking:mushroom", "1*Cooking:tomato"],
-        "recipeFluids": ["1*Fluid:Water"],
+        "recipeComponents": [
+            "1*Cooking:flour",
+            "1*Cooking:greenBellPepper",
+            "1*Cooking:cheese",
+            "1*Cooking:mushroom",
+            "1*Cooking:tomato"
+        ],
+        "recipeFluids": [
+            "1*Fluid:Water"
+        ],
         "requiredTemperature": 400,
         "processingDuration": 40000,
-
         "itemResult": "1*Cooking:VeggiePizza"
     },
     "ProcessingTime": {

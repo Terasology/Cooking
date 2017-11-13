@@ -13,12 +13,14 @@
         "maxDurability": 200
     },
     "CraftingStationTool": {
-        "type": ["bastingBrush"]
+        "type": [
+            "bastingBrush"
+        ]
     },
     "ItemHelp": {
         "category": "CookingUtils",
         "paragraphText": [
-          "Used to put sauces and marinades on food before, during, or after cooking."
+            "Used to put sauces and marinades on food before, during, or after cooking."
         ]
     }
 }

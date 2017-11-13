@@ -1,29 +1,30 @@
 {
-  "parent": "engine:iconItem",
-  "Item": {
-    "icon": "Cooking:PotatoMasher",
-    "stackId": "Cooking:potatoMasher",
-    "consumedOnUse": false
-  },
-  "DisplayName": {
-    "name": "Potato masher",
-    "description": "Used to mash soft food."
-  },
-  "Durability": {
-    "durability": 100,
-    "maxDurability": 100
-  },
-  "CraftingStationTool": {
-    "type": ["potatoMasher"]
-  },
-  "CraftInHandIngredient": {
-    "componentType": "Cooking:PotatoMasher"
-  },
-  "ItemHelp": {
-    "category": "Cooking",
-    "paragraphText": [
-     "A food preparation utensil used to crush soft food to make foods like mashed potatoes"
-    ]
-  }
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:PotatoMasher",
+        "stackId": "Cooking:potatoMasher",
+        "consumedOnUse": false
+    },
+    "DisplayName": {
+        "name": "Potato masher",
+        "description": "Used to mash soft food."
+    },
+    "Durability": {
+        "durability": 100,
+        "maxDurability": 100
+    },
+    "CraftingStationTool": {
+        "type": [
+            "potatoMasher"
+        ]
+    },
+    "CraftInHandIngredient": {
+        "componentType": "Cooking:PotatoMasher"
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+            "A food preparation utensil used to crush soft food to make foods like mashed potatoes"
+        ]
+    }
 }
-

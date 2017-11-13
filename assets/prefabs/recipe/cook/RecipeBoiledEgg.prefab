@@ -4,12 +4,14 @@
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:BoiledEggs",
-        
-        "recipeComponents": ["1*Cooking:egg"],
-        "recipeFluids": ["0.25*Fluid:Water"],
+"recipeComponents": [
+            "1*Cooking:egg"
+        ],
+        "recipeFluids": [
+            "0.25*Fluid:Water"
+        ],
         "requiredTemperature": 100,
         "processingDuration": 10000,
-
         "itemResult": "1*Cooking:BoiledEgg"
     },
     "ProcessingTime": {

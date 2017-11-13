@@ -4,12 +4,14 @@
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot drink|Cooking:LemonTea",
-
-        "recipeComponents": ["1*Cooking:lemon"],
-        "recipeFluids": ["1*Fluid:Water"],
+        "recipeComponents": [
+            "1*Cooking:lemon"
+        ],
+        "recipeFluids": [
+            "1*Fluid:Water"
+        ],
         "requiredTemperature": 100,
         "processingDuration": 30000,
-
         "itemResult": "1*Cooking:LemonTea"
     },
     "ProcessingTime": {

@@ -12,7 +12,9 @@
         "maxDurability": 500
     },
     "CraftingStationTool": {
-        "type": ["griddle"]
+        "type": [
+            "griddle"
+        ]
     },
     "CraftInHandIngredient": {
         "componentType": "Cooking:Griddle"

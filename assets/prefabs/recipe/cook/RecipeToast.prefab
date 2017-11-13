@@ -4,11 +4,11 @@
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:Toast",
-
-        "recipeComponents": ["1*bread"],
+        "recipeComponents": [
+            "1*bread"
+        ],
         "requiredTemperature": 200,
         "processingDuration": 20000,
-
         "itemResult": "1*Cooking:Toast"
     },
     "ProcessingTime": {

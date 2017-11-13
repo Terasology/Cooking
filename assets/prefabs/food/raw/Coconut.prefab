@@ -8,12 +8,12 @@
         "name": "Coconut"
     },
     "CraftingStationIngredient": {
-            "type": "Cooking:coconut"
+        "type": "Cooking:coconut"
     },
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "The fruit from the coconut palm completely unprocessed with it's green husk."
+            "The fruit from the coconut palm completely unprocessed with it's green husk."
         ]
     }
 }

@@ -14,7 +14,9 @@
         "maxDurability": 100
     },
     "CraftingStationTool": {
-        "type": ["grater"]
+        "type": [
+            "grater"
+        ]
     },
     "CraftInHandIngredient": {
         "componentType": "Cooking:grater"

@@ -1,0 +1,4 @@
+[cli]
+bears = spaceconsistencybear,jsonformatbear
+files = assets/**/*.prefab
+use_spaces = true

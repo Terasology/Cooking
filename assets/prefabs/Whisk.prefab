@@ -12,7 +12,9 @@
         "maxDurability": 800
     },
     "CraftingStationTool": {
-        "type": ["Whisk"]
+        "type": [
+            "Whisk"
+        ]
     },
     "CraftInHandIngredient": {
         "componentType": "Cooking:Whisk"
@@ -20,7 +22,7 @@
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-          "Cooking utensil used to Whisk eggs and doughs."
+            "Cooking utensil used to Whisk eggs and doughs."
         ]
     }
 }

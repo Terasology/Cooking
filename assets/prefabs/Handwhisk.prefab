@@ -12,7 +12,9 @@
         "maxDurability": 400
     },
     "CraftingStationTool": {
-        "type": ["Whisk"]
+        "type": [
+            "Whisk"
+        ]
     },
     "CraftInHandIngredient": {
         "componentType": "Cooking:Whisk"
@@ -20,7 +22,7 @@
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-          "Good old hand whisk that gets the job done. Requires manual work."
+            "Good old hand whisk that gets the job done. Requires manual work."
         ]
     }
 }

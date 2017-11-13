@@ -1,9 +1,9 @@
 {
     "parent": "engine:iconItem",
     "Item": {
-       "icon": "Cooking:Mango",
-       "stackId": "Cooking:mango",
-       "consumedOnUse": true
+        "icon": "Cooking:Mango",
+        "stackId": "Cooking:mango",
+        "consumedOnUse": true
     },
     "DisplayName": {
         "name": "Mango"
@@ -20,8 +20,8 @@
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-              "A sweet and tangy fruit with a large seed. The fruit is bright and orange.",
-              "Restores 2 food and 1 water."
+            "A sweet and tangy fruit with a large seed. The fruit is bright and orange.",
+            "Restores 2 food and 1 water."
         ]
     }
 }

@@ -4,12 +4,16 @@
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:RaisinBread",
-
-        "recipeComponents": ["1*Cooking:flour","1*Cooking:salt","5*Cooking:raisin"],
-        "recipeFluids": ["0.6*Fluid:Water"],
+        "recipeComponents": [
+            "1*Cooking:flour",
+            "1*Cooking:salt",
+            "5*Cooking:raisin"
+        ],
+        "recipeFluids": [
+            "0.6*Fluid:Water"
+        ],
         "requiredTemperature": 200,
         "processingDuration": 20000,
-
         "itemResult": "1*Cooking:RaisinBread"
     },
     "ProcessingTime": {

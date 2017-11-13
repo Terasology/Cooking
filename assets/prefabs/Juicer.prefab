@@ -12,7 +12,9 @@
         "maxDurability": 500
     },
     "CraftingStationTool": {
-        "type": ["juicer"]
+        "type": [
+            "juicer"
+        ]
     },
     "CraftInHandIngredient": {
         "componentType": "Cooking:Juicer"
@@ -20,7 +22,7 @@
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-          "Cooking utensil used to juice large fruits into juice."
+            "Cooking utensil used to juice large fruits into juice."
         ]
     }
 }

@@ -4,12 +4,14 @@
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:CookedKale",
-
-        "recipeComponents": ["1*Cooking:kale"],
-        "recipeFluids": ["0.50*Fluid:Water"],
+        "recipeComponents": [
+            "1*Cooking:kale"
+        ],
+        "recipeFluids": [
+            "0.50*Fluid:Water"
+        ],
         "requiredTemperature": 100,
         "processingDuration": 6000,
-
         "itemResult": "1*Cooking:CookedKale"
     },
     "ProcessingTime": {

@@ -4,14 +4,15 @@
     },
     "CraftingStationRecipe": {
         "recipeId": "Hot food|Cooking:RoastPotatoes",
-
-        "recipeComponents": ["1*Cooking:butter","3*Cooking:potato"],
+        "recipeComponents": [
+            "1*Cooking:butter",
+            "3*Cooking:potato"
+        ],
         "requiredTemperature": 180,
         "processingDuration": 20000,
-
         "itemResult": "1*Cooking:roastPotatoes"
     },
-        "ProcessingTime": {
+    "ProcessingTime": {
         "duration": 20000
     },
     "InventoryInput": {

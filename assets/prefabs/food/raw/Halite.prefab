@@ -1,11 +1,13 @@
 {
     "BlockDropGrammar": {
-        "itemDrops": ["2-3*Cooking:RockSalt"]
+        "itemDrops": [
+            "2-3*Cooking:RockSalt"
+        ]
     },
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "A rock that can be broken down into ground salt."
+            "A rock that can be broken down into ground salt."
         ]
     }
 }

@@ -20,8 +20,8 @@
     "ItemHelp": {
         "category": "Cooking",
         "paragraphText": [
-             "A sweet treat and ingredient in many food items.",
-             "Restores 1 food and 0 water."
+            "A sweet treat and ingredient in many food items.",
+            "Restores 1 food and 0 water."
         ]
     }
- }
+}
