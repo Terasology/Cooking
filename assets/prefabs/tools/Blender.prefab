@@ -1,0 +1,28 @@
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:Blender",
+        "stackId": "Cooking:Blender"
+    },
+    "DisplayName": {
+        "name": "Blender"
+    },
+    "Durability": {
+        "durability": 500,
+        "maxDurability": 500
+    },
+    "CraftingStationTool": {
+        "type": [
+            "blender"
+        ]
+    },
+    "CraftInHandIngredient": {
+        "componentType": "Cooking:Blender"
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+            "The utensil is used for breaking down food into much smaller pieces."
+        ]
+    }
+}

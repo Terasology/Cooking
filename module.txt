@@ -24,6 +24,10 @@
         {
             "id" : "InGameHelpAPI",
             "minVersion" : "0.1.0"
+        },
+        {
+            "id" : "BasicCrafting",
+            "minVersion" : "0.1.0"
         }
     ],
     "serverSideOnly" : false

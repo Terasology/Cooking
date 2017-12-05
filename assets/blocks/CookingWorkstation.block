@@ -1,0 +1,6 @@
+{
+  "basedOn":"Core:mineral",
+  "entity": {
+    "prefab": "CookingWorkstation"
+  }
+}
