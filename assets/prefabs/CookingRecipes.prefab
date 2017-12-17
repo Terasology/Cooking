@@ -4,6 +4,13 @@
       "Cooking"
     ],
     "recipes": {
+      "Cooking:PineappleJuice": {
+        "inputs":{
+          "Pineapple": 1,
+          "Cooking:Sugar": 2
+        },
+        "outputCount": 1
+      }
     }
   }
 }
