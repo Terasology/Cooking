@@ -10,6 +10,49 @@
           "Cooking:Sugar": 2
         },
         "outputCount": 1
+      },
+      "Cooking:FrenchToast": {
+         "inputs":{
+            "Cooking:Egg": 2,
+            "Cooking:Bread": 1,
+            "Cooking:BrownSugar": 1,
+            "Cooking:Griddle":1
+         },
+         "outputCount": 1
+      },
+      "Cooking:AppleJuice": {
+         "inputs":{
+             "Apple": 3,
+              "Cooking:Sugar": 2
+          },
+          "outputCount": 1
+      },
+      "Cooking:FruitSalad": {
+          "inputs":{
+              "Apple": 1,
+              "Avocado": 1,
+              "Lemon": 1,
+              "Mango": 1,
+              "Peach": 1,
+              "Pear": 1,
+              "Kiwi": 1
+          },
+          "outputCount": 1
+      },
+      "Cooking:Guacamole": {
+          "inputs":{
+              "Avocado": 1,
+              "Cooking:Salt": 2,
+              "Lemon": 2
+          },
+          "outputCount": 1
+      },
+      "Cooking:OrangeJuice": {
+           "inputs": {
+               "Orange": 3,
+               "Cooking:Sugar": 2
+           },
+           "outputCount": 1
       }
     }
   }
