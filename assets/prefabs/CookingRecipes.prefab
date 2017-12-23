@@ -53,6 +53,37 @@
                "Cooking:Sugar": 2
            },
            "outputCount": 1
+      },
+      "Cooking:PeachJuice": {
+           "inputs": {
+               "Peach": 2,
+               "Cooking:Sugar": 1
+           },
+           "outputCount": 1
+      },
+      "Cooking:GrapeJuice": {
+           "inputs": {
+               "Grape": 25,
+               "Cooking:Sugar": 2
+           },
+           "outputCount": 1
+      },
+      "Cooking:PotatoSalad": {
+           "inputs": {
+                "Potato": 3,
+                "Cooking:Salt": 1,
+                "Lemon": 1
+           },
+           "outputCount": 1
+      },
+      "Cooking:FrenchToast": {
+           "inputs": {
+                "Cooking:Egg": 2,
+                "Cooking:Bread": 1,
+                "Cooking:BrownSugar": 1,
+                "Cooking:Griddle": 1,
+           },
+           "outputCount": 1
       }
     }
   }
