@@ -23,7 +23,7 @@
       "Cooking:AppleJuice": {
          "inputs":{
              "Apple": 3,
-              "Cooking:Sugar": 2
+             "Cooking:Sugar": 2
           },
           "outputCount": 1
       },
@@ -51,6 +51,54 @@
            "inputs": {
                "Orange": 3,
                "Cooking:Sugar": 2
+           },
+           "outputCount": 1
+      },
+      "Cooking:ApplePie": {
+           "inputs": {
+               "Apple": 5,
+               "Cooking:Sugar": 2,
+               "Cooking:Flour": 3
+           },
+           "outputCount": 1
+      },
+      "Cooking:Bread": {
+           "inputs": {
+               "Cooking:Salt": 1,
+               "Cooking:Flour": 1
+           },
+           "outputCount": 1
+      },
+      "Cooking:BananaBread": {
+           "inputs": {
+               "Banana": 3,
+               "Cooking:Sugar": 1,
+               "Cooking:Flour": 1,
+               "Cooking:Chocolate": 1
+           },
+           "outputCount": 1
+      },
+      "Cooking:Omelette": {
+           "inputs": {
+               "Cooking:Egg": 2,
+               "Cooking:Salt": 1,
+               "Onion": 1,
+               "Tomato": 1
+           },
+           "outputCount": 1
+      },
+      "Cooking:Ramen": {
+           "inputs": {
+               "Cooking:Butter": 1,
+               "Cooking:Salt": 1,
+               "Cooking:Flour": 4
+           },
+           "outputCount": 1
+      },
+      "Cooking:MashedPotatoes": {
+           "inputs": {
+               "Potato": 4,
+               "Cooking:Salt": 1
            },
            "outputCount": 1
       }
