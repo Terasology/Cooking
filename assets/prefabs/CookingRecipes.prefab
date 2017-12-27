@@ -11,6 +11,35 @@
         },
         "outputCount": 1
       },
+      "Cooking:ButterJamSandwich": {
+        "inputs":{
+          "Cooking:bread": 1,
+          "Cooking:butter": 1,
+          "Cooking:jam": 1
+        },
+        "outputCount": 1
+      },
+      "Cooking:FriedChicken": {
+        "inputs":{
+          "Cooking:chicken": 1,
+          "Cooking:salt": 1
+        },
+        "outputCount": 1
+      },
+      "Cooking:RaisinBread": {
+        "inputs":{
+          "Cooking:flour": 1,
+          "Cooking:salt": 1,
+          "Cooking:raisin": 5
+        },
+        "outputCount": 1
+      },
+      "Cooking:Toast": {
+        "inputs":{
+          "Cooking:bread": 1
+        },
+        "outputCount": 1
+      },
       "Cooking:FrenchToast": {
          "inputs":{
             "Cooking:Egg": 2,
