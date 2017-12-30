@@ -130,6 +130,43 @@
           "Cooking:Salt": 1
         },
         "outputCount": 1
+      },
+      "Cooking:CookedBrownRice": {
+        "inputs":{
+          "Cooking:BrownRice": 1
+        },
+        "outputCount": 1
+      },
+      "Cooking:PeachPie": {
+        "inputs":{
+          "Cooking:Flour": 1,
+          "Cooking:Sugar": 1,
+          "Peach": 5
+        },
+        "outputCount": 1
+      },
+      "Cooking:PumpkinSoup": {
+        "inputs":{
+          "Pumpkin": 3,
+          "Cooking:GroundSalt": 1,
+          "Onion": 1
+        },
+        "outputCount": 1
+      },
+      "Cooking:RoastPotatoes": {
+        "inputs":{
+          "Cooking:Butter": 1,
+          "Potato": 3
+        },
+        "outputCount": 1
+      },
+      "Cooking:SauteedApples": {
+        "inputs":{
+          "Cooking:Flour": 1,
+          "Cooking:BrownSugar": 1,
+          "Apple": 5
+        },
+        "outputCount": 1
       }
     }
   }
