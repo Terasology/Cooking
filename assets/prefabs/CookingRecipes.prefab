@@ -5,14 +5,14 @@
     ],
     "recipes": {
       "Cooking:PineappleJuice": {
-        "inputs":{
+        "inputs": {
           "Pineapple": 1,
           "Cooking:Sugar": 2
         },
         "outputCount": 1
       },
       "Cooking:ButterJamSandwich": {
-        "inputs":{
+        "inputs": {
           "Cooking:bread": 1,
           "Cooking:butter": 1,
           "Cooking:jam": 1
@@ -20,14 +20,14 @@
         "outputCount": 1
       },
       "Cooking:FriedChicken": {
-        "inputs":{
+        "inputs": {
           "Cooking:chicken": 1,
           "Cooking:salt": 1
         },
         "outputCount": 1
       },
       "Cooking:RaisinBread": {
-        "inputs":{
+        "inputs": {
           "Cooking:flour": 1,
           "Cooking:salt": 1,
           "Cooking:raisin": 5
@@ -35,179 +35,174 @@
         "outputCount": 1
       },
       "Cooking:Toast": {
-        "inputs":{
+        "inputs": {
           "Cooking:bread": 1
         },
         "outputCount": 1
       },
-      "Cooking:FrenchToast": {
-         "inputs":{
-            "Cooking:Egg": 2,
-            "Cooking:Bread": 1,
-            "Cooking:BrownSugar": 1,
-            "Cooking:Griddle":1
-         },
-         "outputCount": 1
-      },
       "Cooking:AppleJuice": {
-         "inputs":{
-             "Apple": 3,
-             "Cooking:Sugar": 2
-          },
-          "outputCount": 1
+        "inputs": {
+          "Apple": 3,
+          "Cooking:Sugar": 2
+        },
+        "outputCount": 1
       },
       "Cooking:FruitSalad": {
-          "inputs":{
-              "Apple": 1,
-              "Avocado": 1,
-              "Lemon": 1,
-              "Mango": 1,
-              "Peach": 1,
-              "Pear": 1,
-              "Kiwi": 1
-          },
-          "outputCount": 1
+        "inputs": {
+          "Apple": 1,
+          "Avocado": 1,
+          "Lemon": 1,
+          "Mango": 1,
+          "Peach": 1,
+          "Pear": 1,
+          "Kiwi": 1
+        },
+        "outputCount": 1
       },
       "Cooking:Guacamole": {
-          "inputs":{
-              "Avocado": 1,
-              "Cooking:Salt": 2,
-              "Lemon": 2
-          },
-          "outputCount": 1
+        "inputs": {
+          "Avocado": 1,
+          "Cooking:Salt": 2,
+          "Lemon": 2
+        },
+        "outputCount": 1
       },
       "Cooking:OrangeJuice": {
-           "inputs": {
-               "Orange": 3,
-               "Cooking:Sugar": 2
-           },
-           "outputCount": 1
+        "inputs": {
+          "Orange": 3,
+          "Cooking:Sugar": 2
+        },
+        "outputCount": 1
       },
       "Cooking:ApplePie": {
-           "inputs": {
-               "Apple": 5,
-               "Cooking:Sugar": 2,
-               "Cooking:Flour": 3
-           },
-           "outputCount": 1
+        "inputs": {
+          "Apple": 5,
+          "Cooking:Sugar": 2,
+          "Cooking:Flour": 3
+        },
+        "outputCount": 1
       },
       "Cooking:Bread": {
-           "inputs": {
-               "Cooking:Salt": 1,
-               "Cooking:Flour": 1
-           },
-           "outputCount": 1
+        "inputs": {
+          "Cooking:Salt": 1,
+          "Cooking:Flour": 1
+        },
+        "outputCount": 1
       },
       "Cooking:BananaBread": {
-           "inputs": {
-               "Banana": 3,
-               "Cooking:Sugar": 1,
-               "Cooking:Flour": 1,
-               "Cooking:Chocolate": 1
-           },
-           "outputCount": 1
+        "inputs": {
+          "Banana": 3,
+          "Cooking:Sugar": 1,
+          "Cooking:Flour": 1,
+          "Cooking:Chocolate": 1
+        },
+        "outputCount": 1
       },
       "Cooking:Omelette": {
-           "inputs": {
-               "Cooking:Egg": 2,
-               "Cooking:Salt": 1,
-               "Onion": 1,
-               "Tomato": 1
-           },
-           "outputCount": 1
+        "inputs": {
+          "Cooking:Egg": 2,
+          "Cooking:Salt": 1,
+          "Onion": 1,
+          "Tomato": 1
+        },
+        "outputCount": 1
       },
       "Cooking:Ramen": {
-           "inputs": {
-               "Cooking:Butter": 1,
-               "Cooking:Salt": 1,
-               "Cooking:Flour": 4
-           },
-           "outputCount": 1
+        "inputs": {
+          "Cooking:Butter": 1,
+          "Cooking:Salt": 1,
+          "Cooking:Flour": 4
+        },
+        "outputCount": 1
       },
       "Cooking:MashedPotatoes": {
-           "inputs": {
-               "Potato": 4,
-               "Cooking:Salt": 1
+        "inputs": {
+          "Potato": 4,
+          "Cooking:Salt": 1
+        },
+        "outputCount": 1
+      },
       "Cooking:PeachJuice": {
-           "inputs": {
-               "Peach": 2,
-               "Cooking:Sugar": 1
-           },
-           "outputCount": 1
+        "inputs": {
+          "Peach": 2,
+          "Cooking:Sugar": 1
+        },
+        "outputCount": 1
       },
       "Cooking:GrapeJuice": {
-           "inputs": {
-               "Grape": 25,
-               "Cooking:Sugar": 2
-           },
-           "outputCount": 1
+        "inputs": {
+          "Grape": 25,
+          "Cooking:Sugar": 2
+        },
+        "outputCount": 1
       },
       "Cooking:PotatoSalad": {
-           "inputs": {
-                "Potato": 3,
-                "Cooking:Salt": 1,
-                "Lemon": 1
-           },
-           "outputCount": 1
+        "inputs": {
+          "Potato": 3,
+          "Cooking:Salt": 1,
+          "Lemon": 1
+        },
+        "outputCount": 1
       },
       "Cooking:FrenchToast": {
-           "inputs": {
-                "Cooking:Egg": 2,
-                "Cooking:Bread": 1,
-                "Cooking:BrownSugar": 1,
-                "Cooking:Griddle": 1,
-           },
-           "outputCount": 1
+        "inputs": {
+          "Cooking:Egg": 2,
+          "Cooking:Bread": 1,
+          "Cooking:BrownSugar": 1,
+          "Cooking:Griddle": 1
+        },
+        "outputCount": 1
       },
       "Cooking:VeggiePizza": {
-            "inputs": {
-                "Cooking:Flour": 1,
-                "GreenBellPepper": 1,
-                "Cooking:Cheese": 1,
-                "Mushroom": 1,
-                "Tomato": 1
-            },
-            "outputCount": 1
+        "inputs": {
+          "Cooking:Flour": 1,
+          "GreenBellPepper": 1,
+          "Cooking:Cheese": 1,
+          "Mushroom": 1,
+          "Tomato": 1
+        },
+        "outputCount": 1
       },
       "Cooking:FriedRice": {
-            "inputs": {
-                "Cooking:WhiteRice": 1,
-                "Carrot": 1,
-                "Cooking:Salt": 2
-            },
-            "outputCount": 1
+        "inputs": {
+          "Cooking:WhiteRice": 1,
+          "Carrot": 1,
+          "Cooking:Salt": 2
+        },
+        "outputCount": 1
       },
       "Cooking:Cookie": {
-            "inputs": {
-                "Cooking:Flour": 1,
-                "Cooking:Chocolate": 1
-            },
-            "outputCount": 1
+        "inputs": {
+          "Cooking:Flour": 1,
+          "Cooking:Chocolate": 1
+        },
+        "outputCount": 1
       },
       "Cooking:PecanPie": {
-            "inputs": {
-                "Cooking:Flour": 1,
-                "Cooking:Sugar": 1,
-                "Cooking:Pecan": 5
-            },
-            "outputCount": 1
+        "inputs": {
+          "Cooking:Flour": 1,
+          "Cooking:Sugar": 1,
+          "Cooking:Pecan": 5
+        },
+        "outputCount": 1
       },
       "Cooking:PumpkinPie": {
-            "inputs": {
-                "Cooking:Flour": 1,
-                "Cooking:Sugar": 1,
-                "Pumpkin": 1
-            },
-            "outputCount": 1
+        "inputs": {
+          "Cooking:Flour": 1,
+          "Cooking:Sugar": 1,
+          "Pumpkin": 1
+        },
+        "outputCount": 1
       },
       "Cooking:LemonTea": {
-            "inputs": {
-                "Lemon": 1
-            },
-            "outputCount": 1
+        "inputs": {
+          "Lemon": 1
+        },
+        "outputCount": 1
+      },
       "Cooking:Cake": {
         "inputs": {
-          "Cooking:Flour": 1
+          "Cooking:Flour": 1,
           "Cooking:Sugar": 1,
           "Cooking:Egg": 2,
           "Cooking:Butter": 1,
@@ -251,7 +246,7 @@
         "inputs": {
           "Cooking:Coconut": 1
         },
-        outputCount": 1
+        "outputCount": 1
       }
     }
   }
