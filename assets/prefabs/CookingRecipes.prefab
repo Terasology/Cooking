@@ -205,6 +205,53 @@
                 "Lemon": 1
             },
             "outputCount": 1
+      "Cooking:Cake": {
+        "inputs": {
+          "Cooking:Flour": 1
+          "Cooking:Sugar": 1,
+          "Cooking:Egg": 2,
+          "Cooking:Butter": 1,
+          "Cooking:Chocolate": 1
+        },
+        "outputCount": 1
+      },
+      "Cooking:CookedOnion": {
+        "inputs": {
+          "Onion": 1
+        },
+        "outputCount": 1
+      },
+      "Cooking:CookedRadish": {
+        "inputs": {
+          "Radish": 1
+        },
+        "outputCount": 1
+      },
+      "Cooking:PineapplePie": {
+        "inputs": {
+          "Cooking:Flour": 1,
+          "Cooking:Sugar": 1,
+          "Cooking:Pineapple": 5
+        },
+        "outputCount": 1
+      },
+      "Cooking:CoconutMilk": {
+        "inputs": {
+          "Cooking:CoconutProcessed": 1
+        },
+        "outputCount": 2
+      },
+      "Cooking:CoconutMeat": {
+        "inputs": {
+          "Cooking:CoconutProcessed": 1
+        },
+        "outputCount": 2
+      },
+      "Cooking:CoconutProcessed": {
+        "inputs": {
+          "Cooking:Coconut": 1
+        },
+        outputCount": 1
       }
     }
   }
