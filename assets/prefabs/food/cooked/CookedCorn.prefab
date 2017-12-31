@@ -1,1 +1,24 @@
-
+{
+    "parent": "engine:iconItem",
+    "Item": {
+        "icon": "Cooking:items#CookedCorn",
+        "stackId": "Cooking:cookedCorn",
+        "consumedOnUse": true
+    },
+    "DisplayName": {
+        "name": "Cooked Corn"
+    },
+    "Food": {
+        "filling": 1
+    },
+    "Drink": {
+        "filling": 1
+    },
+    "ItemHelp": {
+        "category": "Cooking",
+        "paragraphText": [
+            "A nicely cooked cob of corn.",
+            "Restores 1 food and 1 water."
+        ]
+    }
+}
