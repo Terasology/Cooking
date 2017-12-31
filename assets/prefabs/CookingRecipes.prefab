@@ -158,6 +158,53 @@
                 "Cooking:Griddle": 1,
            },
            "outputCount": 1
+      },
+      "Cooking:VeggiePizza": {
+            "inputs": {
+                "Cooking:Flour": 1,
+                "GreenBellPepper": 1,
+                "Cooking:Cheese": 1,
+                "Mushroom": 1,
+                "Tomato": 1
+            },
+            "outputCount": 1
+      },
+      "Cooking:FriedRice": {
+            "inputs": {
+                "Cooking:WhiteRice": 1,
+                "Carrot": 1,
+                "Cooking:Salt": 2
+            },
+            "outputCount": 1
+      },
+      "Cooking:Cookie": {
+            "inputs": {
+                "Cooking:Flour": 1,
+                "Cooking:Chocolate": 1
+            },
+            "outputCount": 1
+      },
+      "Cooking:PecanPie": {
+            "inputs": {
+                "Cooking:Flour": 1,
+                "Cooking:Sugar": 1,
+                "Cooking:Pecan": 5
+            },
+            "outputCount": 1
+      },
+      "Cooking:PumpkinPie": {
+            "inputs": {
+                "Cooking:Flour": 1,
+                "Cooking:Sugar": 1,
+                "Pumpkin": 1
+            },
+            "outputCount": 1
+      },
+      "Cooking:LemonTea": {
+            "inputs": {
+                "Lemon": 1
+            },
+            "outputCount": 1
       }
     }
   }
