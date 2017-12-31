@@ -247,7 +247,34 @@
           "Cooking:Coconut": 1
         },
         "outputCount": 1
-      }
+      },
+ +      "Cooking:CookedCorn": {
+ +        "inputs":{
+ +          "Maize": 1,
+ +          "Cooking:Knife": 1
+ +        },
+ +        "outputCount": 1
+ +      },
+ +      "Cooking:CookedKale": {
+ +        "inputs":{
+ +          "Kale": 1
+ +        },
+ +        "outputCount": 1
+ +      },
+ +      "Cooking:CookedTurnip": {
+ +        "inputs":{
+ +          "Turnip": 1
+ +        },
+ +        "outputCount": 1
+ +      },
+ +      "Cooking:Croutons": {
+ +        "inputs":{
+ +          "Cooking:Bread": 1,
+ +          "Cooking:Salt": 1,
+ +          "Cooking:Butter": 1
+ +        },
+ +        "outputCount": 1
+       }
     }
   }
 }
