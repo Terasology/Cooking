@@ -1,0 +1,137 @@
+{
+  "ListRecipes": {
+    "categories": [
+      "Cooking"
+    ],
+    "recipes": {
+      "Cooking:PineappleJuice": {
+        "inputs": {
+          "Pineapple": 1,
+          "Cooking:Sugar": 2
+        },
+        "outputCount": 1
+      },
+      "Cooking:FrenchToast": {
+        "inputs": {
+          "Cooking:Egg": 2,
+          "Cooking:Bread": 1,
+          "Cooking:BrownSugar": 1,
+          "Cooking:Griddle": 1
+        },
+        "outputCount": 1
+      },
+      "Cooking:AppleJuice": {
+        "inputs": {
+          "Apple": 3,
+          "Cooking:Sugar": 2
+        },
+        "outputCount": 1
+      },
+      "Cooking:FruitSalad": {
+        "inputs": {
+          "Apple": 1,
+          "Avocado": 1,
+          "Lemon": 1,
+          "Mango": 1,
+          "Peach": 1,
+          "Pear": 1,
+          "Kiwi": 1
+        },
+        "outputCount": 1
+      },
+      "Cooking:Guacamole": {
+        "inputs": {
+          "Avocado": 1,
+          "Cooking:Salt": 2,
+          "Lemon": 2
+        },
+        "outputCount": 1
+      },
+      "Cooking:OrangeJuice": {
+        "inputs": {
+          "Orange": 3,
+          "Cooking:Sugar": 2
+        },
+        "outputCount": 1
+      },
+      "Cooking:ApplePie": {
+        "inputs": {
+          "Apple": 5,
+          "Cooking:Sugar": 2,
+          "Cooking:Flour": 3
+        },
+        "outputCount": 1
+      },
+      "Cooking:Bread": {
+        "inputs": {
+          "Cooking:Salt": 1,
+          "Cooking:Flour": 1
+        },
+        "outputCount": 1
+      },
+      "Cooking:BananaBread": {
+        "inputs": {
+          "Banana": 3,
+          "Cooking:Sugar": 1,
+          "Cooking:Flour": 1,
+          "Cooking:Chocolate": 1
+        },
+        "outputCount": 1
+      },
+      "Cooking:Omelette": {
+        "inputs": {
+          "Cooking:Egg": 2,
+          "Cooking:Salt": 1,
+          "Onion": 1,
+          "Tomato": 1
+        },
+        "outputCount": 1
+      },
+      "Cooking:Ramen": {
+        "inputs": {
+          "Cooking:Butter": 1,
+          "Cooking:Salt": 1,
+          "Cooking:Flour": 4
+        },
+        "outputCount": 1
+      },
+      "Cooking:MashedPotatoes": {
+        "inputs": {
+          "Potato": 4,
+          "Cooking:Salt": 1
+        },
+        "outputCount": 1
+      },
+      "Cooking:BoiledEgg": {
+        "inputs": {
+          "Cooking:Egg": 1
+        },
+        "outputCount": 1
+      },
+      "Cooking:CookedBean": {
+        "inputs": {
+          "Cooking:bean": 1,
+          "Cooking:onion": 1,
+          "Cooking:tomato": 3,
+          "Cooking:salt": 1
+        },
+        "outputCount": 1
+      },
+      "Cooking:CookedRice": {
+        "inputs": {
+          "Cooking:whiteRice": 1
+        },
+        "outputCount": 1
+      },
+      "Cooking:PotatoSalad": {
+        "inputs": {
+          "Cooking:potato": 3,
+          "Cooking:salt": 1,
+          "Cooking:lemon": 1
+        }
+      }
+    }
+  }
+}
+
+
