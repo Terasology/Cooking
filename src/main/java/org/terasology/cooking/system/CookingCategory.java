@@ -91,7 +91,7 @@ public class CookingCategory implements HelpCategory {
         TextRenderStyle titleRenderStyle = new TextRenderStyle() {
             @Override
             public Font getFont(boolean hyperlink) {
-                return Assets.getFont("engine:title").get();
+                return Assets.getFont("engine:NotoSans-Regular-Title").get();
             }
         };
         ParagraphRenderStyle titleParagraphStyle = new ParagraphRenderStyle() {
