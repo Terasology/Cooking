@@ -17,20 +17,18 @@ package org.terasology.cooking.system;
 
 import org.terasology.assets.ResourceUrn;
 import org.terasology.cooking.Cooking;
-import org.terasology.entitySystem.prefab.Prefab;
 import org.terasology.entitySystem.prefab.PrefabManager;
 import org.terasology.entitySystem.systems.BaseComponentSystem;
 import org.terasology.entitySystem.systems.RegisterSystem;
-import org.terasology.multiBlock.*;
+import org.terasology.multiBlock.Basic2DSizeFilter;
+import org.terasology.multiBlock.BlockUriEntityFilter;
+import org.terasology.multiBlock.MultiBlockFormRecipeRegistry;
 import org.terasology.multiBlock.recipe.LayeredMultiBlockFormItemRecipe;
 import org.terasology.processing.system.AnyActivityFilter;
 import org.terasology.processing.system.ToolTypeEntityFilter;
 import org.terasology.registry.In;
-import org.terasology.workstation.component.ProcessDefinitionComponent;
 import org.terasology.workstation.system.WorkstationRegistry;
-import org.terasology.workstationCrafting.component.CraftingStationRecipeComponent;
 import org.terasology.workstationCrafting.system.CraftInHandRecipeRegistry;
-import org.terasology.workstationCrafting.system.CraftingWorkstationProcess;
 import org.terasology.workstationCrafting.system.CraftingWorkstationProcessFactory;
 import org.terasology.world.block.BlockManager;
 import org.terasology.world.block.BlockUri;
@@ -70,8 +68,8 @@ public class RegisterCookingRecipes extends BaseComponentSystem {
         LayeredMultiBlockFormItemRecipe cookingStationRecipe = new LayeredMultiBlockFormItemRecipe(
                 new ToolTypeEntityFilter("hammer"), new Basic2DSizeFilter(2, 1), new AnyActivityFilter(),
                 "Cooking:CookingStation", null);
-        cookingStationRecipe.addLayer(1, 1, new BlockUriEntityFilter(new BlockUri("Core:Brick")));
-        cookingStationRecipe.addLayer(1, 1, new BlockUriEntityFilter(new BlockUri(new ResourceUrn("Core:CobbleStone"), new ResourceUrn(("Engine:EighthBlock")))));
+        cookingStationRecipe.addLayer(1, 1, new BlockUriEntityFilter(new BlockUri("CoreBlocks:Brick")));
+        cookingStationRecipe.addLayer(1, 1, new BlockUriEntityFilter(new BlockUri(new ResourceUrn("CoreBlocks:CobbleStone"), new ResourceUrn(("Engine:EighthBlock")))));
         multiBlockFormRecipeRegistry.addMultiBlockFormItemRecipe(cookingStationRecipe);
     }
 }

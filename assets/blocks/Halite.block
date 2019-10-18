@@ -1,5 +1,5 @@
 {
-    "basedOn": "core:mineral",
+    "basedOn": "CoreAssets:mineral",
     "entity": {
         "prefab": "Cooking:Halite"
     }
