@@ -6,7 +6,7 @@
     "description" : "A module that allows for the cooking of simple foods at certain Workstations.",
     "dependencies" : [
         {"id" : "CoreBlocks", "minVersion" : "1.0.0"},
-        {"id" : "Core", "minVersion" : "2.0.0"},
+        {"id" : "Core", "minVersion" : "3.0.0"},
         {"id" : "Hunger", "minVersion" : "1.0.0"},
         {"id" : "PlantPack", "minVersion" : "1.0.0"},
         {"id" : "WorkstationCrafting", "minVersion" : "1.0.0"},
