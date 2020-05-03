@@ -10,7 +10,8 @@
         {"id" : "PlantPack", "minVersion" : "1.0.0"},
         {"id" : "WorkstationCrafting", "minVersion" : "1.0.0"},
         {"id" : "InGameHelpAPI", "minVersion" : "0.1.0"},
-        {"id" : "BasicCrafting", "minVersion" : "0.1.0"}
+        {"id" : "BasicCrafting", "minVersion" : "0.1.0"},
+        {"id" : "Inventory", "minVersion" : "1.1.0"}
     ],
     "serverSideOnly" : false,
     "isLibrary": true
