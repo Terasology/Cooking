@@ -1,18 +1,19 @@
 {
-    "id" : "Cooking",
-    "version" : "1.1.0",
-    "author" : "Anarav, XTariq, apaukraine, cam943, Yashvardhan Sharma (KidCoder), Gautam Naik, gkaretka, kallentu, MadMate, sisukas-hiiri, SufurElite, J0hnCena, shardulc, gkaretka, S-ulphuric, TehTotalPwnage, smsunarto, Jinxin, JayGupta2003, Patrick Wang, Mandar Juvekar, Minege, Arpit Kamboj(digitalripperynr), He Who Shall Not Be Named (VaibhavBajaj), Marvel0usx, TwoTau, andriii25, PokeyOne, starwader",
-    "displayName" : "Cooking",
-    "description" : "A module that allows for the cooking of simple foods at certain Workstations.",
-    "dependencies" : [
-        {"id" : "CoreBlocks", "minVersion" : "1.0.0"},
-        {"id" : "Hunger", "minVersion" : "1.0.0"},
-        {"id" : "PlantPack", "minVersion" : "1.0.0"},
-        {"id" : "WorkstationCrafting", "minVersion" : "1.0.0"},
-        {"id" : "InGameHelpAPI", "minVersion" : "0.1.0"},
-        {"id" : "BasicCrafting", "minVersion" : "0.1.0"},
-        {"id" : "Inventory", "minVersion" : "1.1.0"}
+    "id": "Cooking",
+    "version": "1.1.0",
+    "author": "Anarav, XTariq, apaukraine, cam943, Yashvardhan Sharma (KidCoder), Gautam Naik, gkaretka, kallentu, MadMate, sisukas-hiiri, SufurElite, J0hnCena, shardulc, gkaretka, S-ulphuric, TehTotalPwnage, smsunarto, Jinxin, JayGupta2003, Patrick Wang, Mandar Juvekar, Minege, Arpit Kamboj(digitalripperynr), He Who Shall Not Be Named (VaibhavBajaj), Marvel0usx, TwoTau, andriii25, PokeyOne, starwader",
+    "displayName": "Cooking",
+    "description": "A module that allows for the cooking of simple foods at certain Workstations.",
+    "dependencies": [
+        { "id": "BasicCrafting", "minVersion": "0.1.0" },
+        { "id": "CoreAssets", "minVersion": "2.0.1" },
+        { "id": "Hunger", "minVersion": "1.0.0" },
+        { "id": "InGameHelpAPI", "minVersion": "0.1.0" },
+        { "id": "Inventory", "minVersion": "1.1.0" },
+        { "id": "PlantPack", "minVersion": "1.0.0" },
+        { "id": "WorkstationCrafting", "minVersion": "1.0.0" }
     ],
-    "serverSideOnly" : false,
-    "isLibrary": true
+    "serverSideOnly": false,
+    "isLibrary": true,
+    "isAsset": true
 }
