@@ -5,14 +5,14 @@
     "displayName": "Cooking",
     "description": "A module that allows for the cooking of simple foods at certain Workstations.",
     "dependencies": [
-        { "id": "BasicCrafting", "minVersion": "0.1.0" },
+        { "id": "BasicCrafting", "minVersion": "1.0.0" },
         { "id": "CoreAssets", "minVersion": "2.0.1" },
         { "id": "Drops", "minVersion": "1.0.1" },
-        { "id": "Hunger", "minVersion": "1.0.0" },
-        { "id": "InGameHelpAPI", "minVersion": "0.1.0" },
+        { "id": "Hunger", "minVersion": "1.1.0" },
+        { "id": "InGameHelpAPI", "minVersion": "1.0.0" },
         { "id": "Inventory", "minVersion": "1.1.0" },
-        { "id": "PlantPack", "minVersion": "1.0.0" },
-        { "id": "WorkstationCrafting", "minVersion": "1.0.0" }
+        { "id": "PlantPack", "minVersion": "1.1.0" },
+        { "id": "WorkstationCrafting", "minVersion": "1.0.1" }
     ],
     "serverSideOnly": false,
     "isLibrary": true,
