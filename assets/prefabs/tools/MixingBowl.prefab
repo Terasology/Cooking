@@ -8,7 +8,7 @@
     "DisplayName": {
         "name": "Mixing Bowl"
     },
-    "BlockDropGrammar": {
+    "DropGrammar": {
         "itemDrops": [
             "4*WorkstationCrafting:Clay"
         ]

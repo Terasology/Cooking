@@ -8,7 +8,7 @@
     "DisplayName": {
         "name": "Portable Cooking Station"
     },
-    "BlockDropGrammar": {
+    "DropGrammar": {
         "itemDrops": [
             "4*WorkstationCrafting:Brick"
         ]
