@@ -10,7 +10,7 @@
             "5*Cooking:apple"
         ],
         "recipeFluids": [
-            "0.5*Fluid:Water"
+            "0.5*CoreAssets:Water"
         ],
         "requiredTemperature": 200,
         "processingDuration": 24000,
