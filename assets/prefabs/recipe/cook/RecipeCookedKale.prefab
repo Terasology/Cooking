@@ -8,7 +8,7 @@
             "1*Cooking:kale"
         ],
         "recipeFluids": [
-            "0.50*Fluid:Water"
+            "0.50*CoreAssets:Water"
         ],
         "requiredTemperature": 100,
         "processingDuration": 6000,

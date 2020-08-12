@@ -8,7 +8,7 @@
             "1*Cooking:egg"
         ],
         "recipeFluids": [
-            "0.25*Fluid:Water"
+            "0.25*CoreAssets:Water"
         ],
         "requiredTemperature": 100,
         "processingDuration": 10000,

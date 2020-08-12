@@ -8,7 +8,7 @@
             "1*Cooking:brownRice"
         ],
         "recipeFluids": [
-            "0.25*Fluid:Water"
+            "0.25*CoreAssets:Water"
         ],
         "requiredTemperature": 90,
         "processingDuration": 5000,

@@ -6,7 +6,7 @@
         "recipeId" : "Hot stuff|Cooking:Croutons",
 
         "recipeComponents" : [ "1*Cooking:bread", "1*Cooking:salt", "1*Cooking:butter" ],
-        "recipeFluids" : [ "1*Fluid:Water" ],
+        "recipeFluids" : [ "1*CoreAssets:Water" ],
         "requiredTemperature" : 150,
         "processingDuration" : 30000,
 
