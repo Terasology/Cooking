@@ -14,8 +14,14 @@ import org.terasology.hunger.component.FoodComponent;
 @RegisterSystem(RegisterMode.AUTHORITY)
 public class FillingModifier extends BaseComponentSystem {
 
+    /**
+     * An event to modify the filling value of cooked produce based on filling value of ingredients
+     * @param event The OnRecipeCrafted event
+     * @param entity The crafted entity
+     * @param foodComponent Filter food component to make sure it is a food produce
+     */
     @ReceiveEvent
-    public void onRecipeCraftedEvent(OnRecipeCrafted event, EntityRef entity) {
+    public void onRecipeCraftedEvent(OnRecipeCrafted event, EntityRef entity, FoodComponent foodComponent) {
         EntityRef ingredients[] = event.getIngredients();
         int modifyFilling = 0;
         FoodComponent ingredientFoodComponent;
