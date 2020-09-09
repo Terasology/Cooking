@@ -1,40 +1,27 @@
-/*
- * Copyright 2016 MovingBlocks
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *      http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
+// Copyright 2020 The Terasology Foundation
+// SPDX-License-Identifier: Apache-2.0
 package org.terasology.cooking.system;
 
 import com.google.common.collect.Iterables;
 import com.google.common.collect.Maps;
-import org.terasology.entitySystem.prefab.Prefab;
+import org.terasology.engine.entitySystem.prefab.Prefab;
+import org.terasology.engine.logic.common.DisplayNameComponent;
+import org.terasology.engine.rendering.assets.font.Font;
+import org.terasology.engine.rendering.nui.widgets.browser.data.DocumentData;
+import org.terasology.engine.rendering.nui.widgets.browser.data.basic.FlowParagraphData;
+import org.terasology.engine.rendering.nui.widgets.browser.data.basic.flow.TextFlowRenderable;
+import org.terasology.engine.rendering.nui.widgets.browser.data.html.HTMLDocument;
+import org.terasology.engine.rendering.nui.widgets.browser.ui.style.ContainerInteger;
+import org.terasology.engine.rendering.nui.widgets.browser.ui.style.FixedContainerInteger;
+import org.terasology.engine.rendering.nui.widgets.browser.ui.style.ParagraphRenderStyle;
+import org.terasology.engine.rendering.nui.widgets.browser.ui.style.TextRenderStyle;
+import org.terasology.engine.utilities.Assets;
 import org.terasology.inGameHelpAPI.ItemsCategoryInGameHelpRegistry;
 import org.terasology.inGameHelpAPI.components.HelpItem;
 import org.terasology.inGameHelpAPI.components.ItemHelpComponent;
 import org.terasology.inGameHelpAPI.systems.HelpCategory;
 import org.terasology.inGameHelpAPI.ui.ItemWidget;
 import org.terasology.inGameHelpAPI.ui.WidgetFlowRenderable;
-import org.terasology.logic.common.DisplayNameComponent;
-import org.terasology.rendering.assets.font.Font;
-import org.terasology.rendering.nui.widgets.browser.data.DocumentData;
-import org.terasology.rendering.nui.widgets.browser.data.basic.FlowParagraphData;
-import org.terasology.rendering.nui.widgets.browser.data.basic.flow.TextFlowRenderable;
-import org.terasology.rendering.nui.widgets.browser.data.html.HTMLDocument;
-import org.terasology.rendering.nui.widgets.browser.ui.style.ContainerInteger;
-import org.terasology.rendering.nui.widgets.browser.ui.style.FixedContainerInteger;
-import org.terasology.rendering.nui.widgets.browser.ui.style.ParagraphRenderStyle;
-import org.terasology.rendering.nui.widgets.browser.ui.style.TextRenderStyle;
-import org.terasology.utilities.Assets;
 
 import java.util.Map;
 
@@ -42,20 +29,27 @@ import java.util.Map;
  * This help category manages how the Cooking tab (or help document) will function in the in game help registry window.
  */
 public class CookingCategory implements HelpCategory {
-    /** Name of this category. */
+    /**
+     * Name of this category.
+     */
     private final String name = "Cooking";
-
-    /** Reference to the InGameHelpRegistry. This will be necessary for determining what prefabs fall under this category. */
-    private ItemsCategoryInGameHelpRegistry itemsCategoryInGameHelpRegistry;
-
-    /** Create a mapping of Strings to DocuemntData to store the item help subpages. */
+    /**
+     * Create a mapping of Strings to DocuemntData to store the item help subpages.
+     */
     Map<String, DocumentData> items = Maps.newHashMap();
-
-    /** Reference to the root HTML document. */
+    /**
+     * Reference to the root HTML document.
+     */
     HTMLDocument rootDocument;
-
-    /** Reference to the current document data. This is the current help document that the user is on. */
+    /**
+     * Reference to the current document data. This is the current help document that the user is on.
+     */
     DocumentData currentDocument;
+    /**
+     * Reference to the InGameHelpRegistry. This will be necessary for determining what prefabs fall under this
+     * category.
+     */
+    private ItemsCategoryInGameHelpRegistry itemsCategoryInGameHelpRegistry;
 
     /**
      * Default constructor. Use this if you don't have an ItemsCategoryInGameHelpRegistry instance yet.
@@ -66,8 +60,8 @@ public class CookingCategory implements HelpCategory {
     /**
      * Create an instance of this help category.
      *
-     * @param itemsCategoryInGameHelpRegistry   Reference to the items category in game help registry. This will contain
-     *                                          all known items that have an InGameHelp component.
+     * @param itemsCategoryInGameHelpRegistry Reference to the items category in game help registry. This will
+     *         contain all known items that have an InGameHelp component.
      */
     public CookingCategory(ItemsCategoryInGameHelpRegistry itemsCategoryInGameHelpRegistry) {
         this.itemsCategoryInGameHelpRegistry = itemsCategoryInGameHelpRegistry;
@@ -76,8 +70,8 @@ public class CookingCategory implements HelpCategory {
     /**
      * Set the reference to the titular registry.
      *
-     * @param reg   Reference to the items category in game help registry. This will contain all known items that have
-     *              an InGameHelp component.
+     * @param reg Reference to the items category in game help registry. This will contain all known items that
+     *         have an InGameHelp component.
      */
     public void setRegistry(ItemsCategoryInGameHelpRegistry reg) {
         this.itemsCategoryInGameHelpRegistry = reg;
@@ -125,10 +119,12 @@ public class CookingCategory implements HelpCategory {
                 // Get the icon and name of this prefab, and add it to the document.
                 FlowParagraphData imageNameParagraph = new FlowParagraphData(null);
                 documentData.addParagraph(imageNameParagraph);
-                imageNameParagraph.append(new WidgetFlowRenderable(new ItemWidget(itemPrefab.getName()), 48, 48, itemPrefab.getName()));
+                imageNameParagraph.append(new WidgetFlowRenderable(new ItemWidget(itemPrefab.getName()), 48, 48,
+                        itemPrefab.getName()));
                 DisplayNameComponent displayNameComponent = itemPrefab.getComponent(DisplayNameComponent.class);
                 if (displayNameComponent != null) {
-                    imageNameParagraph.append(new TextFlowRenderable(displayNameComponent.name, titleRenderStyle, null));
+                    imageNameParagraph.append(new TextFlowRenderable(displayNameComponent.name, titleRenderStyle,
+                            null));
                 } else {
                     imageNameParagraph.append(new TextFlowRenderable(itemPrefab.getName(), titleRenderStyle, null));
                 }
@@ -152,7 +148,8 @@ public class CookingCategory implements HelpCategory {
                 items.put(itemPrefab.getName(), documentData);
 
                 // Add this to the root document.
-                itemListParagraph.append(new WidgetFlowRenderable(new ItemWidget(itemPrefab.getName()), 48, 48, itemPrefab.getName()));
+                itemListParagraph.append(new WidgetFlowRenderable(new ItemWidget(itemPrefab.getName()), 48, 48,
+                        itemPrefab.getName()));
             }
         }
     }
@@ -160,7 +157,7 @@ public class CookingCategory implements HelpCategory {
     /**
      * Get the category name of this help section.
      *
-     * @return  The name of this category,
+     * @return The name of this category,
      */
     @Override
     public String getCategoryName() {
@@ -170,7 +167,7 @@ public class CookingCategory implements HelpCategory {
     /**
      * Get the document data for this category. If this category hasn't been initialized yet, then do so.
      *
-     * @return  Either the root document if the current document is null, or the current document.
+     * @return Either the root document if the current document is null, or the current document.
      */
     @Override
     public DocumentData getDocumentData() {
@@ -193,13 +190,14 @@ public class CookingCategory implements HelpCategory {
     /**
      * Handle navigation between the top and sub-documents.
      *
-     * @param hyperlink     What document to navigate to.
-     * @return              True if the document linked to exists. False if not.
+     * @param hyperlink What document to navigate to.
+     * @return True if the document linked to exists. False if not.
      */
     @Override
     public boolean handleNavigate(String hyperlink) {
         if (items.size() == 0) {
-            // Handle the case where we navigate before we have shown the screen.  There is probably a better way to do this.
+            // Handle the case where we navigate before we have shown the screen.  There is probably a better way to 
+            // do this.
             initialise();
         }
 

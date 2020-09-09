@@ -1,45 +1,27 @@
-/*
- * Copyright 2016 MovingBlocks
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *      http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
+// Copyright 2020 The Terasology Foundation
+// SPDX-License-Identifier: Apache-2.0
 
 package org.terasology.cooking.ui;
 
 import org.terasology.cooking.Cooking;
-import org.terasology.engine.Time;
-import org.terasology.entitySystem.entity.EntityRef;
+import org.terasology.engine.core.Time;
+import org.terasology.engine.entitySystem.entity.EntityRef;
+import org.terasology.engine.logic.players.LocalPlayer;
+import org.terasology.engine.registry.CoreRegistry;
+import org.terasology.engine.rendering.nui.BaseInteractionScreen;
 import org.terasology.fluid.component.FluidComponent;
 import org.terasology.fluid.component.FluidInventoryComponent;
 import org.terasology.fluid.system.FluidRegistry;
 import org.terasology.fluid.ui.FluidContainerWidget;
-import org.terasology.heat.component.HeatProducerComponent;
-import org.terasology.heat.ui.ThermometerWidget;
-import org.terasology.logic.players.LocalPlayer;
+import org.terasology.inventory.rendering.nui.layers.ingame.InventoryGrid;
 import org.terasology.math.TeraMath;
-import org.terasology.processing.ui.VerticalTextureProgressWidget;
-import org.terasology.processing.ui.WorkstationScreenUtils;
-import org.terasology.registry.CoreRegistry;
-import org.terasology.rendering.nui.BaseInteractionScreen;
 import org.terasology.nui.databinding.Binding;
 import org.terasology.nui.databinding.ReadOnlyBinding;
-import org.terasology.rendering.nui.layers.ingame.inventory.InventoryGrid;
 import org.terasology.nui.widgets.UILoadBar;
+import org.terasology.processing.ui.WorkstationScreenUtils;
 import org.terasology.workstation.component.WorkstationInventoryComponent;
 import org.terasology.workstation.component.WorkstationProcessingComponent;
 import org.terasology.workstationCrafting.ui.workstation.StationAvailableRecipesWidget;
-
-import java.util.List;
 
 /**
  * This interaction screen defines how the MixingBowl will look and be interacted with.
@@ -86,7 +68,7 @@ public class MixingBowlWindow extends BaseInteractionScreen {
     /**
      * Upon opening the HerbalismStation window, setup the UI widgets.
      *
-     * @param station   EntityRef of the workstation in question.
+     * @param station EntityRef of the workstation in question.
      */
     @Override
     protected void initializeWithInteractionTarget(final EntityRef station) {
@@ -94,7 +76,8 @@ public class MixingBowlWindow extends BaseInteractionScreen {
         WorkstationInventoryComponent workstationInventory = station.getComponent(WorkstationInventoryComponent.class);
 
         // Get the slot assignments of this inventory.
-        WorkstationInventoryComponent.SlotAssignment fluidInputAssignments = workstationInventory.slotAssignments.get("FLUID_INPUT");
+        WorkstationInventoryComponent.SlotAssignment fluidInputAssignments =
+                workstationInventory.slotAssignments.get("FLUID_INPUT");
 
         // Setup the inventory grids for the following widgets.
         WorkstationScreenUtils.setupInventoryGrid(station, ingredientsInventory, "INPUT");
@@ -167,7 +150,8 @@ public class MixingBowlWindow extends BaseInteractionScreen {
                     @Override
                     public String get() {
                         FluidInventoryComponent fluidInventory = station.getComponent(FluidInventoryComponent.class);
-                        final FluidComponent fluid = fluidInventory.fluidSlots.get(waterSlot).getComponent(FluidComponent.class);
+                        final FluidComponent fluid =
+                                fluidInventory.fluidSlots.get(waterSlot).getComponent(FluidComponent.class);
                         if (fluid == null) {
                             return "0ml";
                         } else {
@@ -184,11 +168,13 @@ public class MixingBowlWindow extends BaseInteractionScreen {
                     // Return a progress bar indicating the current progress of crafting (if currently running).
                     @Override
                     public Boolean get() {
-                        WorkstationProcessingComponent processing = station.getComponent(WorkstationProcessingComponent.class);
+                        WorkstationProcessingComponent processing =
+                                station.getComponent(WorkstationProcessingComponent.class);
                         if (processing == null) {
                             return false;
                         }
-                        WorkstationProcessingComponent.ProcessDef cookingProcess = processing.processes.get(Cooking.COOKING_PROCESS_TYPE);
+                        WorkstationProcessingComponent.ProcessDef cookingProcess =
+                                processing.processes.get(Cooking.COOKING_PROCESS_TYPE);
                         return cookingProcess != null;
                     }
 
@@ -202,11 +188,13 @@ public class MixingBowlWindow extends BaseInteractionScreen {
                     // Return the current progress percentage.
                     @Override
                     public Float get() {
-                        WorkstationProcessingComponent processing = station.getComponent(WorkstationProcessingComponent.class);
+                        WorkstationProcessingComponent processing =
+                                station.getComponent(WorkstationProcessingComponent.class);
                         if (processing == null) {
                             return 1f;
                         }
-                        WorkstationProcessingComponent.ProcessDef cookingProcess = processing.processes.get(Cooking.COOKING_PROCESS_TYPE);
+                        WorkstationProcessingComponent.ProcessDef cookingProcess =
+                                processing.processes.get(Cooking.COOKING_PROCESS_TYPE);
                         if (cookingProcess == null) {
                             return 1f;
                         }

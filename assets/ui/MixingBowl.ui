@@ -1,155 +1,155 @@
 {
-    "type": "MixingBowlWindow",
-    "skin": "WorkstationCrafting:CraftingStation",
-    "contents": {
+  "type": "MixingBowlWindow",
+  "skin": "WorkstationCrafting:CraftingStation",
+  "contents": {
+    "type": "relativeLayout",
+    "contents": [
+      {
         "type": "relativeLayout",
         "contents": [
-            {
-                "type": "relativeLayout",
-                "contents": [
-                    {
-                        "type": "ScrollableArea",
-                        "content": {
-                            "type": "InventoryGrid",
-                            "id": "ingredientsInventory"
-                        },
-                        "layoutInfo": {
-                            "width": 128,
-                            "height": 250,
-                            "position-left": {
-                                "offset": 0
-                            },
-                            "position-top": {
-                                "offset": 45
-                            }
-                        }
-                    },
-                    {
-                        "type": "InventoryGrid",
-                        "id": "toolsInventory",
-                        "layoutInfo": {
-                            "width": 128,
-                            "height": 56,
-                            "position-left": {
-                                "offset": 0
-                            },
-                            "position-top": {
-                                "offset": 316
-                            }
-                        }
-                    },
-                    {
-                        "type": "InventoryGrid",
-                        "id": "fluidContainerInput",
-                        "layoutInfo": {
-                            "width": 56,
-                            "height": 56,
-                            "position-left": {
-                                "offset": 136
-                            },
-                            "position-top": {
-                                "offset": 45
-                            }
-                        }
-                    },
-                    {
-                        "type": "FluidHolderWidget",
-                        "id": "fluidContainer",
-                        "image": "WorkstationCrafting:FluidHolder",
-                        "layoutInfo": {
-                            "width": 50,
-                            "height": 150,
-                            "position-left": {
-                                "offset": 246
-                            },
-                            "position-top": {
-                                "offset": 50
-                            }
-                        }
-                    },
-                    {
-                        "type": "InventoryGrid",
-                        "id": "fluidContainerOutput",
-                        "layoutInfo": {
-                            "width": 56,
-                            "height": 56,
-                            "position-left": {
-                                "offset": 136
-                            },
-                            "position-top": {
-                                "offset": 316
-                            }
-                        }
-                    },
-                    {
-                        "type": "ScrollableArea",
-                        "content": {
-                            "type": "StationAvailableRecipesWidget",
-                            "id": "availableRecipes"
-                        },
-                        "layoutInfo": {
-                            "width": 315,
-                            "height": 250,
-                            "position-left": {
-                                "offset": 250
-                            },
-                            "position-top": {
-                                "offset": 45
-                            }
-                        }
-                    },
-                    {
-                        "type": "UILoadBar",
-                        "fillTexture": "engine:statusBar",
-                        "id": "craftingProgress",
-                        "animate": false,
-                        "layoutInfo": {
-                            "width": 56,
-                            "height": 10,
-                            "position-left": {
-                                "offset": 509
-                            },
-                            "position-top": {
-                                "offset": 311
-                            }
-                        }
-                    },
-                    {
-                        "type": "InventoryGrid",
-                        "id": "resultInventory",
-                        "layoutInfo": {
-                            "width": 56,
-                            "height": 56,
-                            "position-left": {
-                                "offset": 556
-                            },
-                            "position-top": {
-                                "offset": 316
-                            }
-                        }
-                    },
-                    {
-                        "type": "InventoryGrid",
-                        "id": "playerInventory",
-                        "layoutInfo": {
-                            "width": 560,
-                            "height": 168,
-                            "position-left": {
-                                "offset": 52
-                            },
-                            "position-top": {
-                                "offset": 377
-                            }
-                        }
-                    }
-                ],
-                "layoutInfo": {
-                    "width": 665,
-                    "height": 550,
-                    "position-horizontal-center": {},
-                    "position-vertical-center": {}
-                }
+          {
+            "type": "ScrollableArea",
+            "content": {
+              "type": "InventoryGrid",
+              "id": "ingredientsInventory"
+            },
+            "layoutInfo": {
+              "width": 128,
+              "height": 250,
+              "position-left": {
+                "offset": 0
+              },
+              "position-top": {
+                "offset": 45
+              }
             }
-        ]
-    }
+          },
+          {
+            "type": "InventoryGrid",
+            "id": "toolsInventory",
+            "layoutInfo": {
+              "width": 128,
+              "height": 56,
+              "position-left": {
+                "offset": 0
+              },
+              "position-top": {
+                "offset": 316
+              }
+            }
+          },
+          {
+            "type": "InventoryGrid",
+            "id": "fluidContainerInput",
+            "layoutInfo": {
+              "width": 56,
+              "height": 56,
+              "position-left": {
+                "offset": 136
+              },
+              "position-top": {
+                "offset": 45
+              }
+            }
+          },
+          {
+            "type": "FluidHolderWidget",
+            "id": "fluidContainer",
+            "image": "WorkstationCrafting:FluidHolder",
+            "layoutInfo": {
+              "width": 50,
+              "height": 150,
+              "position-left": {
+                "offset": 246
+              },
+              "position-top": {
+                "offset": 50
+              }
+            }
+          },
+          {
+            "type": "InventoryGrid",
+            "id": "fluidContainerOutput",
+            "layoutInfo": {
+              "width": 56,
+              "height": 56,
+              "position-left": {
+                "offset": 136
+              },
+              "position-top": {
+                "offset": 316
+              }
+            }
+          },
+          {
+            "type": "ScrollableArea",
+            "content": {
+              "type": "StationAvailableRecipesWidget",
+              "id": "availableRecipes"
+            },
+            "layoutInfo": {
+              "width": 315,
+              "height": 250,
+              "position-left": {
+                "offset": 250
+              },
+              "position-top": {
+                "offset": 45
+              }
+            }
+          },
+          {
+            "type": "UILoadBar",
+            "fillTexture": "engine:statusBar",
+            "id": "craftingProgress",
+            "animate": false,
+            "layoutInfo": {
+              "width": 56,
+              "height": 10,
+              "position-left": {
+                "offset": 509
+              },
+              "position-top": {
+                "offset": 311
+              }
+            }
+          },
+          {
+            "type": "InventoryGrid",
+            "id": "resultInventory",
+            "layoutInfo": {
+              "width": 56,
+              "height": 56,
+              "position-left": {
+                "offset": 556
+              },
+              "position-top": {
+                "offset": 316
+              }
+            }
+          },
+          {
+            "type": "InventoryGrid",
+            "id": "playerInventory",
+            "layoutInfo": {
+              "width": 560,
+              "height": 168,
+              "position-left": {
+                "offset": 52
+              },
+              "position-top": {
+                "offset": 377
+              }
+            }
+          }
+        ],
+        "layoutInfo": {
+          "width": 665,
+          "height": 550,
+          "position-horizontal-center": {},
+          "position-vertical-center": {}
+        }
+      }
+    ]
+  }
 }
