@@ -3,7 +3,7 @@
 
 package org.terasology.cooking.system;
 
-import org.terasology.crafting.events.OnRecipeCrafted;
+import org.terasology.basiccrafting.events.OnRecipeCrafted;
 import org.terasology.engine.entitySystem.entity.EntityRef;
 import org.terasology.engine.entitySystem.event.ReceiveEvent;
 import org.terasology.engine.entitySystem.systems.BaseComponentSystem;
