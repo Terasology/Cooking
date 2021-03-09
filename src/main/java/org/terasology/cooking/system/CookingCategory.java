@@ -17,24 +17,24 @@ package org.terasology.cooking.system;
 
 import com.google.common.collect.Iterables;
 import com.google.common.collect.Maps;
-import org.terasology.entitySystem.prefab.Prefab;
+import org.terasology.engine.entitySystem.prefab.Prefab;
+import org.terasology.engine.logic.common.DisplayNameComponent;
+import org.terasology.engine.rendering.assets.font.Font;
+import org.terasology.engine.rendering.nui.widgets.browser.data.DocumentData;
+import org.terasology.engine.rendering.nui.widgets.browser.data.basic.FlowParagraphData;
+import org.terasology.engine.rendering.nui.widgets.browser.data.basic.flow.TextFlowRenderable;
+import org.terasology.engine.rendering.nui.widgets.browser.data.html.HTMLDocument;
+import org.terasology.engine.rendering.nui.widgets.browser.ui.style.ContainerInteger;
+import org.terasology.engine.rendering.nui.widgets.browser.ui.style.FixedContainerInteger;
+import org.terasology.engine.rendering.nui.widgets.browser.ui.style.ParagraphRenderStyle;
+import org.terasology.engine.rendering.nui.widgets.browser.ui.style.TextRenderStyle;
+import org.terasology.engine.utilities.Assets;
 import org.terasology.inGameHelpAPI.ItemsCategoryInGameHelpRegistry;
 import org.terasology.inGameHelpAPI.components.HelpItem;
 import org.terasology.inGameHelpAPI.components.ItemHelpComponent;
 import org.terasology.inGameHelpAPI.systems.HelpCategory;
 import org.terasology.inGameHelpAPI.ui.ItemWidget;
 import org.terasology.inGameHelpAPI.ui.WidgetFlowRenderable;
-import org.terasology.logic.common.DisplayNameComponent;
-import org.terasology.rendering.assets.font.Font;
-import org.terasology.rendering.nui.widgets.browser.data.DocumentData;
-import org.terasology.rendering.nui.widgets.browser.data.basic.FlowParagraphData;
-import org.terasology.rendering.nui.widgets.browser.data.basic.flow.TextFlowRenderable;
-import org.terasology.rendering.nui.widgets.browser.data.html.HTMLDocument;
-import org.terasology.rendering.nui.widgets.browser.ui.style.ContainerInteger;
-import org.terasology.rendering.nui.widgets.browser.ui.style.FixedContainerInteger;
-import org.terasology.rendering.nui.widgets.browser.ui.style.ParagraphRenderStyle;
-import org.terasology.rendering.nui.widgets.browser.ui.style.TextRenderStyle;
-import org.terasology.utilities.Assets;
 
 import java.util.Map;
 
