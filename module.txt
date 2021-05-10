@@ -22,6 +22,10 @@
       "minVersion": "2.0.0"
     },
     {
+      "id": "Health",
+      "minVersion": "2.0.0-SNAPSHOT"
+    },    
+    {
       "id": "Hunger",
       "minVersion": "1.1.0"
     },

@@ -82,9 +82,11 @@
     "Health": {
         "currentHealth": 5,
         "maxHealth": 5,
-        "regenRate": 1,
-        "waitBeforeRegen": 2,
         "destroyEntityOnNoHealth": true
+    },
+    "BaseRegen": {
+        "regenRate": 1,
+        "waitBeforeRegen": 2
     },
     "ActAsBlock": {
         "block": "WorkstationCrafting:StandardWoodStation"
