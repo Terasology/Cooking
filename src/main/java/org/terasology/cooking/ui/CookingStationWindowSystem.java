@@ -17,12 +17,12 @@ package org.terasology.cooking.ui;
 
 import org.terasology.engine.entitySystem.entity.EntityManager;
 import org.terasology.engine.entitySystem.entity.EntityRef;
-import org.terasology.engine.entitySystem.event.ReceiveEvent;
 import org.terasology.engine.entitySystem.systems.BaseComponentSystem;
 import org.terasology.engine.entitySystem.systems.RegisterSystem;
 import org.terasology.engine.logic.characters.interactions.InteractionScreenComponent;
 import org.terasology.engine.registry.In;
 import org.terasology.engine.rendering.nui.NUIManager;
+import org.terasology.gestalt.entitysystem.event.ReceiveEvent;
 import org.terasology.module.inventory.events.BeforeItemPutInInventory;
 import org.terasology.module.inventory.events.BeforeItemRemovedFromInventory;
 import org.terasology.module.inventory.events.InventorySlotStackSizeChangedEvent;

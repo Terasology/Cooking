@@ -5,10 +5,10 @@ package org.terasology.cooking.system;
 
 import org.terasology.crafting.events.OnRecipeCrafted;
 import org.terasology.engine.entitySystem.entity.EntityRef;
-import org.terasology.engine.entitySystem.event.ReceiveEvent;
 import org.terasology.engine.entitySystem.systems.BaseComponentSystem;
 import org.terasology.engine.entitySystem.systems.RegisterMode;
 import org.terasology.engine.entitySystem.systems.RegisterSystem;
+import org.terasology.gestalt.entitysystem.event.ReceiveEvent;
 import org.terasology.hunger.component.FoodComponent;
 
 @RegisterSystem(RegisterMode.AUTHORITY)
