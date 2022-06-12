@@ -256,10 +256,10 @@
       }
       "Cooking:CookedBean": {
         "inputs": {
-          "Cooking:bean":1,
-          "Cooking:onion":1,
-          "Cooking:tomato":1,
-          "Cooking:salt":1
+          "Cooking:bean": 1,
+          "Cooking:onion": 1,
+          "Cooking:tomato": 3,
+          "Cooking:salt": 1
         },
         "outputCount": 1
       }
@@ -269,31 +269,31 @@
         },
         "outputCount": 1
       }
-      "CookedCorn": {
+      "Cooking:CookedCorn": {
         "inputs": {
           "Cooking:maize": 1
         },
         "outputCount": 1
       }
-      "cookedKale": {
+      "Cooking:CookedKale": {
         "inputs": {
           "Cooking:kale": 1
         },
         "outputCount": 1
       }
-      CookedRice: {
+      "Cooking:CookedRice": {
         "inputs": {
-          "Cooking:rice": 1
+          "Cooking:whiteRice": 1
         },
         "outputCount": 1
       }
-      "CookedTurnip": {
+      "Cooking:CookedTurnip": {
         "inputs": {
           "PlantPack:turnip": 1
         },
         "outputCount": 1
       }
-      "Croutons": {
+      "Cooking:Croutons": {
         "inputs": {
           "Cooking:bread": 1,
           "Cooking:salt": 1,
@@ -301,7 +301,7 @@
         },
         "outputCount": 1
       }
-      "PeachPie": {
+      "Cooking:PeachPie": {
         "inputs": {
           "Cooking:flour": 1,
           "Cooking:sugar": 1,
@@ -309,7 +309,7 @@
         },
         "outputCount": 1
       }
-      "PumpkinSoup": {
+      "Cooking:PumpkinSoup": {
         "inputs": {
           "Cooking:pumpkin": 3,
           "Cooking:groundSalt": 1,
@@ -317,14 +317,14 @@
         },
         "outputCount": 1
       }
-      "RoastPotatoes": {
+      "Cooking:RoastPotatoes": {
         "inputs": {
           "Cooking:butter": 1,
           "Cooking:potato": 3
         },
         "outputCount": 1
       }
-      "SauteedApples": {
+      "Cooking:SauteedApples": {
         "inputs": {
           "Cooking:flour": 1,
           "Cooking:brownSugar": 1,
